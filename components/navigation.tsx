@@ -34,11 +34,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <div className="flex items-center pt-[15px]">
-            {isScrolled ? (
-              <img src="/Untitled design.png" alt="Safawala" className="h-14 md:h-16 w-auto" />
-            ) : (
-              <img src="/safawalalogo.png" alt="Safawala" className="h-14 md:h-20 w-auto" />
-            )}
+            <img src="https://safawalajaipur.com/safawalalogo.png" alt="Safawala" className="h-14 md:h-16 w-auto" />
           </div>
 
           {/* Desktop Navigation */}

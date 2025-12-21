@@ -1,4 +1,7 @@
-import { Crown, Users, Award, Heart } from "lucide-react"
+"use client"
+
+import { Crown, Users, Award, Heart, Play } from "lucide-react"
+import { useState } from "react"
 
 const features = [
   {
@@ -24,6 +27,8 @@ const features = [
 ]
 
 export function AboutSection() {
+  const [isVideoPlaying, setIsVideoPlaying] = useState(false)
+
   return (
     <section id="about" className="py-20 md:py-32 bg-card">
       <div className="container mx-auto px-4">
@@ -37,6 +42,32 @@ export function AboutSection() {
               "Safawala is Jaipur's leading wedding turban specialist, offering premium safa and pagdi services for grooms and baraatis. With 40+ years of expertise, we combine traditional Rajasthani craftsmanship with contemporary designs to create the perfect turban for your special day."
             }
           </p>
+        </div>
+
+        {/* Video Section */}
+        <div className="relative w-full max-w-2xl mx-auto mb-20 rounded-lg overflow-hidden shadow-2xl">
+          {!isVideoPlaying ? (
+            <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
+              <img
+                src="/video-thumb-1.jpg"
+                alt="Main video thumbnail"
+                className="w-full object-cover aspect-video"
+              />
+              <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
+                <div className="bg-primary rounded-full p-6 group-hover:scale-110 transition-transform">
+                  <Play className="w-8 h-8 text-primary-foreground fill-primary-foreground" />
+                </div>
+              </div>
+            </div>
+          ) : (
+            <video
+              src="/main video.mp4"
+              autoPlay
+              controls
+              className="w-full aspect-video"
+              onEnded={() => setIsVideoPlaying(false)}
+            />
+          )}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

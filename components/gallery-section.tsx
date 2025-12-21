@@ -4,12 +4,10 @@ import { useState } from "react"
 import { Play, X } from "lucide-react"
 
 const galleryItems = [
-  { id: 32, type: "video", thumbnail: "/video-thumb-1.jpg", videoSrc: "/video-1.mp4", title: "Turban Styling Video 1" },
   { id: 33, type: "video", thumbnail: "/video-thumb-2.jpg", videoSrc: "/video-2.mp4", title: "Turban Styling Video 2" },
   { id: 34, type: "video", thumbnail: "/video-thumb-3.jpg", videoSrc: "/video-3.mp4", title: "Turban Styling Video 3" },
   { id: 35, type: "video", thumbnail: "/video-thumb-4.jpg", videoSrc: "/video-4.mp4", title: "Turban Styling Video 4" },
   { id: 36, type: "video", thumbnail: "/video-thumb-5.jpg", videoSrc: "/video-5.mp4", title: "Turban Styling Video 5" },
-  { id: 37, type: "video", thumbnail: "/video-thumb-6.jpg", videoSrc: "/video-6.mp4", title: "Turban Styling Video 6" },
   { id: 38, type: "video", thumbnail: "/video-thumb-7.jpg", videoSrc: "/video-7.mp4", title: "Turban Styling Video 7" },
   { id: 39, type: "video", thumbnail: "/video-thumb-8.jpg", videoSrc: "/video-8.mp4", title: "Turban Styling Video 8" },
   { id: 40, type: "video", thumbnail: "/video-thumb-9.jpg", videoSrc: "/video-9.mp4", title: "Turban Styling Video 9" },

@@ -226,7 +226,7 @@ export function HeroSlider() {
       </button>
 
       {/* Dots Indicator */}
-      <div className="absolute bottom-4 md:bottom-8 left-1/2 -translate-x-1/2 z-30 flex gap-2">
+      <div className="absolute bottom-20 md:bottom-24 left-1/2 -translate-x-1/2 z-30 flex gap-2">
         {slides.map((_, index) => (
           <button
             key={index}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/foreigner-turban-experience-jaipur/layout,_N_T_/foreigner-turban-experience-jaipur/page,_N_T_/foreigner-turban-experience-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/foreigner-turban-experience-jaipur/__PAGE__",
+    "/foreigner-turban-experience-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

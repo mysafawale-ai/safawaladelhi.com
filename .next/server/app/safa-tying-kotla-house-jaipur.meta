@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/safa-tying-kotla-house-jaipur/layout,_N_T_/safa-tying-kotla-house-jaipur/page,_N_T_/safa-tying-kotla-house-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/safa-tying-kotla-house-jaipur/__PAGE__",
+    "/safa-tying-kotla-house-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

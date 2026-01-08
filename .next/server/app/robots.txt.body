@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /private/
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: bingbot
+Allow: /
+Crawl-delay: 0.5
+
+Sitemap: https://safawala.com/sitemap.xml

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/wedding-turban-mansarovar-location/layout,_N_T_/wedding-turban-mansarovar-location/page,_N_T_/wedding-turban-mansarovar-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/wedding-turban-mansarovar-location/__PAGE__",
+    "/wedding-turban-mansarovar-location",
+    "/_index",
+    "/_head"
+  ]
+}

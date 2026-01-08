@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Applications/wedding-turban-landing-page",
+    "outputFileTracingRoot": "/Applications/Jaipur",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -289,11 +289,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "/Applications/wedding-turban-landing-page"
+      "root": "/Applications/Jaipur"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Applications/wedding-turban-landing-page",
+  "appDir": "/Applications/Jaipur",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",

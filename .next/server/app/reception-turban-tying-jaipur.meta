@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/reception-turban-tying-jaipur/layout,_N_T_/reception-turban-tying-jaipur/page,_N_T_/reception-turban-tying-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/reception-turban-tying-jaipur/__PAGE__",
+    "/reception-turban-tying-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

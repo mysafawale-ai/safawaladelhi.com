@@ -50,6 +50,648 @@
       "regex": "^/admin/login(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/admin/login(?:/)?$"
+    },
+    {
+      "page": "/baraat-pagdi-rental-and-tying-jaipur",
+      "regex": "^/baraat\\-pagdi\\-rental\\-and\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/baraat\\-pagdi\\-rental\\-and\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/barat-safa-pagdi-package-jaipur",
+      "regex": "^/barat\\-safa\\-pagdi\\-package\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/barat\\-safa\\-pagdi\\-package\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/barat-turban-vidhyadhar-nagar-location",
+      "regex": "^/barat\\-turban\\-vidhyadhar\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/barat\\-turban\\-vidhyadhar\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/barati-safa-pagdi-jaipur",
+      "regex": "^/barati\\-safa\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/barati\\-safa\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/barati-safa-sindhi-camp-location",
+      "regex": "^/barati\\-safa\\-sindhi\\-camp\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/barati\\-safa\\-sindhi\\-camp\\-location(?:/)?$"
+    },
+    {
+      "page": "/bridal-family-turban-tying-jaipur",
+      "regex": "^/bridal\\-family\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/bridal\\-family\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/business-event-turban-service-jaipur",
+      "regex": "^/business\\-event\\-turban\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/business\\-event\\-turban\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/colourful-bandhej-safa-jaipur",
+      "regex": "^/colourful\\-bandhej\\-safa\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/colourful\\-bandhej\\-safa\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/corporate-and-wedding-turban-tying-jaipur",
+      "regex": "^/corporate\\-and\\-wedding\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/corporate\\-and\\-wedding\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/corporate-event-turban-tying-jaipur",
+      "regex": "^/corporate\\-event\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/corporate\\-event\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/designer-rajasthani-safa-jaipur",
+      "regex": "^/designer\\-rajasthani\\-safa\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/designer\\-rajasthani\\-safa\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/designer-wedding-safa-jaipur",
+      "regex": "^/designer\\-wedding\\-safa\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/designer\\-wedding\\-safa\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/destination-wedding-safa-jaipur",
+      "regex": "^/destination\\-wedding\\-safa\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination\\-wedding\\-safa\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/family-matching-safa-pagdi-jaipur",
+      "regex": "^/family\\-matching\\-safa\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/family\\-matching\\-safa\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/festival-pagdi-tying-jaipur",
+      "regex": "^/festival\\-pagdi\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/festival\\-pagdi\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/floral-safa-pagdi-jaipur",
+      "regex": "^/floral\\-safa\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/floral\\-safa\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/floral-sehra-pagdi-jaipur",
+      "regex": "^/floral\\-sehra\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/floral\\-sehra\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/foreigner-turban-experience-jaipur",
+      "regex": "^/foreigner\\-turban\\-experience\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/foreigner\\-turban\\-experience\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/gota-patti-safa-pagdi-jaipur",
+      "regex": "^/gota\\-patti\\-safa\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/gota\\-patti\\-safa\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/groom-pagdi-ganj-katla-location",
+      "regex": "^/groom\\-pagdi\\-ganj\\-katla\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/groom\\-pagdi\\-ganj\\-katla\\-location(?:/)?$"
+    },
+    {
+      "page": "/groom-pagdi-tying-service-jaipur",
+      "regex": "^/groom\\-pagdi\\-tying\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/groom\\-pagdi\\-tying\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/groom-safa-malviya-nagar-location",
+      "regex": "^/groom\\-safa\\-malviya\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/groom\\-safa\\-malviya\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/groom-sherwani-turban-coordination-jaipur",
+      "regex": "^/groom\\-sherwani\\-turban\\-coordination\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/groom\\-sherwani\\-turban\\-coordination\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/groom-turban-lal-kothi-location",
+      "regex": "^/groom\\-turban\\-lal\\-kothi\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/groom\\-turban\\-lal\\-kothi\\-location(?:/)?$"
+    },
+    {
+      "page": "/jaipur-safa-pagdi-on-rent-with-tying",
+      "regex": "^/jaipur\\-safa\\-pagdi\\-on\\-rent\\-with\\-tying(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/jaipur\\-safa\\-pagdi\\-on\\-rent\\-with\\-tying(?:/)?$"
+    },
+    {
+      "page": "/jaipur-turban-tying-for-guests",
+      "regex": "^/jaipur\\-turban\\-tying\\-for\\-guests(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/jaipur\\-turban\\-tying\\-for\\-guests(?:/)?$"
+    },
+    {
+      "page": "/jodhpuri-pagdi-tying-jaipur",
+      "regex": "^/jodhpuri\\-pagdi\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/jodhpuri\\-pagdi\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/ladkewale-turban-tying-jaipur",
+      "regex": "^/ladkewale\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ladkewale\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/ladkiwale-pagdi-tying-jaipur",
+      "regex": "^/ladkiwale\\-pagdi\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ladkiwale\\-pagdi\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/luxury-premium-turban-service-jaipur",
+      "regex": "^/luxury\\-premium\\-turban\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/luxury\\-premium\\-turban\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/marathi-pheta-tying-jaipur",
+      "regex": "^/marathi\\-pheta\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/marathi\\-pheta\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/marwari-safa-tying-in-jaipur",
+      "regex": "^/marwari\\-safa\\-tying\\-in\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/marwari\\-safa\\-tying\\-in\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/marwari-safa-tying-jaipur",
+      "regex": "^/marwari\\-safa\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/marwari\\-safa\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/marwari-wedding-pagdi-jaipur",
+      "regex": "^/marwari\\-wedding\\-pagdi\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/marwari\\-wedding\\-pagdi\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/mehndi-function-safa-tying-jaipur",
+      "regex": "^/mehndi\\-function\\-safa\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/mehndi\\-function\\-safa\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/mehndi-haldi-safa-tying-jaipur",
+      "regex": "^/mehndi\\-haldi\\-safa\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/mehndi\\-haldi\\-safa\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/muslim-wedding-turban-tying-jaipur",
+      "regex": "^/muslim\\-wedding\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/muslim\\-wedding\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/online-turban-tying-consultation-jaipur",
+      "regex": "^/online\\-turban\\-tying\\-consultation\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/online\\-turban\\-tying\\-consultation\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/pagdi-artist-ganesh-mandi-location",
+      "regex": "^/pagdi\\-artist\\-ganesh\\-mandi\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-artist\\-ganesh\\-mandi\\-location(?:/)?$"
+    },
+    {
+      "page": "/pagdi-bandhne-wala-in-jaipur",
+      "regex": "^/pagdi\\-bandhne\\-wala\\-in\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-bandhne\\-wala\\-in\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/pagdi-service-kalyan-vihar-location",
+      "regex": "^/pagdi\\-service\\-kalyan\\-vihar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-service\\-kalyan\\-vihar\\-location(?:/)?$"
+    },
+    {
+      "page": "/pagdi-service-rani-sagar-jaipur",
+      "regex": "^/pagdi\\-service\\-rani\\-sagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-service\\-rani\\-sagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/pagdi-service-vaishali-nagar-jaipur",
+      "regex": "^/pagdi\\-service\\-vaishali\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-service\\-vaishali\\-nagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/pagdi-service-vaishali-nagar-location",
+      "regex": "^/pagdi\\-service\\-vaishali\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-service\\-vaishali\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/pagdi-tying-artist-jaipur",
+      "regex": "^/pagdi\\-tying\\-artist\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-tying\\-artist\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/pagdi-tying-tonk-road-location",
+      "regex": "^/pagdi\\-tying\\-tonk\\-road\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-tying\\-tonk\\-road\\-location(?:/)?$"
+    },
+    {
+      "page": "/pagdi-wala-raja-park-location",
+      "regex": "^/pagdi\\-wala\\-raja\\-park\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-wala\\-raja\\-park\\-location(?:/)?$"
+    },
+    {
+      "page": "/pagdi-wala-ramesh-nagar-location",
+      "regex": "^/pagdi\\-wala\\-ramesh\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pagdi\\-wala\\-ramesh\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/premium-groom-turban-service-jaipur",
+      "regex": "^/premium\\-groom\\-turban\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/premium\\-groom\\-turban\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/professional-safa-service-bapu-nagar-jaipur",
+      "regex": "^/professional\\-safa\\-service\\-bapu\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-safa\\-service\\-bapu\\-nagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/professional-turban-artist-jaipur",
+      "regex": "^/professional\\-turban\\-artist\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-turban\\-artist\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/punjabi-turban-tying-jaipur",
+      "regex": "^/punjabi\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/punjabi\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/quick-turban-tying-service-jaipur",
+      "regex": "^/quick\\-turban\\-tying\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/quick\\-turban\\-tying\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/rajasthani-heritage-turban-tying-jaipur",
+      "regex": "^/rajasthani\\-heritage\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rajasthani\\-heritage\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/rajasthani-turban-tying-jaipur",
+      "regex": "^/rajasthani\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rajasthani\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/rajputi-pagdi-for-groom-jaipur",
+      "regex": "^/rajputi\\-pagdi\\-for\\-groom\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rajputi\\-pagdi\\-for\\-groom\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/reception-turban-tying-jaipur",
+      "regex": "^/reception\\-turban\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/reception\\-turban\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/robots.txt",
+      "regex": "^/robots\\.txt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/robots\\.txt(?:/)?$"
+    },
+    {
+      "page": "/royal-rajwadi-safa-tying-jaipur",
+      "regex": "^/royal\\-rajwadi\\-safa\\-tying\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/royal\\-rajwadi\\-safa\\-tying\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/royal-safa-shyam-nagar-location",
+      "regex": "^/royal\\-safa\\-shyam\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/royal\\-safa\\-shyam\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/royal-turban-bani-park-location",
+      "regex": "^/royal\\-turban\\-bani\\-park\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/royal\\-turban\\-bani\\-park\\-location(?:/)?$"
+    },
+    {
+      "page": "/royal-wedding-safa-jaipur",
+      "regex": "^/royal\\-wedding\\-safa\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/royal\\-wedding\\-safa\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-near-bijnor-road-location",
+      "regex": "^/safa\\-near\\-bijnor\\-road\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-near\\-bijnor\\-road\\-location(?:/)?$"
+    },
+    {
+      "page": "/safa-pagdi-on-rent-jaipur",
+      "regex": "^/safa\\-pagdi\\-on\\-rent\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-pagdi\\-on\\-rent\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-pagdi-tying-wedding-jaipur",
+      "regex": "^/safa\\-pagdi\\-tying\\-wedding\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-pagdi\\-tying\\-wedding\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-service-ajmer-road-location",
+      "regex": "^/safa\\-service\\-ajmer\\-road\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-service\\-ajmer\\-road\\-location(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-at-venue-jaipur",
+      "regex": "^/safa\\-tying\\-at\\-venue\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-at\\-venue\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-bapu-nagar-location",
+      "regex": "^/safa\\-tying\\-bapu\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-bapu\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-brahampuri-jaipur",
+      "regex": "^/safa\\-tying\\-brahampuri\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-brahampuri\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-c-scheme-jaipur",
+      "regex": "^/safa\\-tying\\-c\\-scheme\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-c\\-scheme\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-c-scheme-location",
+      "regex": "^/safa\\-tying\\-c\\-scheme\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-c\\-scheme\\-location(?:/)?$"
+    },
+    {
+      "page": "/safa-tying-kotla-house-jaipur",
+      "regex": "^/safa\\-tying\\-kotla\\-house\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-tying\\-kotla\\-house\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/safa-wala-ram-nagar-location",
+      "regex": "^/safa\\-wala\\-ram\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/safa\\-wala\\-ram\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/sehra-and-pagdi-for-groom-jaipur",
+      "regex": "^/sehra\\-and\\-pagdi\\-for\\-groom\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sehra\\-and\\-pagdi\\-for\\-groom\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/sherwani-safa-turban-jaipur",
+      "regex": "^/sherwani\\-safa\\-turban\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sherwani\\-safa\\-turban\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/sitemap.xml",
+      "regex": "^/sitemap\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sitemap\\.xml(?:/)?$"
+    },
+    {
+      "page": "/traditional-rajasthani-pagri-jaipur",
+      "regex": "^/traditional\\-rajasthani\\-pagri\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/traditional\\-rajasthani\\-pagri\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-artist-ambedkar-circle-jaipur",
+      "regex": "^/turban\\-artist\\-ambedkar\\-circle\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-artist\\-ambedkar\\-circle\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-artist-subhash-nagar-jaipur",
+      "regex": "^/turban\\-artist\\-subhash\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-artist\\-subhash\\-nagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-near-jln-marg-location",
+      "regex": "^/turban\\-near\\-jln\\-marg\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-near\\-jln\\-marg\\-location(?:/)?$"
+    },
+    {
+      "page": "/turban-rental-with-tying-service-jaipur",
+      "regex": "^/turban\\-rental\\-with\\-tying\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-rental\\-with\\-tying\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-service-ramganj-location",
+      "regex": "^/turban\\-service\\-ramganj\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-service\\-ramganj\\-location(?:/)?$"
+    },
+    {
+      "page": "/turban-service-sawai-ram-singh-road-jaipur",
+      "regex": "^/turban\\-service\\-sawai\\-ram\\-singh\\-road\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-service\\-sawai\\-ram\\-singh\\-road\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-ashok-nagar-location",
+      "regex": "^/turban\\-tying\\-ashok\\-nagar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-ashok\\-nagar\\-location(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-bahubali-location",
+      "regex": "^/turban\\-tying\\-bahubali\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-bahubali\\-location(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-for-destination-wedding-jaipur",
+      "regex": "^/turban\\-tying\\-for\\-destination\\-wedding\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-for\\-destination\\-wedding\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-jagatpura-location",
+      "regex": "^/turban\\-tying\\-jagatpura\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-jagatpura\\-location(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-mansarovar-jaipur",
+      "regex": "^/turban\\-tying\\-mansarovar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-mansarovar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-services-in-jaipur",
+      "regex": "^/turban\\-tying\\-services\\-in\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-services\\-in\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/turban-tying-services-jaipur",
+      "regex": "^/turban\\-tying\\-services\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turban\\-tying\\-services\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-feta-tying-service-jaipur",
+      "regex": "^/wedding\\-feta\\-tying\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-feta\\-tying\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-groom-styling-jaipur",
+      "regex": "^/wedding\\-groom\\-styling\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-groom\\-styling\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-pagdi-adarsh-nagar-jaipur",
+      "regex": "^/wedding\\-pagdi\\-adarsh\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-pagdi\\-adarsh\\-nagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-pagdi-civil-lines-location",
+      "regex": "^/wedding\\-pagdi\\-civil\\-lines\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-pagdi\\-civil\\-lines\\-location(?:/)?$"
+    },
+    {
+      "page": "/wedding-pagdi-pal-road-location",
+      "regex": "^/wedding\\-pagdi\\-pal\\-road\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-pagdi\\-pal\\-road\\-location(?:/)?$"
+    },
+    {
+      "page": "/wedding-pagdi-service-near-me-jaipur",
+      "regex": "^/wedding\\-pagdi\\-service\\-near\\-me\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-pagdi\\-service\\-near\\-me\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-expert-gopal-pura-jaipur",
+      "regex": "^/wedding\\-safa\\-expert\\-gopal\\-pura\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-expert\\-gopal\\-pura\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-niwaru-road-location",
+      "regex": "^/wedding\\-safa\\-niwaru\\-road\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-niwaru\\-road\\-location(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-sanganer-location",
+      "regex": "^/wedding\\-safa\\-sanganer\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-sanganer\\-location(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-tying-in-jaipur",
+      "regex": "^/wedding\\-safa\\-tying\\-in\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-tying\\-in\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-wala-in-jaipur",
+      "regex": "^/wedding\\-safa\\-wala\\-in\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-wala\\-in\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-wala-jaipur",
+      "regex": "^/wedding\\-safa\\-wala\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-wala\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-safa-with-tying-service-jaipur",
+      "regex": "^/wedding\\-safa\\-with\\-tying\\-service\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-safa\\-with\\-tying\\-service\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-turban-expert-laxmi-nagar-jaipur",
+      "regex": "^/wedding\\-turban\\-expert\\-laxmi\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-turban\\-expert\\-laxmi\\-nagar\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-turban-mansarovar-location",
+      "regex": "^/wedding\\-turban\\-mansarovar\\-location(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-turban\\-mansarovar\\-location(?:/)?$"
+    },
+    {
+      "page": "/wedding-turban-styling-services-jaipur",
+      "regex": "^/wedding\\-turban\\-styling\\-services\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-turban\\-styling\\-services\\-jaipur(?:/)?$"
+    },
+    {
+      "page": "/wedding-turban-tying-vaishali-nagar-jaipur",
+      "regex": "^/wedding\\-turban\\-tying\\-vaishali\\-nagar\\-jaipur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wedding\\-turban\\-tying\\-vaishali\\-nagar\\-jaipur(?:/)?$"
     }
   ],
   "dataRoutes": [],

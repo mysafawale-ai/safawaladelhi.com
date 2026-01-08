@@ -1,3 +1,6 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/jaipur-safa-pagdi-on-rent-with-tying/page": "app/jaipur-safa-pagdi-on-rent-with-tying/page.js",
+  "/page": "app/page.js",
+  "/rajasthani-turban-tying-jaipur/page": "app/rajasthani-turban-tying-jaipur/page.js"
 }

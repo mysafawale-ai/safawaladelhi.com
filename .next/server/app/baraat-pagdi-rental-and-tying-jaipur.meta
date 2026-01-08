@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/baraat-pagdi-rental-and-tying-jaipur/layout,_N_T_/baraat-pagdi-rental-and-tying-jaipur/page,_N_T_/baraat-pagdi-rental-and-tying-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/baraat-pagdi-rental-and-tying-jaipur/__PAGE__",
+    "/baraat-pagdi-rental-and-tying-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

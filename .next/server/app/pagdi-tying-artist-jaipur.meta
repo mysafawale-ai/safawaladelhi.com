@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pagdi-tying-artist-jaipur/layout,_N_T_/pagdi-tying-artist-jaipur/page,_N_T_/pagdi-tying-artist-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pagdi-tying-artist-jaipur/__PAGE__",
+    "/pagdi-tying-artist-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

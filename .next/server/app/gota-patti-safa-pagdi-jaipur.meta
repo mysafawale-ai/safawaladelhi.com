@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/gota-patti-safa-pagdi-jaipur/layout,_N_T_/gota-patti-safa-pagdi-jaipur/page,_N_T_/gota-patti-safa-pagdi-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/gota-patti-safa-pagdi-jaipur/__PAGE__",
+    "/gota-patti-safa-pagdi-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

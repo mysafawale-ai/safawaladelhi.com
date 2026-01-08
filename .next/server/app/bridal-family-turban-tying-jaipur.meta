@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/bridal-family-turban-tying-jaipur/layout,_N_T_/bridal-family-turban-tying-jaipur/page,_N_T_/bridal-family-turban-tying-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/bridal-family-turban-tying-jaipur/__PAGE__",
+    "/bridal-family-turban-tying-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

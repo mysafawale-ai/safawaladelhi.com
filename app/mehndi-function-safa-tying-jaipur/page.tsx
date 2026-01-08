@@ -1,0 +1,29 @@
+import { ServicePageTemplate } from "@/components/service-page-template"
+
+const jaiaurAreas = ["C-Scheme", "Vaishali Nagar", "Mansarovar", "Malviya Nagar", "Jagatpura", "Raja Park", "Sindhi Camp", "Civil Lines", "Bani Park", "Ajmer Road", "Tonk Road", "JLN Marg", "Sanganer", "Ashok Nagar", "Ram Nagar", "Kalyan Vihar", "Vidhyadhar Nagar", "Shyam Nagar", "Pal Road", "Bapu Nagar"]
+
+export const metadata = {
+  title: "Mehndi Function Safa Tying Jaipur | Pre-Wedding Service | Safawala",
+  description: "Professional safa tying service for mehndi function in Jaipur. Colorful turban styling for pre-wedding celebrations. Safawala serves mehndi events.",
+}
+
+export default function MehndiSafaTying() {
+  const pageData = {
+    title: "Mehndi Function Safa Tying Jaipur",
+    shortDescription: "Festive and colorful safa tying service for mehndi functions in Jaipur. Safawala provides vibrant turban styling perfect for pre-wedding celebrations.",
+    description: "Mehndi function turban service.",
+    mainImage: "/38-3.webp",
+    videos: ["/video-4.mp4", "/video-9.mp4"],
+    galleryImages: ["/40-3.webp", "/1-6.webp", "/1-7.png", "/11-3.webp", "/12-4.webp"],
+    areas: jaiaurAreas,
+    keyFeatures: ["Festive colorful designs", "Pre-wedding celebration styling", "Vibrant turban options", "Celebratory look", "Group coordination", "Photo-perfect appeal", "Comfortable festive wear", "Joyful aesthetic"],
+    seoKeywords: ["mehndi function safa jaipur", "mehndi turban service", "mehndi function turban", "pre-wedding safa"],
+    content: `<h2>Mehndi Function Safa Tying: Festive, Colorful, Celebratory Turban Styling</h2><p>Mehndi is celebration—henna being applied, colors everywhere, music, dancing, joy. Your safa should match this energy. While wedding ceremony safa might be formal and refined, mehndi safa can be more colorful, more festive, more expressively joyful. It's opportunity to wear something celebratory that matches the occasion's festive spirit.</p><p>Mehndi function safa allows more creative expression, bolder color choices, and celebratory styling than main wedding ceremony.</p><h2>Mehndi Safa Characteristics</h2><h3>Festive Color Expression</h3><p>Mehndi allows bolder colors, brighter hues, celebratory color combinations. Bright greens (mehndi color), vibrant oranges, festive reds—colors that express celebration.</p><h3>Less Formal Styling</h3><p>Mehndi can be styled less formally than wedding day. Contemporary approaches work beautifully. Creative styling is appropriate.</p><h3>Comfort & Movement-Friendly</h3><p>You might dance at mehndi. Your safa needs to be secure enough for movement while remaining comfortable for extended wear.</p><h3>Coordination with Bride's Mehndi</h3><p>Your mehndi safa colors can coordinate with bride's mehndi outfit, creating aesthetic partnership that looks beautiful in photos together.</p><h2>Mehndi Safa Color Themes</h2><h3>Traditional Festive</h3><p>Traditional colors (burgundy, gold, cream) with festive styling. Honors tradition while expressing celebration.</p><h3>Mehndi Green</h3><p>Green (the mehndi color) safa. Bold, festive, directly connected to occasion.</p><h3>Complementary to Bride</h3><p>Colors that coordinate with bride's mehndi outfit. Creates visual partnership.</p><h3>Bold Contemporary</h3><p>Modern, vibrant color combinations. Contemporary styling for celebratory effect.</p><h2>Safawala Mehndi Safa Service</h2><h3>Festive Consultation</h3><p>We discuss mehndi aesthetic, your color preferences, bride's outfit colors, celebration vision. This informs festive styling recommendations.</p><h3>Colorful Material Selection</h3><p>Wide range of festive colors available. We help select colors that work for mehndi celebration.</p><h3>Comfortable Styling for Movement</h3><p>Mehndi safa is secure enough for dancing and celebration movement, but comfortable for extended all-day wear.</p><h3>Photography-Ready Appearance</h3><p>Mehndi photos are important—often more candid and joyful than wedding ceremony photos. We style safa to look great in varied lighting and angles.</p><h2>Mehndi Safa Styling Options</h2><h3>Simple Festive</h3><p>Refined but celebratory. Honors tradition while expressing festive energy.</p><h3>Bold Contemporary</h3><p>Modern, colorful, expressively joyful styling.</p><h3>Heavily Decorated Festive</h3><p>Elaborate decoration, maximum visual presence, boldest celebration.</p><h2>Mehndi Safa Pricing</h2><p><strong>Standard Mehndi Safa:</strong> ₹800-1200</p><p><strong>Colorful Designer Mehndi Safa:</strong> ₹1200-1800</p><p><strong>Elaborate Festive Safa:</strong> ₹1800-2500+</p><h2>Booking Mehndi Function Safa</h2><p><strong>Call:</strong> +91-9725295692 | <strong>Festive Styling Specialist</strong> | <strong>Mehndi Celebration Expert</strong> | <strong>Colorful Design Options</strong></p>`,
+    faqs: [
+      { question: "Should mehndi turbans match the bride's mehndi colors?", answer: "It can be a nice touch, but it's not necessary. Festive coordination is what matters." },
+      { question: "Can I wear the same turban for mehndi and wedding?", answer: "You can, but mehndi turbans are usually more colorful while wedding turbans are more traditional." },
+      { question: "What if we want to coordinate turbans with the mehndi theme?", answer: "Great! Share your mehndi theme, and we'll coordinate turbans to match it perfectly." },
+    ],
+  }
+  return <ServicePageTemplate {...pageData} />
+}

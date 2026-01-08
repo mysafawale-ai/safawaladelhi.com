@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pagdi-service-vaishali-nagar-location/layout,_N_T_/pagdi-service-vaishali-nagar-location/page,_N_T_/pagdi-service-vaishali-nagar-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pagdi-service-vaishali-nagar-location/__PAGE__",
+    "/pagdi-service-vaishali-nagar-location",
+    "/_index",
+    "/_head"
+  ]
+}

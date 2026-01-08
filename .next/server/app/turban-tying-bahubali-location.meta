@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/turban-tying-bahubali-location/layout,_N_T_/turban-tying-bahubali-location/page,_N_T_/turban-tying-bahubali-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/turban-tying-bahubali-location/__PAGE__",
+    "/turban-tying-bahubali-location",
+    "/_index",
+    "/_head"
+  ]
+}

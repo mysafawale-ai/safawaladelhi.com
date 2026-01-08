@@ -1,0 +1,29 @@
+import { ServicePageTemplate } from "@/components/service-page-template"
+
+const jaiaurAreas = ["C-Scheme", "Vaishali Nagar", "Mansarovar", "Malviya Nagar", "Jagatpura", "Raja Park", "Sindhi Camp", "Civil Lines", "Bani Park", "Ajmer Road", "Tonk Road", "JLN Marg", "Sanganer", "Ashok Nagar", "Ram Nagar", "Kalyan Vihar", "Vidhyadhar Nagar", "Shyam Nagar", "Pal Road", "Bapu Nagar"]
+
+export const metadata = {
+  title: "Jodhpuri Pagdi Tying Jaipur | Traditional Style Expert | Safawala",
+  description: "Expert Jodhpuri pagdi tying in Jaipur. Professional specialist in authentic Jodhpuri turban styling. Safawala - master heritage craftsman.",
+}
+
+export default function JodhpuriPagdiTying() {
+  const pageData = {
+    title: "Jodhpuri Pagdi Tying Jaipur",
+    shortDescription: "Professional Jodhpuri pagdi tying in Jaipur. Expert specialist preserving authentic Jodhpuri heritage turban tradition with masterful execution.",
+    description: "Jodhpuri traditional pagdi service.",
+    mainImage: "/21-3.webp",
+    videos: ["/video-1.mp4", "/video-6.mp4"],
+    galleryImages: ["/23-3.webp", "/25-3.webp", "/27-3.webp", "/28-3.webp", "/33-3.webp"],
+    areas: jaiaurAreas,
+    keyFeatures: ["Jodhpuri specialist", "Bold traditional style", "Master craftsmanship", "Cultural expertise", "Perfect proportions", "Heritage preservation", "Expert execution", "Authentic techniques"],
+    seoKeywords: ["jodhpuri pagdi tying jaipur", "jodhpuri turban specialist", "traditional jodhpuri style", "authentic pagdi service"],
+    content: `<h2>Jodhpuri Pagdi Tying Jaipur - Master Specialist</h2><p>Expert Jodhpuri pagdi tying in Jaipur. Master specialist preserving authentic Jodhpuri turban heritage. Distinctive bold style with expert proportions and cultural accuracy.</p><h2>Jodhpuri Pagdi Heritage</h2><h3>Bold Regional Style</h3><p>Jodhpuri pagdis are distinctly bolder and more dramatic than other Rajasthani styles. Characteristic proportions and aesthetic distinctiveness.</p><h3>Historical Significance</h3><p>Jodhpuri turbans represent royal heritage and warrior tradition. Wearing authentic Jodhpuri pagdi connects to proud legacy.</p><h3>Cultural Pride</h3><p>Jodhpuri families value authentic turban representation. Our specialist honours regional tradition and cultural identity.</p><h2>Our Jodhpuri Expertise</h2><h3>Bold Style Mastery</h3><p>Expert execution of distinctive Jodhpuri bold styling. Proper proportions creating impressive, commanding appearance.</p><h3>Regional Knowledge</h3><p>Deep understanding of Jodhpuri variations and regional characteristics. Customisation to family preferences.</p><h3>Material Selection</h3><p>Premium materials suitable for bold Jodhpuri styling. Fabrics ensuring dramatic appearance and durability.</p><h3>Perfect Proportions</h3><p>Expert eye for Jodhpuri turban scale and impact. Balanced, culturally authentic appearance.</p><h2>Jodhpuri Pagdi Styles</h2><h3>Traditional Bold Style</h3><p>Authentic Jodhpuri heritage pagdi with characteristic bold proportions and dramatic appearance.</p><h3>Contemporary Jodhpuri</h3><p>Modern interpretation of Jodhpuri style for contemporary weddings while preserving tradition.</p><h3>Elaborate Festive Jodhpuri</h3><p>Richly decorated Jodhpuri pagdi for grand celebrations and maximum visual impact.</p><h2>Why Choose Jodhpuri Specialist</h2><h3>Heritage Expertise</h3><p>Commitment to preserving Jodhpuri cultural traditions and distinctive style.</p><h3>Master Craftsmanship</h3><p>Expert execution creating perfectly proportioned Jodhpuri pagdis.</p><h3>Bold Confidence</h3><p>Jodhpuri style creates powerful, commanding appearance perfect for confident grooms.</p><h3>Generational Knowledge</h3><p>Understanding Jodhpuri family traditions and regional variations.</p><h2>Service Coverage</h2><p>Jodhpuri pagdi tying available across Jaipur with on-site service at your venue or home.</p><h2>Jodhpuri Pagdi Pricing</h2><p><strong>Traditional Bold Jodhpuri:</strong> ₹1200-1800</p><p><strong>Elaborate Festive Jodhpuri:</strong> ₹1800-2500</p><p><strong>Premium Heritage Style:</strong> ₹2500-3500+</p><h2>Book Jodhpuri Pagdi Tying Today</h2><p><strong>Call:</strong> +91-9725295692 | <strong>Jodhpuri Specialist</strong> | <strong>Bold Heritage Style</strong> | <strong>Master Craftsman</strong></p>`,
+    faqs: [
+      { question: "What's distinctive about Jodhpuri pagdi?", answer: "Jodhpuri style is bolder and more dramatic with distinctive proportions and commanding presence." },
+      { question: "Can you create custom Jodhpuri designs?", answer: "Yes, customised to your family's specific tradition and preferences while maintaining authenticity." },
+      { question: "Is Jodhpuri pagdi suitable for all face types?", answer: "Jodhpuri style works beautifully for confident presentation across varied face shapes." },
+    ],
+  }
+  return <ServicePageTemplate {...pageData} />
+}

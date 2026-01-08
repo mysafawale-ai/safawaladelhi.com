@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/barati-safa-sindhi-camp-location/layout,_N_T_/barati-safa-sindhi-camp-location/page,_N_T_/barati-safa-sindhi-camp-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/barati-safa-sindhi-camp-location/__PAGE__",
+    "/barati-safa-sindhi-camp-location",
+    "/_index",
+    "/_head"
+  ]
+}

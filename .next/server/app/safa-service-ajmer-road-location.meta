@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/safa-service-ajmer-road-location/layout,_N_T_/safa-service-ajmer-road-location/page,_N_T_/safa-service-ajmer-road-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/safa-service-ajmer-road-location/__PAGE__",
+    "/safa-service-ajmer-road-location",
+    "/_index",
+    "/_head"
+  ]
+}

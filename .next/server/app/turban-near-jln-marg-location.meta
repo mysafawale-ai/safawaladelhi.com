@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/turban-near-jln-marg-location/layout,_N_T_/turban-near-jln-marg-location/page,_N_T_/turban-near-jln-marg-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/turban-near-jln-marg-location/__PAGE__",
+    "/turban-near-jln-marg-location",
+    "/_index",
+    "/_head"
+  ]
+}

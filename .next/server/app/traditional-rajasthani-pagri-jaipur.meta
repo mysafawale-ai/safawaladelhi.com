@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/traditional-rajasthani-pagri-jaipur/layout,_N_T_/traditional-rajasthani-pagri-jaipur/page,_N_T_/traditional-rajasthani-pagri-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/traditional-rajasthani-pagri-jaipur/__PAGE__",
+    "/traditional-rajasthani-pagri-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

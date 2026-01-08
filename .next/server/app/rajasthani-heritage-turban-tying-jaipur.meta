@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/rajasthani-heritage-turban-tying-jaipur/layout,_N_T_/rajasthani-heritage-turban-tying-jaipur/page,_N_T_/rajasthani-heritage-turban-tying-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/rajasthani-heritage-turban-tying-jaipur/__PAGE__",
+    "/rajasthani-heritage-turban-tying-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

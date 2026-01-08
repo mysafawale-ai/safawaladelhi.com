@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/designer-wedding-safa-jaipur/layout,_N_T_/designer-wedding-safa-jaipur/page,_N_T_/designer-wedding-safa-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/designer-wedding-safa-jaipur/__PAGE__",
+    "/designer-wedding-safa-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

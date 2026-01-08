@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/turban-artist-ambedkar-circle-jaipur/layout,_N_T_/turban-artist-ambedkar-circle-jaipur/page,_N_T_/turban-artist-ambedkar-circle-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/turban-artist-ambedkar-circle-jaipur/__PAGE__",
+    "/turban-artist-ambedkar-circle-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

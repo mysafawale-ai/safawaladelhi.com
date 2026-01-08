@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/wedding-turban-expert-laxmi-nagar-jaipur/layout,_N_T_/wedding-turban-expert-laxmi-nagar-jaipur/page,_N_T_/wedding-turban-expert-laxmi-nagar-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/wedding-turban-expert-laxmi-nagar-jaipur/__PAGE__",
+    "/wedding-turban-expert-laxmi-nagar-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

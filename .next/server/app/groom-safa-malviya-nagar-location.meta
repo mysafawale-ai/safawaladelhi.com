@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/groom-safa-malviya-nagar-location/layout,_N_T_/groom-safa-malviya-nagar-location/page,_N_T_/groom-safa-malviya-nagar-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/groom-safa-malviya-nagar-location/__PAGE__",
+    "/groom-safa-malviya-nagar-location",
+    "/_index",
+    "/_head"
+  ]
+}

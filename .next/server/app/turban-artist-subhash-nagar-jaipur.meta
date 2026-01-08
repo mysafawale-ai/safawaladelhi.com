@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/turban-artist-subhash-nagar-jaipur/layout,_N_T_/turban-artist-subhash-nagar-jaipur/page,_N_T_/turban-artist-subhash-nagar-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/turban-artist-subhash-nagar-jaipur/__PAGE__",
+    "/turban-artist-subhash-nagar-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

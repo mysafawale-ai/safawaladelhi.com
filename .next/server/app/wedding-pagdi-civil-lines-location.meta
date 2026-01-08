@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/wedding-pagdi-civil-lines-location/layout,_N_T_/wedding-pagdi-civil-lines-location/page,_N_T_/wedding-pagdi-civil-lines-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/wedding-pagdi-civil-lines-location/__PAGE__",
+    "/wedding-pagdi-civil-lines-location",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pagdi-service-kalyan-vihar-location/layout,_N_T_/pagdi-service-kalyan-vihar-location/page,_N_T_/pagdi-service-kalyan-vihar-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pagdi-service-kalyan-vihar-location/__PAGE__",
+    "/pagdi-service-kalyan-vihar-location",
+    "/_index",
+    "/_head"
+  ]
+}

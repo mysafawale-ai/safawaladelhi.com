@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/safa-pagdi-on-rent-jaipur/layout,_N_T_/safa-pagdi-on-rent-jaipur/page,_N_T_/safa-pagdi-on-rent-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/safa-pagdi-on-rent-jaipur/__PAGE__",
+    "/safa-pagdi-on-rent-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

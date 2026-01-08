@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/safa-tying-bapu-nagar-location/layout,_N_T_/safa-tying-bapu-nagar-location/page,_N_T_/safa-tying-bapu-nagar-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/safa-tying-bapu-nagar-location/__PAGE__",
+    "/safa-tying-bapu-nagar-location",
+    "/_index",
+    "/_head"
+  ]
+}

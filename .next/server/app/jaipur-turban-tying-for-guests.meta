@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/jaipur-turban-tying-for-guests/layout,_N_T_/jaipur-turban-tying-for-guests/page,_N_T_/jaipur-turban-tying-for-guests"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/jaipur-turban-tying-for-guests/__PAGE__",
+    "/jaipur-turban-tying-for-guests",
+    "/_index",
+    "/_head"
+  ]
+}

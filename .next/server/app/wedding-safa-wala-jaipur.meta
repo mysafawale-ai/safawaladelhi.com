@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/wedding-safa-wala-jaipur/layout,_N_T_/wedding-safa-wala-jaipur/page,_N_T_/wedding-safa-wala-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/wedding-safa-wala-jaipur/__PAGE__",
+    "/wedding-safa-wala-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

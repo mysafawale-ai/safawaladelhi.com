@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pagdi-artist-ganesh-mandi-location/layout,_N_T_/pagdi-artist-ganesh-mandi-location/page,_N_T_/pagdi-artist-ganesh-mandi-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pagdi-artist-ganesh-mandi-location/__PAGE__",
+    "/pagdi-artist-ganesh-mandi-location",
+    "/_index",
+    "/_head"
+  ]
+}

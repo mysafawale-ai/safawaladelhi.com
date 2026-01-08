@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pagdi-wala-raja-park-location/layout,_N_T_/pagdi-wala-raja-park-location/page,_N_T_/pagdi-wala-raja-park-location"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pagdi-wala-raja-park-location/__PAGE__",
+    "/pagdi-wala-raja-park-location",
+    "/_index",
+    "/_head"
+  ]
+}

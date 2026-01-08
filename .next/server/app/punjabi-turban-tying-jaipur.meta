@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/punjabi-turban-tying-jaipur/layout,_N_T_/punjabi-turban-tying-jaipur/page,_N_T_/punjabi-turban-tying-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/punjabi-turban-tying-jaipur/__PAGE__",
+    "/punjabi-turban-tying-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

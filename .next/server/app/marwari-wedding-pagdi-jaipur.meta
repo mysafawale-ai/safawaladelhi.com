@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/marwari-wedding-pagdi-jaipur/layout,_N_T_/marwari-wedding-pagdi-jaipur/page,_N_T_/marwari-wedding-pagdi-jaipur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/marwari-wedding-pagdi-jaipur/__PAGE__",
+    "/marwari-wedding-pagdi-jaipur",
+    "/_index",
+    "/_head"
+  ]
+}

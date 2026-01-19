@@ -26,9 +26,9 @@ export default function HandTiedTurbanForInternationalWedding() {
     title: "Hand-Tied Turban for International Wedding",
     shortDescription: "Bringing authentic Indian artisanship to global celebrations, Safawala Mumbai offers exquisite hand-tied turban for international wedding ceremonies. Our master craftsmen travel worldwide, ensuring NRI families and international couples experience genuine hand-tied turban traditions regardless of where they celebrate their union.",
     description: "Authentic hand-tied turban for international wedding by Safawala Mumbai - bridging cultures with artisanal turban craftsmanship.",
-    mainImage: "/10-2.webp",
+    mainImage: "/11-3.webp",
     videos: ["/video-5.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/11-2.webp", "/12-2.webp", "/14-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/12-4.webp", "/13-3.webp", "/14-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic hand-tied turban for international wedding globally",

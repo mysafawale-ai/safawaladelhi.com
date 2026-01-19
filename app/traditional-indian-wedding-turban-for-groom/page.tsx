@@ -26,9 +26,9 @@ export default function TraditionalIndianWeddingTurbanForGroom() {
     title: "Traditional Indian Wedding Turban for Groom",
     shortDescription: "Honor your roots with an authentic traditional Indian wedding turban for groom from Safawala Mumbai. Our collection spans India's rich turban heritage – from Rajasthani magnificence to Punjabi grandeur, Marathi elegance to Gujarati tradition. Each traditional Indian wedding turban for groom carries centuries of cultural significance.",
     description: "Authentic traditional Indian wedding turban for groom by Safawala Mumbai - preserving India's rich turban heritage.",
-    mainImage: "/11-2.webp",
+    mainImage: "/12-4.webp",
     videos: ["/video-1.mp4", "/video-3.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/12-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/13-3.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic traditional Indian wedding turban for groom styles",

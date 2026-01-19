@@ -26,9 +26,9 @@ export default function GujaratiSafaInMumbai() {
     title: "Gujarati Safa in Mumbai",
     shortDescription: "Embrace the vibrant colors and festive spirit of Gujarat with authentic Gujarati safa in Mumbai from Safawala Mumbai. The Gujarati turban tradition reflects the state's joyful celebrations and colorful culture. Our Gujarati safa in Mumbai service brings this lively heritage to Mumbai's large Gujarati community.",
     description: "Authentic Gujarati safa in Mumbai by Safawala Mumbai - traditional Gujarati turban styling service.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-2.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic Gujarati safa in Mumbai",

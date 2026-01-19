@@ -26,9 +26,9 @@ export default function SantacruzSafaService() {
     title: "Santacruz Safa Service",
     shortDescription: "Safawala Mumbai delivers exceptional Santacruz safa service to this affluent Western suburb. Our Santacruz safa service covers both the upscale Santacruz West and the diverse Santacruz East, serving celebrity homes and family residences alike. With premium neighborhoods and quality banquet facilities, our Santacruz safa service matches the area's high expectations.",
     description: "Premium Santacruz safa service by Safawala Mumbai - professional turban tying for Santacruz weddings.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-3.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Professional Santacruz safa service",

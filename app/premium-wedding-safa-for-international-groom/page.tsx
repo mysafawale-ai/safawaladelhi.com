@@ -26,9 +26,9 @@ export default function PremiumWeddingSafaForInternationalGroom() {
     title: "Premium Wedding Safa for International Groom",
     shortDescription: "Designed specifically for discerning international grooms, Safawala Mumbai's premium wedding safa for international groom collection meets the highest global standards. Whether you're an NRI marrying in India, a foreign national embracing Indian traditions, or celebrating abroad, our premium wedding safa for international groom delivers uncompromising quality.",
     description: "Exclusive premium wedding safa for international groom by Safawala Mumbai - luxury turban service for global clientele.",
-    mainImage: "/12-2.webp",
+    mainImage: "/13-3.webp",
     videos: ["/video-2.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/14-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/14-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Luxury premium wedding safa for international groom",

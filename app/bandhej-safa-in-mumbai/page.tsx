@@ -28,7 +28,7 @@ export default function BandhejSafaInMumbai() {
     description: "Authentic Bandhej safa in Mumbai by Safawala Mumbai - traditional hand-tied tie-dye turban artistry.",
     mainImage: "/23-3.webp",
     videos: ["/video-1.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/25-3.webp", "/27-3.webp", "/28-3.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/25-3.webp", "/27-3.webp", "/28-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic hand-tied Bandhej safa in Mumbai",

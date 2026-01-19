@@ -26,9 +26,9 @@ export default function RoyalGroomTurbanForDestinationWedding() {
     title: "Royal Groom Turban for Destination Wedding",
     shortDescription: "Command the grandeur of any destination with a magnificent royal groom turban for destination wedding from Safawala Mumbai. Whether your celebration unfolds in a Rajasthani palace, on pristine Goan beaches, or at an international luxury resort, our regal turbans ensure you embody true royal magnificence.",
     description: "Magnificent royal groom turban for destination wedding by Safawala Mumbai - specialists in regal headwear for celebrations worldwide.",
-    mainImage: "/7-2.webp",
+    mainImage: "/8-3.webp",
     videos: ["/video-3.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp", "/14-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp", "/14-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Majestic royal groom turban for destination wedding venues",

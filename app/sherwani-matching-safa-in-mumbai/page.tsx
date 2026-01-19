@@ -26,9 +26,9 @@ export default function SherwaniMatchingSafaInMumbai() {
     title: "Sherwani Matching Safa in Mumbai",
     shortDescription: "The groom's look is only complete when the sherwani and safa work together in harmony. Safawala Mumbai's sherwani matching safa Mumbai ensures your turban coordinates perfectly with your sherwani – same color family, complementary embroidery, and cohesive overall appearance. Our sherwani matching safa Mumbai creates a polished, put-together look.",
     description: "Perfect sherwani matching safa Mumbai by Safawala Mumbai - coordinated turban with your sherwani.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-2.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Sherwani matching safa Mumbai",

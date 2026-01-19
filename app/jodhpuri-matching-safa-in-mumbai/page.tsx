@@ -26,9 +26,9 @@ export default function JodhpuriMatchingSafaInMumbai() {
     title: "Jodhpuri Matching Safa in Mumbai",
     shortDescription: "The Jodhpuri suit (bandgala) is the epitome of Indian elegance – and a matching safa completes this sophisticated look. Safawala Mumbai's Jodhpuri matching safa in Mumbai ensures perfect coordination with your bandgala jacket. Our Jodhpuri matching safa in Mumbai creates that distinguished, refined appearance.",
     description: "Elegant Jodhpuri matching safa in Mumbai by Safawala Mumbai - coordinate with Jodhpuri suit turban.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-3.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Jodhpuri matching safa in Mumbai",

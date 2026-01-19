@@ -27,7 +27,7 @@ export default function SafaInMumbai() {
     shortDescription: "Looking for premium safa in Mumbai? Safawala Mumbai is your trusted partner for authentic safa tying service across all Mumbai areas. Our expert safa specialists bring 20+ years of heritage to make your special day truly memorable with the perfect safa in Mumbai.",
     description: "Premium safa in Mumbai service by Safawala Mumbai - Mumbai's most trusted safa specialists for weddings and celebrations.",
     mainImage: "/37-3.webp",
-    videos: ["/main video.mp4", "/video-1.mp4"],
+    videos: ["/main-video.mp4", "/video-1.mp4"],
     galleryImages: ["/1.png", "/2.png", "/3.png", "/gallery-3.png", "/gallery-4.png", "/1-6.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp", "/14-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [

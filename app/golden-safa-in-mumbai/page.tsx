@@ -28,155 +28,118 @@ export default function GoldenSafaInMumbai() {
     description: "Luxurious golden safa in Mumbai by Safawala Mumbai - premium gold turbans for royal celebrations.",
     mainImage: "/28-3.webp",
     videos: ["/video-1.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
-      "Luxurious golden safa in Mumbai",
-      "Royal regal appearance",
-      "Multiple gold tones",
-      "Premium quality fabrics",
-      "Grand wedding appeal",
-      "Zari and brocade options",
-      "Prosperity symbolism",
-      "Statement-making looks",
+      "Luxurious golden safa in Mumbai crafted with premium zari work, brocade fabrics, and metallic gold threads for ultimate royal wedding elegance",
+      "Complete range of gold tones including bright gold, antique gold, champagne gold, and rose gold to match every sherwani and wedding theme",
+      "Traditional prosperity symbolism with gold representing wealth, success, and auspicious beginnings in Indian wedding traditions",
+      "Expert turban tying by skilled craftsmen who create perfectly proportioned golden safas with secure, comfortable fitting",
+      "Premium fabric selection featuring tissue silk, gold brocade, zari-embellished materials, and lightweight shimmer fabrics",
+      "Perfect coordination with cream, red, maroon, and gold sherwanis for cohesive wedding ensemble styling",
+      "Ideal for grand palace weddings, five-star hotel celebrations, destination weddings, and royal-themed ceremonies",
+      "Stunning photography results with gold catching light beautifully in both natural daylight and evening indoor settings",
     ],
     seoKeywords: ["golden safa in mumbai", "gold safa mumbai", "gold turban mumbai", "golden wedding safa"],
     content: `
-<h2>Safawala Mumbai - Regal Golden Safa in Mumbai</h2>
+<h2>Safawala Mumbai - Your Premier Destination for Golden Safa in Mumbai</h2>
 
-<p>Nothing says 'royal wedding' quite like a <strong>golden safa in Mumbai</strong> from Safawala Mumbai. Our <strong>golden safa in Mumbai</strong> collection transforms grooms into maharajas with lustrous gold tones that catch light beautifully. Gold has been the color of Indian royalty for millennia, and our <strong>golden safa in Mumbai</strong> continues this grand tradition.</p>
+<p>Welcome to Safawala Mumbai, the city's most trusted specialist for <strong>golden safa in Mumbai</strong> that transforms grooms into modern-day maharajas. Our <strong>golden safa in Mumbai</strong> collection represents the pinnacle of wedding turban craftsmanship, featuring lustrous gold tones, premium fabrics, and expert tying techniques that have made us the preferred choice for discerning grooms across Mumbai. Gold has symbolized royalty, prosperity, and auspicious beginnings in Indian culture for thousands of years, and our <strong>golden safa in Mumbai</strong> continues this magnificent tradition with contemporary elegance and uncompromising quality.</p>
 
-<p>From subtle champagne gold to brilliant bright gold, from antique gold elegance to modern metallic shimmer, our <strong>golden safa in Mumbai</strong> offers the perfect shade to crown your wedding attire with regal splendor.</p>
+<p>Whether you're planning a grand ballroom wedding at a five-star hotel, an intimate ceremony at a heritage venue, or a destination celebration that demands royal splendor, our <strong>golden safa in Mumbai</strong> collection offers the perfect crown for your special day. From subtle champagne gold to brilliant bright gold, from sophisticated antique gold to trendy rose gold, we provide every shade to complement your wedding vision and sherwani perfectly.</p>
 
-<h2>Gold Tone Options</h2>
+<h2>Why Choose Golden Safa in Mumbai for Your Wedding</h2>
 
-<h3>Bright Gold Safa</h3>
+<p>Selecting a <strong>golden safa in Mumbai</strong> for your wedding is choosing to embrace centuries of royal tradition while making a bold statement of prosperity and success. Gold has always been associated with Indian royalty – from Mughal emperors to Rajput kings, golden turbans have crowned the heads of rulers and nobles throughout history. When you choose our <strong>golden safa in Mumbai</strong>, you're not just wearing a turban; you're embodying this rich heritage and announcing your grand celebration with appropriate magnificence.</p>
 
-<p><strong>Golden safa in Mumbai</strong> - bright:</p>
+<p>The color gold carries deep significance in Indian wedding traditions. It represents Lakshmi, the goddess of wealth and prosperity, making it an auspicious choice for new beginnings. A <strong>golden safa in Mumbai</strong> worn on your wedding day is believed to invite blessings of abundance, success, and good fortune into your married life. Beyond symbolism, gold is simply stunning – it catches light beautifully, photographs magnificently, and creates an undeniable presence that sets the groom apart as the star of his own celebration.</p>
 
-<ul>
-<li>Maximum shine and shimmer</li>
-<li>Traditional gold appeal</li>
-<li>Grand celebration look</li>
-<li>Royal presentation</li>
-</ul>
+<h2>Complete Golden Safa Collection - Shades and Tones</h2>
 
-<h3>Antique Gold Safa</h3>
+<h3>Bright Gold Safa - Maximum Royal Impact</h3>
 
-<p><strong>Golden safa in Mumbai</strong> - antique:</p>
+<p>Our bright gold <strong>golden safa in Mumbai</strong> collection features turbans that shine with maximum luminosity and traditional grandeur. These safas are crafted using premium metallic gold threads, pure zari work, and high-shimmer fabrics that catch every ray of light and reflect it with dazzling brilliance. Bright gold is the classic choice for grooms who want the full maharaja experience – it's bold, it's traditional, and it makes an unmistakable statement of celebration and prosperity. This shade pairs exceptionally well with red and maroon sherwanis, creating the quintessential Indian groom look that has graced royal weddings for generations.</p>
 
-<ul>
-<li>Muted sophisticated gold</li>
-<li>Vintage elegance</li>
-<li>Understated luxury</li>
-<li>Classic appeal</li>
-</ul>
+<h3>Antique Gold Safa - Sophisticated Vintage Elegance</h3>
 
-<h3>Champagne Gold Safa</h3>
+<p>For grooms who prefer understated luxury, our antique gold <strong>golden safa in Mumbai</strong> offers a muted, sophisticated alternative to bright gold. This shade features warmer, slightly burnished tones that evoke the patina of heirloom jewelry and vintage treasures. Antique gold safas are perfect for heritage property weddings, vintage-themed celebrations, and grooms with refined tastes who appreciate subtle elegance over bold statements. The muted tones photograph beautifully without overwhelming the frame, making it an excellent choice for professional photography sessions.</p>
 
-<p><strong>Golden safa in Mumbai</strong> - champagne:</p>
+<h3>Champagne Gold Safa - Modern Sophistication</h3>
 
-<ul>
-<li>Soft subtle gold</li>
-<li>Modern elegance</li>
-<li>Contemporary appeal</li>
-<li>Sophisticated choice</li>
-</ul>
+<p>Champagne gold represents the perfect fusion of traditional gold elegance with contemporary restraint. Our champagne <strong>golden safa in Mumbai</strong> collection features soft, subtle gold tones with hints of cream and beige that create an incredibly sophisticated appearance. This shade has become increasingly popular among modern grooms who want the richness of gold without the intensity. Champagne gold pairs beautifully with ivory sherwanis, cream outfits, and pastel wedding themes, making it ideal for daytime ceremonies and outdoor celebrations where softer tones photograph most beautifully.</p>
 
-<h3>Rose Gold Safa</h3>
+<h3>Rose Gold Safa - Trendy Contemporary Appeal</h3>
 
-<p><strong>Golden safa in Mumbai</strong> - rose:</p>
+<p>Rose gold has emerged as one of the most fashionable choices for contemporary weddings, and our rose gold <strong>golden safa in Mumbai</strong> collection captures this trend perfectly. This unique shade blends warm gold with subtle pink undertones, creating a modern, fashion-forward look that stands out from traditional options. Rose gold safas are perfect for grooms who want something unique, coordinate beautifully with blush and pink wedding themes, and pair exceptionally well with the bride's rose gold jewelry. It's the ideal choice for Instagram-worthy wedding looks that feel fresh and contemporary.</p>
 
-<ul>
-<li>Trendy modern tone</li>
-<li>Pink-gold fusion</li>
-<li>Fashion-forward</li>
-<li>Unique option</li>
-</ul>
+<h2>Premium Fabric Options for Golden Safa in Mumbai</h2>
 
-<h2>Gold Safa Fabrics</h2>
+<p>The magnificence of a <strong>golden safa in Mumbai</strong> depends greatly on the quality of fabric used. At Safawala Mumbai, we source only the finest materials to ensure your golden turban looks and feels truly royal. Our gold zari work safas feature hand-woven metallic threads that create intricate patterns with brilliant shine. Gold brocade fabrics offer rich textured patterns that add depth and dimension to the turban. Tissue silk provides a lightweight yet luxurious option that drapes beautifully and catches light with subtle shimmer. For grooms seeking maximum opulence, our embroidered golden safas feature hand-worked designs with sequins, stones, and additional embellishments that create a crown fit for royalty.</p>
 
-<p><strong>Golden safa in Mumbai</strong> materials:</p>
+<h2>Sherwani Pairing Guide for Golden Safa</h2>
 
-<ul>
-<li>Gold zari work</li>
-<li>Gold brocade fabric</li>
-<li>Gold tissue silk</li>
-<li>Gold embroidered options</li>
-<li>Gold shimmer fabrics</li>
-</ul>
+<h3>Cream Sherwani with Golden Safa</h3>
 
-<h2>Why Choose Gold</h2>
+<p>The combination of a cream sherwani with <strong>golden safa in Mumbai</strong> creates one of the most elegant and timeless wedding looks. The neutral cream background allows the golden turban to become the focal point, creating a sophisticated contrast that photographs beautifully. This pairing is particularly popular for daytime ceremonies, outdoor weddings, and grooms who prefer a regal yet refined appearance. The cream and gold combination evokes royal Rajasthani aesthetics while remaining versatile enough for any wedding venue.</p>
 
-<p><strong>Golden safa in Mumbai</strong> significance:</p>
+<h3>Red Sherwani with Golden Safa</h3>
 
-<ul>
-<li>Symbol of wealth</li>
-<li>Represents prosperity</li>
-<li>Royal association</li>
-<li>Auspicious meaning</li>
-<li>Success symbolism</li>
-<li>Grand appearance</li>
-</ul>
+<p>For the quintessential Indian groom look, nothing surpasses a red sherwani paired with <strong>golden safa in Mumbai</strong>. This combination has been the choice of royalty for centuries and remains the most popular traditional wedding ensemble. The warm tones of red combined with golden brilliance create a look that's undeniably festive, auspicious, and commanding. Whether you choose bright gold for maximum impact or antique gold for sophisticated warmth, the red and gold combination guarantees a stunning wedding day appearance.</p>
 
-<h2>Gold Coordination</h2>
+<h3>Maroon Sherwani with Golden Safa</h3>
 
-<p><strong>Golden safa in Mumbai</strong> pairs with:</p>
+<p>Maroon sherwanis paired with <strong>golden safa in Mumbai</strong> offer a slightly more subdued yet equally royal alternative to bright red. The deep, wine-like tones of maroon create a sophisticated backdrop that allows gold to shine without competition. This combination is particularly popular among grooms who want traditional grandeur with a touch of modern refinement. Maroon and gold work beautifully for evening ceremonies where the rich tones create a dramatic, romantic ambiance.</p>
 
-<ul>
-<li>Gold sherwanis</li>
-<li>Ivory/white outfits</li>
-<li>Red with gold ensembles</li>
-<li>Maroon combinations</li>
-<li>Black and gold looks</li>
-</ul>
+<h3>Gold Sherwani with Golden Safa</h3>
 
-<h2>Grand Occasions</h2>
+<p>For grooms who want to make the ultimate royal statement, a gold sherwani paired with <strong>golden safa in Mumbai</strong> creates a monochromatic look of pure opulence. This head-to-toe gold ensemble is perfect for grand celebrations, palace weddings, and grooms who aren't afraid to stand out completely. The key to this look is varying the gold tones and textures – perhaps a matte gold sherwani with a shimmering bright gold safa, or an embroidered gold outfit with a smooth tissue gold turban.</p>
 
-<p><strong>Golden safa in Mumbai</strong> ideal for:</p>
+<h2>Perfect Occasions for Golden Safa in Mumbai</h2>
 
-<ul>
-<li>Grand weddings</li>
-<li>Royal-theme celebrations</li>
-<li>Palace venue weddings</li>
-<li>Five-star events</li>
-<li>Premium celebrations</li>
-</ul>
+<p>A <strong>golden safa in Mumbai</strong> is the ideal choice for weddings and celebrations that demand grandeur and royal presence. Grand ballroom weddings at five-star hotels like Taj, Oberoi, and Trident perfectly complement golden turbans with their crystal chandeliers and elegant settings. Heritage property weddings at venues like Falaknuma or royal Rajasthani palaces demand the regal presence that only gold can provide. Destination weddings in Udaipur, Jaipur, or Goa beach resorts call for statement pieces that photograph magnificently against scenic backdrops. Religious ceremonies, sangeet nights where the groom wants to make an entrance, and reception parties where the couple is introduced as newlyweds all benefit from the commanding presence of a golden safa.</p>
 
-<h2>Book Golden Safa in Mumbai</h2>
+<h2>Photography Benefits of Golden Safa</h2>
 
-<p>Crown yourself in gold with Safawala Mumbai:</p>
+<p>Professional wedding photographers consistently praise <strong>golden safa in Mumbai</strong> for their exceptional photographic qualities. Gold catches light beautifully whether photographed in natural daylight, golden hour sunshine, or indoor artificial lighting. The metallic tones create natural highlights and depth in photographs without requiring special lighting techniques. In group photos, the groom wearing a golden safa naturally becomes the focal point, drawing the eye to the center of the frame. For video recordings, gold adds movement and life to footage as it catches light from different angles during the ceremony and celebration.</p>
+
+<h2>Service Areas for Golden Safa in Mumbai</h2>
+
+<p>Safawala Mumbai provides <strong>golden safa in Mumbai</strong> services throughout the metropolitan region, ensuring every groom can access our premium collection and expert tying services. In South Mumbai, we serve Colaba, Cuffe Parade, Nariman Point, Churchgate, and Malabar Hill with our showroom conveniently located near Gateway of India. Western suburbs including Bandra, Juhu, Andheri, Goregaon, Borivali, and Malad receive dedicated service with convenient appointment scheduling. Central Mumbai areas like Dadar, Parel, Worli, and Lower Parel are within easy reach. Extended Mumbai including Thane, Navi Mumbai, Vashi, Nerul, Kharghar, and Panvel enjoy full service with advance booking options.</p>
+
+<h2>Book Your Golden Safa in Mumbai Today</h2>
+
+<p>Crown yourself in the magnificence of gold on your wedding day with Safawala Mumbai's premium <strong>golden safa in Mumbai</strong> collection. Our expert turban specialists are ready to help you select the perfect shade, fabric, and style that complements your sherwani and wedding theme. We recommend booking at least two weeks in advance for wedding day services to ensure availability and allow time for any consultations or customization requests.</p>
 
 <p><strong>Phone:</strong> +91-9725295692<br/>
 <strong>Email:</strong> info@safawalamumbai.com<br/>
-<strong>Showroom:</strong> Near Gateway of India, Colaba</p>
+<strong>Address:</strong> Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway, Mumbai - 400001</p>
 
-<p>Safawala Mumbai – <strong>Golden safa in Mumbai</strong> for royal celebrations.</p>
+<p>Visit our showroom to experience the full <strong>golden safa in Mumbai</strong> collection and receive personalized guidance from our turban experts. Safawala Mumbai – Where royal tradition meets expert craftsmanship for your golden celebration.</p>
     `,
     faqs: [
       {
-        question: "What gold tones are available?",
-        answer: "Golden safa in Mumbai includes bright gold, antique gold, champagne, rose gold, and more variations.",
+        question: "What different gold tones are available in your golden safa collection?",
+        answer: "Our golden safa in Mumbai collection includes a comprehensive range of gold tones to suit every preference and wedding theme. Bright gold offers maximum shine and traditional appeal, perfect for grand celebrations. Antique gold features muted, sophisticated tones ideal for heritage-themed weddings. Champagne gold provides subtle elegance with soft gold hues perfect for modern, refined looks. Rose gold blends warm gold with pink undertones for contemporary fashion-forward appeal. Our turban specialists can help you select the perfect tone based on your sherwani color, wedding venue, and personal style preferences.",
       },
       {
-        question: "Does gold safa look too flashy?",
-        answer: "Golden safa in Mumbai comes in subtle tones like champagne and antique for understated elegance.",
+        question: "Will a golden safa look too flashy or overwhelming for my wedding?",
+        answer: "Not at all! While bright gold creates a bold, traditional royal look, our golden safa in Mumbai collection includes sophisticated options like champagne gold and antique gold that offer understated elegance. These muted tones provide the prestige and auspicious symbolism of gold without overwhelming brightness. Additionally, our expert turban tyers create proportions that complement your face shape and overall outfit, ensuring a balanced, elegant appearance rather than an overpowering one. We recommend visiting our showroom to try different gold tones and find the perfect balance for your style.",
       },
       {
-        question: "Can I match gold safa with red outfit?",
-        answer: "Yes, golden safa in Mumbai pairs beautifully with red, maroon, and traditional colors.",
+        question: "Which sherwani colors pair best with golden safa in Mumbai?",
+        answer: "Golden safa in Mumbai pairs magnificently with several sherwani colors. Cream or ivory sherwanis create timeless, sophisticated elegance – one of the most popular combinations. Red sherwanis with golden safa offer the quintessential Indian royal groom look that has been traditional for centuries. Maroon sherwanis provide a deeper, more refined alternative to red while maintaining regal appeal. Gold sherwanis create a stunning monochromatic royal statement. Black sherwanis with gold safa offer contemporary dramatic contrast. Our recommendation depends on your skin tone, wedding theme, and personal style – our consultants can guide you toward the perfect pairing.",
       },
       {
-        question: "Is gold safa heavy?",
-        answer: "Golden safa in Mumbai is made with lightweight fabrics despite rich gold appearance.",
+        question: "Is golden safa heavy or uncomfortable to wear throughout the wedding day?",
+        answer: "Despite their rich, opulent appearance, our golden safa in Mumbai collection is crafted using lightweight fabrics specifically selected for all-day comfort. We use premium tissue silk, lightweight brocade, and specially treated materials that look luxurious but don't add unnecessary weight. Our expert turban tyers also ensure secure but comfortable fitting that doesn't cause headaches or discomfort even during long wedding ceremonies and reception parties. Proper tying technique is key – loose enough for comfort but secure enough to maintain the perfect shape throughout your celebration.",
       },
       {
-        question: "Does gold photograph well?",
-        answer: "Yes, golden safa in Mumbai catches light beautifully and photographs with regal appeal.",
+        question: "How well does golden safa photograph in professional wedding photography?",
+        answer: "Golden safa in Mumbai is one of the most photogenic turban choices and is often recommended by professional wedding photographers. Gold catches light beautifully in all conditions – natural daylight, golden hour sunset shots, indoor chandelier lighting, and flash photography. The metallic tones create natural highlights and depth in photographs without special lighting requirements. In group photos, the groom's golden safa naturally draws the eye to the center of the frame. For video recordings, gold adds beautiful movement as it catches light from different angles. Champagne and antique gold tones are particularly photogenic as they avoid harsh reflections while maintaining elegant shimmer.",
       },
       {
-        question: "What is the cost of golden safa?",
-        answer: "Golden safa in Mumbai varies based on fabric and work, with premium zari options available.",
+        question: "What is the price range for golden safa in Mumbai and what factors affect cost?",
+        answer: "Our golden safa in Mumbai collection ranges from ₹1,200 for quality plain gold fabric options to ₹5,000+ for premium designer pieces with heavy zari work and embellishments. Factors affecting price include fabric type (tissue silk vs heavy brocade), amount and quality of zari work, additional embroidery or stone work, turban style complexity, and whether the safa includes matching accessories like sehrapatti or kalangi. We offer options for every budget without compromising on quality or appearance. Contact us at +91-9725295692 for specific pricing based on your requirements, or visit our Colaba showroom to see the full collection with prices.",
       },
     ],
   }

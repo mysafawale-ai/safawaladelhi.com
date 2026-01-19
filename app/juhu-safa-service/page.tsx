@@ -26,9 +26,9 @@ export default function JuhuSafaService() {
     title: "Juhu Safa Service",
     shortDescription: "Experience glamorous Juhu safa service from Safawala Mumbai for Mumbai's celebrity suburb. Our Juhu safa service brings premium turban styling to Juhu Beach weddings, star-studded celebrations, and the iconic Juhu area. From beachside venues to celebrity homes, our Juhu safa service matches the prestige of this legendary neighborhood.",
     description: "Premium Juhu safa service by Safawala Mumbai - turban service for Juhu's glamorous celebrations.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-1.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Premium Juhu safa service",

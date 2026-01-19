@@ -26,9 +26,9 @@ export default function SafaWalaInMumbai() {
     title: "Safa Wala in Mumbai",
     shortDescription: "Looking for the best safa wala in Mumbai? Safawala Mumbai is your trusted safa wala providing premium turban services with 20+ years of expertise. Our expert safa wala team serves all Mumbai areas with professional safa tying for weddings, festivals, and special occasions.",
     description: "Premium safa wala in Mumbai - Safawala Mumbai, the most trusted safa wala and turban specialists.",
-    mainImage: "/10-2.webp",
+    mainImage: "/11-3.webp",
     videos: ["/video-1.mp4", "/video-3.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/11-2.webp", "/12-2.webp", "/14-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/12-4.webp", "/13-3.webp", "/14-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert safa wala in Mumbai with 20+ years mastery",

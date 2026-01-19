@@ -26,9 +26,9 @@ export default function SafaForGroomInMumbai() {
     title: "Safa for Groom in Mumbai",
     shortDescription: "Looking for the perfect safa for groom in Mumbai? Safawala Mumbai specializes in premium groom safa services with 20+ years of expertise. Our master craftsmen create stunning safas that make grooms look regal and magnificent on their special day across all Mumbai areas.",
     description: "Premium safa for groom in Mumbai by Safawala Mumbai - Mumbai's most trusted groom safa specialists.",
-    mainImage: "/5-2.webp",
+    mainImage: "/5-3.webp",
     videos: ["/video-2.mp4", "/video-3.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert safa for groom in Mumbai with 20+ years mastery",

@@ -26,9 +26,9 @@ export default function VidaiTurbanServiceInMumbai() {
     title: "Vidai Turban Service in Mumbai",
     shortDescription: "The vidai is one of the most emotional moments of an Indian wedding – when the bride bids farewell to her family. Safawala Mumbai's vidai turban service Mumbai ensures the men of the bride's family look dignified and presentable for this poignant ceremony. Our vidai turban service Mumbai provides special turbans that honor this sacred ritual.",
     description: "Emotional vidai turban service Mumbai by Safawala Mumbai - special safas for the bride farewell ceremony.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-3.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Vidai turban service Mumbai",

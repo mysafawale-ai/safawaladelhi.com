@@ -26,9 +26,9 @@ export default function SafaTyingServiceInMumbai() {
     title: "Safa Tying Service in Mumbai",
     shortDescription: "Looking for professional safa tying service in Mumbai? Safawala Mumbai offers expert safa tying services with 20+ years of mastery. Our trained specialists provide on-site safa tying service across all Mumbai areas for weddings, events, and special occasions.",
     description: "Premium safa tying service in Mumbai by Safawala Mumbai - Mumbai's most trusted safa tying professionals.",
-    mainImage: "/9-2.webp",
+    mainImage: "/9-3.webp",
     videos: ["/video-3.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert safa tying service in Mumbai with 20+ years mastery",

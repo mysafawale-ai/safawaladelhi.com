@@ -26,9 +26,9 @@ export default function DestinationWeddingTurban() {
     title: "Destination Wedding Turban",
     shortDescription: "Taking your wedding to an exotic destination? Safawala Mumbai's complete destination wedding turban service ensures your entire wedding party looks spectacular regardless of location. From the groom's stunning centerpiece to coordinated baraati turbans, we handle every aspect of destination wedding turban logistics with precision.",
     description: "Complete destination wedding turban service by Safawala Mumbai - your partner for turban excellence at any destination.",
-    mainImage: "/9-2.webp",
+    mainImage: "/9-3.webp",
     videos: ["/video-4.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "End-to-end destination wedding turban management",

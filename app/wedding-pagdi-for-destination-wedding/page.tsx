@@ -26,9 +26,9 @@ export default function WeddingPagdiForDestinationWedding() {
     title: "Wedding Pagdi for Destination Wedding",
     shortDescription: "Your destination wedding deserves a pagdi that travels as beautifully as your love story. Safawala Mumbai creates exquisite wedding pagdi for destination wedding celebrations that maintain their magnificence across continents. From heritage forts to tropical resorts, our wedding pagdi for destination wedding service ensures grooms shine at any location.",
     description: "Exquisite wedding pagdi for destination wedding by Safawala Mumbai - travel-ready pagdi excellence for celebrations worldwide.",
-    mainImage: "/14-2.webp",
+    mainImage: "/14-3.webp",
     videos: ["/video-1.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Destination-optimized wedding pagdi for destination wedding",

@@ -26,9 +26,9 @@ export default function GroomSafaInMumbai() {
     title: "Groom Safa in Mumbai",
     shortDescription: "Searching for magnificent groom safa in Mumbai? Safawala Mumbai delivers premium groom safa services with 20+ years of mastery. Our expert craftsmen create stunning groom safas that make every dulha look regal and distinguished on their wedding day across all Mumbai areas.",
     description: "Premium groom safa in Mumbai service by Safawala Mumbai - Mumbai's leading groom safa and dulha turban specialists.",
-    mainImage: "/6-2.webp",
+    mainImage: "/7-3.webp",
     videos: ["/video-1.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/14-2.webp", "/15-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/14-3.webp", "/15-2.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert groom safa in Mumbai with 20+ years expertise",

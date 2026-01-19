@@ -26,9 +26,9 @@ export default function TraditionalSafaInMumbai() {
     title: "Traditional Safa in Mumbai",
     shortDescription: "Honor your heritage with traditional safa in Mumbai from Safawala Mumbai. Our traditional safa in Mumbai preserves centuries-old turban styles with authentic techniques. When modern trends come and go, traditional safa in Mumbai remains timeless – connecting you to your roots while celebrating your special moments.",
     description: "Authentic traditional safa in Mumbai by Safawala Mumbai - classic Indian turban styles for all occasions.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-3.mp4", "/video-6.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic traditional safa in Mumbai",

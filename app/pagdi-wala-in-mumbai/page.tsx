@@ -26,9 +26,9 @@ export default function PagdiWalaInMumbai() {
     title: "Pagdi Wala in Mumbai",
     shortDescription: "Looking for the best pagdi wala in Mumbai? Safawala Mumbai is your trusted pagdi wala providing premium turban services with 20+ years of expertise. Our expert pagdi wala team serves all Mumbai areas with professional pagdi tying for weddings, festivals, and special occasions.",
     description: "Premium pagdi wala in Mumbai - Safawala Mumbai, the most trusted pagdi wala and turban specialists.",
-    mainImage: "/11-2.webp",
+    mainImage: "/12-4.webp",
     videos: ["/video-2.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/12-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/13-3.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert pagdi wala in Mumbai with 20+ years mastery",

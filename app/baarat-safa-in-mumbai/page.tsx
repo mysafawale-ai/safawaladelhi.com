@@ -26,9 +26,9 @@ export default function BaaratSafaInMumbai() {
     title: "Baarat Safa in Mumbai",
     shortDescription: "Make your baraat procession grand with complete baarat safa in Mumbai from Safawala Mumbai. Our baarat safa in Mumbai service covers the entire groom's party – from the groom himself to all baraatis. The baraat is a celebration of joy, and our baarat safa in Mumbai ensures everyone looks their festive best.",
     description: "Complete baarat safa in Mumbai by Safawala Mumbai - professional turban tying for entire baraat party.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-1.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Complete baarat safa in Mumbai",

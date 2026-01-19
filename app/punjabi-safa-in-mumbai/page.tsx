@@ -26,9 +26,9 @@ export default function PunjabiSafaInMumbai() {
     title: "Punjabi Safa in Mumbai",
     shortDescription: "Experience the grandeur of authentic Punjabi safa in Mumbai with Safawala Mumbai. Our master artisans specialize in the magnificent Punjabi turban tradition, creating impressive, voluminous turbans that capture the spirit of Punjab's vibrant culture. Perfect for Punjabi weddings, Sikh ceremonies, and celebrations across Mumbai.",
     description: "Authentic Punjabi safa in Mumbai by Safawala Mumbai - specialists in grand Punjabi turban styling.",
-    mainImage: "/16-3.webp",
+    mainImage: "/17-3.webp",
     videos: ["/video-3.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic Punjabi safa in Mumbai with grandeur",

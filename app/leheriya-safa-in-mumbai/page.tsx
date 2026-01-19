@@ -28,7 +28,7 @@ export default function LeheriyaSafaInMumbai() {
     description: "Authentic Leheriya safa in Mumbai by Safawala Mumbai - traditional wave pattern turban artistry.",
     mainImage: "/25-3.webp",
     videos: ["/video-2.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/23-3.webp", "/27-3.webp", "/28-3.webp", "/33-3.webp", "/36-3.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/23-3.webp", "/27-3.webp", "/28-3.webp", "/33-3.webp", "/36-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic Leheriya safa in Mumbai wave patterns",

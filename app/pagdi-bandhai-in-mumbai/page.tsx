@@ -26,9 +26,9 @@ export default function PagdiBandhaiInMumbai() {
     title: "Pagdi Bandhai in Mumbai",
     shortDescription: "Looking for professional pagdi bandhai in Mumbai? Safawala Mumbai offers expert pagdi bandhai services with 20+ years of mastery. Our trained specialists provide exceptional pagdi bandhai across all Mumbai areas for weddings, festivals, and special occasions.",
     description: "Premium pagdi bandhai in Mumbai by Safawala Mumbai - Mumbai's most trusted pagdi bandhai professionals.",
-    mainImage: "/12-2.webp",
+    mainImage: "/13-3.webp",
     videos: ["/video-1.mp4", "/video-5.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/13-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Expert pagdi bandhai in Mumbai with 20+ years mastery",

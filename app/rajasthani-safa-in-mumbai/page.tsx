@@ -26,9 +26,9 @@ export default function RajasthaniSafaInMumbai() {
     title: "Rajasthani Safa in Mumbai",
     shortDescription: "Looking for authentic Rajasthani safa in Mumbai? Safawala Mumbai offers premium Rajasthani safa services with 20+ years of expertise. Our master craftsmen create stunning Rajasthani safas that bring the royal heritage of Rajasthan to Mumbai weddings and celebrations.",
     description: "Premium Rajasthani safa in Mumbai by Safawala Mumbai - Mumbai's trusted Rajasthani safa specialists.",
-    mainImage: "/14-2.webp",
+    mainImage: "/14-3.webp",
     videos: ["/video-3.mp4", "/video-4.mp4"],
-    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-2.webp", "/6-2.webp", "/7-2.webp", "/9-2.webp", "/10-2.webp", "/11-2.webp", "/12-2.webp"],
+    galleryImages: ["/1.png", "/2.png", "/3.png", "/5-3.webp", "/7-3.webp", "/8-3.webp", "/9-3.webp", "/11-3.webp", "/12-4.webp", "/13-3.webp"],
     areas: MUMBAI_AREAS,
     keyFeatures: [
       "Authentic Rajasthani safa in Mumbai with 20+ years expertise",

@@ -1,3 +1,4 @@
 {
-  "/silver-safa-in-mumbai/page": "app/silver-safa-in-mumbai/page.js"
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
 }

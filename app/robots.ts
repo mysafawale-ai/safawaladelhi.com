@@ -1,24 +1,65 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
+  const baseUrl = 'https://safawalamumbai.com'
+  
   return {
     rules: [
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/admin', '/api/', '/private/'],
+        disallow: [
+          '/admin',
+          '/admin/*',
+          '/api/',
+          '/api/*',
+          '/private/',
+          '/_next/',
+          '/*.json$',
+        ],
       },
       {
         userAgent: 'Googlebot',
         allow: '/',
-        crawlDelay: 0,
+        disallow: ['/admin', '/api/'],
+      },
+      {
+        userAgent: 'Googlebot-Image',
+        allow: ['/'],
       },
       {
         userAgent: 'bingbot',
         allow: '/',
-        crawlDelay: 0.5,
+        disallow: ['/admin', '/api/'],
+      },
+      {
+        userAgent: 'Slurp',
+        allow: '/',
+        disallow: ['/admin', '/api/'],
+      },
+      {
+        userAgent: 'DuckDuckBot',
+        allow: '/',
+        disallow: ['/admin', '/api/'],
+      },
+      {
+        userAgent: 'facebookexternalhit',
+        allow: '/',
+      },
+      {
+        userAgent: 'Twitterbot',
+        allow: '/',
+      },
+      {
+        userAgent: 'LinkedInBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'WhatsApp',
+        allow: '/',
       },
     ],
-    sitemap: 'https://safawalamumbai.com/sitemap.xml',
+    sitemap: `${baseUrl}/sitemap.xml`,
+    host: baseUrl,
   }
 }

@@ -1,4 +1,5 @@
 {
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/gujarati-pagdi-in-delhi/page": "app/gujarati-pagdi-in-delhi/page.js",
+  "/page": "app/page.js"
 }

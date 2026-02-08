@@ -10,30 +10,30 @@ export function ServicesSection() {
     {
       title: "Wedding Safa Tying",
       description: "Professional traditional safa tying for grooms and wedding guests",
-      href: "/wedding-safa-in-mumbai",
+      href: "/wedding-safa-in-delhi",
       icon: Crown,
-      seoTitle: "Expert Wedding Safa Tying Service in Mumbai",
+      seoTitle: "Expert Wedding Safa Tying Service in Delhi",
     },
     {
       title: "Groom Styling",
       description: "Complete groom appearance with pagdi, sehra, and feta coordination",
-      href: "/groom-safa-in-mumbai",
+      href: "/groom-safa-in-delhi",
       icon: Award,
-      seoTitle: "Professional Groom Pagdi Tying Service in Mumbai",
+      seoTitle: "Professional Groom Pagdi Tying Service in Delhi",
     },
     {
       title: "Group Services",
       description: "Professional turban service for barati and guest groups",
-      href: "/barati-safa-in-mumbai",
+      href: "/barati-safa-in-delhi",
       icon: Users,
-      seoTitle: "Barati Safa Pagdi Service for Groups in Mumbai",
+      seoTitle: "Barati Safa Pagdi Service for Groups in Delhi",
     },
     {
       title: "Designer Safas",
       description: "Bespoke custom turban designs for trend-setting grooms",
-      href: "/designer-safa-in-mumbai",
+      href: "/designer-wedding-safa-in-delhi",
       icon: Zap,
-      seoTitle: "Designer Wedding Safa Service in Mumbai",
+      seoTitle: "Designer Wedding Safa Service in Delhi",
     },
   ]
 
@@ -45,7 +45,7 @@ export function ServicesSection() {
       "@type": "ListItem",
       position: index + 1,
       name: service.title,
-      url: `https://safawalamumbai.com${service.href}`,
+      url: `https://safawaladelhi.com${service.href}`,
       description: service.description,
     })),
   }
@@ -62,14 +62,14 @@ export function ServicesSection() {
           {/* Section Header with Enhanced SEO */}
           <div className="text-center mb-16">
             <h1 className="text-5xl font-bold text-primary mb-4" itemProp="name">
-              Premium Wedding Turban Services in Mumbai
+              Premium Wedding Turban Services in Delhi
             </h1>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed" itemProp="description">
-              Safawala Mumbai offers a comprehensive range of professional turban tying services for all your wedding needs across Mumbai. 
+              Safawala Delhi offers a comprehensive range of professional turban tying services for all your wedding needs across Delhi NCR. 
               From traditional Rajasthani designs to contemporary styles, our master specialists provide expert safa, pagdi, feta & sehra tying. 
-              Same-day service available in South Mumbai, Bandra, Juhu, Andheri, Thane, Navi Mumbai, and all major areas of Mumbai.
+              Same-day service available in South Delhi, Connaught Place, Dwarka, Rohini, Greater Kailash, and all major areas of Delhi.
             </p>
-            <meta itemProp="areaServed" content="Mumbai, Maharashtra, India" />
+            <meta itemProp="areaServed" content="Delhi, NCR, India" />
             <meta itemProp="serviceType" content="Wedding Turban Tying Service" />
             <meta itemProp="telephone" content="+91-9725295692" />
           </div>
@@ -94,8 +94,8 @@ export function ServicesSection() {
                     <p className="text-gray-600 mb-6 text-sm leading-relaxed" itemProp="description">
                       {service.description}
                     </p>
-                    <meta itemProp="areaServed" content="Mumbai" />
-                    <meta itemProp="url" content={`https://safawalamumbai.com${service.href}`} />
+                    <meta itemProp="areaServed" content="Delhi" />
+                    <meta itemProp="url" content={`https://safawaladelhi.com${service.href}`} />
                     <div className="flex items-center text-accent font-semibold group">
                       Learn More
                       <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-2 transition-transform" aria-hidden="true" />
@@ -109,21 +109,21 @@ export function ServicesSection() {
           {/* Content Section with Enhanced Local SEO */}
           <div className="bg-secondary/10 rounded-lg p-12">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-primary mb-6">Mumbai's Most Trusted Turban Specialists - Since 2004</h2>
+              <h2 className="text-3xl font-bold text-primary mb-6">Delhi's Most Trusted Turban Specialists - Since 2004</h2>
 
               <div className="prose prose-lg text-gray-700 space-y-4 mb-8">
                 <p>
-                  At <strong>Safawala Mumbai</strong>, we believe that every wedding is a celebration of love, tradition, and heritage. Your turban is not just a piece of clothing—it's a representation of your cultural pride, your status, and your identity. For over <strong>20 years, we have been Mumbai's most trusted partner</strong> in creating perfect turban moments that last a lifetime.
+                  At <strong>Safawala Delhi</strong>, we believe that every wedding is a celebration of love, tradition, and heritage. Your turban is not just a piece of clothing—it's a representation of your cultural pride, your status, and your identity. For over <strong>20 years, we have been Delhi's most trusted partner</strong> in creating perfect turban moments that last a lifetime.
                 </p>
 
                 <p>
-                  Our journey began in <strong>2004</strong> with a simple mission: to preserve the authentic art of traditional turban tying while providing the highest quality service to every client. Over the years, we've evolved into a full-service turban styling company, serving <strong>grooms, families, and guests across Mumbai and beyond</strong>. Our success is measured not just in numbers, but in the smiling faces of satisfied customers and the countless positive reviews we receive.
+                  Our journey began in <strong>2004</strong> with a simple mission: to preserve the authentic art of traditional turban tying while providing the highest quality service to every client. Over the years, we've evolved into a full-service turban styling company, serving <strong>grooms, families, and guests across Delhi NCR and beyond</strong>. Our success is measured not just in numbers, but in the smiling faces of satisfied customers and the countless positive reviews we receive.
                 </p>
 
-                <h3 className="text-2xl font-bold text-primary mt-8">Why Choose Safawala Mumbai for Turban Services?</h3>
+                <h3 className="text-2xl font-bold text-primary mt-8">Why Choose Safawala Delhi for Turban Services?</h3>
 
                 <p>
-                  <strong>Expert Master Specialists:</strong> Our team consists of master turban specialists with 15-25 years of individual experience. They have perfected traditional turban tying techniques and understand the nuances of different regional styles. Whether you want a Rajasthani pagdi, a Marathi pheta, a Gujarati safa, or a modern fusion design, our experts can create it perfectly. All our specialists are available across all major Mumbai areas including South Mumbai, Bandra, Juhu, Andheri, Powai, Thane, Navi Mumbai, and more.
+                  <strong>Expert Master Specialists:</strong> Our team consists of master turban specialists with 15-25 years of individual experience. They have perfected traditional turban tying techniques and understand the nuances of different regional styles. Whether you want a Rajasthani pagdi, a Marathi pheta, a Gujarati safa, or a modern fusion design, our experts can create it perfectly. All our specialists are available across all major Delhi areas including South Delhi, Connaught Place, Dwarka, Rohini, Greater Kailash, Vasant Kunj, Noida, Gurgaon, and more.
                 </p>
 
                 <p>
@@ -135,7 +135,7 @@ export function ServicesSection() {
                 </p>
 
                 <p>
-                  <strong>Professional & Punctual:</strong> Your wedding schedule is tight, and we respect that. Our specialists arrive on time, work efficiently, and ensure you're ready when you need to be. We're known in the Mumbai wedding industry for our reliability and professional conduct. Same-day service is available across all Mumbai neighborhoods.
+                  <strong>Professional & Punctual:</strong> Your wedding schedule is tight, and we respect that. Our specialists arrive on time, work efficiently, and ensure you're ready when you need to be. We're known in the Delhi wedding industry for our reliability and professional conduct. Same-day service is available across all Delhi neighborhoods.
                 </p>
 
                 <h3 className="text-2xl font-bold text-primary mt-8">Our Service Philosophy</h3>
@@ -148,37 +148,37 @@ export function ServicesSection() {
                   Every client receives personalized attention. Whether you're getting a simple traditional turban or an elaborate designer creation, you receive the same high level of expertise and care. We adjust our approach based on your needs—some clients want classical authenticity, others want modern innovation, and some want a beautiful blend of both.
                 </p>
 
-                <h3 className="text-2xl font-bold text-primary mt-8">Serving All Areas of Mumbai & Maharashtra</h3>
+                <h3 className="text-2xl font-bold text-primary mt-8">Serving All Areas of Delhi NCR</h3>
 
                 <p>
-                  Our professional turban service is available across all major areas of Mumbai including:
+                  Our professional turban service is available across all major areas of Delhi NCR including:
                 </p>
                 <p className="text-sm">
-                  <strong>South Mumbai:</strong> Colaba, Cuffe Parade, Nariman Point, Churchgate, Malabar Hill, Breach Candy
+                  <strong>South Delhi:</strong> Greater Kailash, Defence Colony, Lajpat Nagar, Saket, Hauz Khas, Green Park, Vasant Kunj, Malviya Nagar
                 </p>
                 <p className="text-sm">
-                  <strong>Western Suburbs:</strong> Bandra, Juhu, Andheri, Khar, Santacruz, Vile Parle, Goregaon, Malad, Borivali
+                  <strong>Central Delhi:</strong> Connaught Place, Karol Bagh, Chandni Chowk, Civil Lines, Rajouri Garden
                 </p>
                 <p className="text-sm">
-                  <strong>Central Mumbai:</strong> Parel, Dadar, Worli, Lower Parel, Matunga
+                  <strong>West Delhi:</strong> Dwarka, Janakpuri, Punjabi Bagh, Tilak Nagar, Uttam Nagar, Paschim Vihar
                 </p>
                 <p className="text-sm">
-                  <strong>Eastern Suburbs:</strong> Powai, Chembur, Ghatkopar, Mulund, Kurla
+                  <strong>North Delhi:</strong> Rohini, Pitampura, Model Town, Civil Lines
                 </p>
                 <p className="text-sm">
-                  <strong>Extended Mumbai:</strong> Thane, Navi Mumbai (Vashi, Nerul, Kharghar, Panvel), Kalyan-Dombivli
+                  <strong>East Delhi:</strong> Preet Vihar, Mayur Vihar, Shahdara, Laxmi Nagar
                 </p>
                 <p className="text-sm">
-                  We also serve <strong>destination weddings</strong> across India. No matter where your celebration is, Safawala Mumbai is ready to serve you with the same quality and professionalism.
+                  We also serve <strong>Noida, Gurgaon, Faridabad, Ghaziabad</strong> and <strong>destination weddings</strong> across India. No matter where your celebration is, Safawala Delhi is ready to serve you with the same quality and professionalism.
                 </p>
 
                 <p>
-                  Contact us today to book your perfect turban experience. Whether you're planning a grand wedding or a small family celebration, <strong>Safawala Mumbai is your trusted partner</strong> in creating beautiful, memorable moments. Call us at <strong>+91-9725295692</strong>, WhatsApp us, or visit us in person—our team is always ready to help you look your absolute best!
+                  Contact us today to book your perfect turban experience. Whether you're planning a grand wedding or a small family celebration, <strong>Safawala Delhi is your trusted partner</strong> in creating beautiful, memorable moments. Call us at <strong>+91-9725295692</strong>, WhatsApp us, or visit us in person—our team is always ready to help you look your absolute best!
                 </p>
               </div>
 
               <div className="flex gap-4 flex-wrap justify-center mt-8">
-                <Link href="/safa-in-mumbai">
+                <Link href="/safa-in-delhi">
                   <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg">
                     View All Services
                     <ArrowRight className="w-5 h-5 ml-2" aria-hidden="true" />

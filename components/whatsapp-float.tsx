@@ -123,7 +123,7 @@ export function WhatsAppFloat() {
               </Label>
               <Input
                 id="eventCity"
-                placeholder="e.g., Mumbai, Thane, Navi Mumbai"
+                placeholder="e.g., Delhi, Noida, Gurgaon"
                 value={formData.eventCity}
                 onChange={(e) => setFormData({ ...formData, eventCity: e.target.value })}
                 required

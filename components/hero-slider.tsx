@@ -10,23 +10,23 @@ import { addLead } from "@/lib/leads"
 const slides = [
   {
     id: 1,
-    title: "Barati Safa & Wedding Turbans in Mumbai",
-    subtitle: "Premium Turban Service Mumbai",
-    description: "Safawala Mumbai's traditional safa & pagdi for baraat ceremonies and groom's entourage across all Mumbai areas",
+    title: "Barati Safa & Wedding Turbans in Delhi",
+    subtitle: "Premium Turban Service Delhi",
+    description: "Safawala Delhi's traditional safa & pagdi for baraat ceremonies and groom's entourage across all Delhi NCR areas",
     image: "/1.png",
   },
   {
     id: 2,
-    title: "Destination Wedding Safa & Pagdi Mumbai",
-    subtitle: "Turban Excellence Anywhere in Mumbai",
-    description: "Expert feta, sehra and wedding turban solutions for your dream wedding at any location in Mumbai",
+    title: "Destination Wedding Safa & Pagdi Delhi",
+    subtitle: "Turban Excellence Anywhere in Delhi",
+    description: "Expert feta, sehra and wedding turban solutions for your dream wedding at any location in Delhi NCR",
     image: "/2.png",
   },
   {
     id: 3,
-    title: "Groom Safa, Pagdi & Sehra Mumbai",
-    subtitle: "Your Royal Look in Mumbai",
-    description: "Handcrafted premium turban designs exclusively for the groom's grand entrance - Mumbai's best turban tying service",
+    title: "Groom Safa, Pagdi & Sehra Delhi",
+    subtitle: "Your Royal Look in Delhi",
+    description: "Handcrafted premium turban designs exclusively for the groom's grand entrance - Delhi's best turban tying service",
     image: "/3.png",
   },
 ]
@@ -63,7 +63,7 @@ export function HeroSlider() {
 ✨ *Design/Colour/Fabric Preference:* ${formData.preference}
 
 ---
-📱 *Sent via Safawala Mumbai Website*
+📱 *Sent via Safawala Delhi Website*
     `.trim()
 
     const whatsappNumber = "919725295692"

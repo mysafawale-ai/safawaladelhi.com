@@ -8,33 +8,33 @@ import Script from "next/script"
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://safawalamumbai.com",
-  name: "Safawala Mumbai - Wedding Turban Service",
-  image: "https://safawalamumbai.com/SAFAWALA%20LOGO.png",
-  description: "Mumbai's most trusted wedding turban specialists with 20+ years of heritage.",
+  "@id": "https://safawaladelhi.com",
+  name: "Safawala Delhi - Wedding Turban Service",
+  image: "https://safawaladelhi.com/SAFAWALA%20LOGO.png",
+  description: "Delhi's most trusted wedding turban specialists with 20+ years of heritage.",
   telephone: "+91-9725295692",
-  email: "info@safawalamumbai.com",
-  url: "https://safawalamumbai.com",
+  email: "info@safawaladelhi.com",
+  url: "https://safawaladelhi.com",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway",
-    addressLocality: "Mumbai",
-    addressRegion: "Maharashtra",
-    postalCode: "400001",
+    streetAddress: "Shop No. 15, Ground Floor, Chandni Chowk, Near Red Fort",
+    addressLocality: "Delhi",
+    addressRegion: "Delhi",
+    postalCode: "110006",
     addressCountry: "IN"
   },
   geo: {
     "@type": "GeoCoordinates",
-    latitude: "18.9220",
-    longitude: "72.8347"
+    latitude: "28.6562",
+    longitude: "77.2310"
   },
   areaServed: {
     "@type": "City",
-    name: "Mumbai"
+    name: "Delhi"
   },
   sameAs: [
-    "https://www.facebook.com/safawalamumbai/",
-    "https://www.instagram.com/safawalamumbai/",
+    "https://www.facebook.com/safawaladelhi/",
+    "https://www.instagram.com/safawaladelhi/",
     "https://wa.me/919725295692"
   ],
   aggregateRating: {
@@ -59,8 +59,8 @@ export function LocalBusinessSchema() {
 // Contact information for schema
 export const contactInfo = {
   phone: "+91-9725295692",
-  email: "info@safawalamumbai.com",
-  address: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway, Mumbai, Maharashtra – 400001",
+  email: "info@safawaladelhi.com",
+  address: "Shop No. 15, Ground Floor, Chandni Chowk, Near Red Fort, Delhi – 110006",
   hours: "9 AM - 9 PM (Daily)",
   whatsapp: "https://wa.me/919725295692",
 }

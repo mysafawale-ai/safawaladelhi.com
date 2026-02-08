@@ -68,10 +68,10 @@ export function PackagesSection() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <p className="text-accent font-mono uppercase tracking-wider mb-4">Wedding Turban Pricing</p>
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-            Safawala Mumbai Safa & Pagdi Packages
+            Safawala Delhi Safa & Pagdi Packages
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed font-mono">
-            {"Transparent turban tying service pricing with no hidden costs. Premium safa, pagdi, sehra & feta options included. Best wedding turban service in Mumbai"}
+            {"Transparent turban tying service pricing with no hidden costs. Premium safa, pagdi, sehra & feta options included. Best wedding turban service in Delhi"}
           </p>
         </div>
 
@@ -137,7 +137,7 @@ export function PackagesSection() {
                 "Professional turban tying",
                 "Styling tips and guidance",
                 "Flexible appointment timing",
-                "Service across all Mumbai areas",
+                "Service across all Delhi NCR areas",
                 "Emergency support on wedding day",
                 "Quality assurance guarantee",
               ].map((item, index) => (

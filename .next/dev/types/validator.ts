@@ -36,748 +36,667 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
 }
 
 
-// Validate ../../../app/admin/login/page.tsx
+// Validate ../../../app/barati-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/admin/login">> = Specific
-  const handler = {} as typeof import("../../../app/admin/login/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/barati-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/admin/page.tsx
+// Validate ../../../app/barati-safa-on-rent-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/admin">> = Specific
-  const handler = {} as typeof import("../../../app/admin/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-on-rent-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/barati-safa-on-rent-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/andheri-safa-service/page.tsx
+// Validate ../../../app/barati-safa-online-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/andheri-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/andheri-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-online-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/barati-safa-online-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/baarat-safa-in-mumbai/page.tsx
+// Validate ../../../app/barati-safa-tying-for-international-wedding-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/baarat-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/baarat-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-tying-for-international-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/barati-safa-tying-for-international-wedding-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/bandhej-safa-in-mumbai/page.tsx
+// Validate ../../../app/buy-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/bandhej-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/bandhej-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/buy-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/buy-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/bandra-safa-service/page.tsx
+// Validate ../../../app/chandni-chowk-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/bandra-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/bandra-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/chandni-chowk-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/chandni-chowk-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/barati-safa-in-mumbai/page.tsx
+// Validate ../../../app/chandni-chowk-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/barati-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/chandni-chowk-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/chandni-chowk-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/barati-safa-tying-for-international-wedding/page.tsx
+// Validate ../../../app/civil-lines-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/barati-safa-tying-for-international-wedding">> = Specific
-  const handler = {} as typeof import("../../../app/barati-safa-tying-for-international-wedding/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/civil-lines-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/civil-lines-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/beach-wedding-safa-in-mumbai/page.tsx
+// Validate ../../../app/connaught-place-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/beach-wedding-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/beach-wedding-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/connaught-place-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/connaught-place-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/black-safa-in-mumbai/page.tsx
+// Validate ../../../app/connaught-place-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/black-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/black-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/connaught-place-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/connaught-place-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/blue-safa-in-mumbai/page.tsx
+// Validate ../../../app/custom-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/blue-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/blue-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/custom-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/custom-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/borivali-safa-service/page.tsx
+// Validate ../../../app/custom-wedding-turban-for-overseas-weddings-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/borivali-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/borivali-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/custom-wedding-turban-for-overseas-weddings-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/custom-wedding-turban-for-overseas-weddings-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/brocade-safa-in-mumbai/page.tsx
+// Validate ../../../app/customized-sehra-for-baraat-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/brocade-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/brocade-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/customized-sehra-for-baraat-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/customized-sehra-for-baraat-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/brother-of-groom-safa-in-mumbai/page.tsx
+// Validate ../../../app/defence-colony-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/brother-of-groom-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/brother-of-groom-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/defence-colony-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/defence-colony-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/buy-safa-in-mumbai/page.tsx
+// Validate ../../../app/designer-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/buy-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/buy-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/designer-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/designer-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/chembur-safa-service/page.tsx
+// Validate ../../../app/designer-wedding-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/chembur-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/chembur-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/designer-wedding-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/designer-wedding-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/corporate-event-safa-in-mumbai/page.tsx
+// Validate ../../../app/destination-wedding-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/corporate-event-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/corporate-event-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/destination-wedding-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/destination-wedding-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/corporate-event-turban-in-mumbai/page.tsx
+// Validate ../../../app/dulha-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/corporate-event-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/corporate-event-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulha-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulha-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/cotton-safa-in-mumbai/page.tsx
+// Validate ../../../app/dulha-pagri-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/cotton-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/cotton-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulha-pagri-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulha-pagri-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/cream-safa-in-mumbai/page.tsx
+// Validate ../../../app/dulha-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/cream-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/cream-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulha-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulha-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/custom-wedding-turban-for-overseas-weddings/page.tsx
+// Validate ../../../app/dulha-sehra-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/custom-wedding-turban-for-overseas-weddings">> = Specific
-  const handler = {} as typeof import("../../../app/custom-wedding-turban-for-overseas-weddings/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulha-sehra-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulha-sehra-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/dadar-safa-service/page.tsx
+// Validate ../../../app/dulhe-ka-sehra-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/dadar-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/dadar-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulhe-ka-sehra-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulhe-ka-sehra-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/designer-safa-in-mumbai/page.tsx
+// Validate ../../../app/dulhe-ki-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/designer-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/designer-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dulhe-ki-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/dulhe-ki-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/designer-wedding-turban/page.tsx
+// Validate ../../../app/dwarka-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/designer-wedding-turban">> = Specific
-  const handler = {} as typeof import("../../../app/designer-wedding-turban/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dwarka-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/dwarka-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/destination-wedding-safa-in-mumbai/page.tsx
+// Validate ../../../app/dwarka-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/destination-wedding-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/destination-wedding-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/dwarka-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/dwarka-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/destination-wedding-turban/page.tsx
+// Validate ../../../app/east-of-kailash-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/destination-wedding-turban">> = Specific
-  const handler = {} as typeof import("../../../app/destination-wedding-turban/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/east-of-kailash-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/east-of-kailash-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/diwali-turban-in-mumbai/page.tsx
+// Validate ../../../app/feta-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/diwali-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/diwali-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/feta-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/feta-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/dulha-safa-in-mumbai/page.tsx
+// Validate ../../../app/feta-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/dulha-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/dulha-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/feta-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/feta-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/embroidered-safa-in-mumbai/page.tsx
+// Validate ../../../app/greater-kailash-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/embroidered-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/embroidered-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/greater-kailash-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/greater-kailash-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/engagement-safa-in-mumbai/page.tsx
+// Validate ../../../app/greater-kailash-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/engagement-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/engagement-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/greater-kailash-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/greater-kailash-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/family-safa-service-in-mumbai/page.tsx
+// Validate ../../../app/green-park-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/family-safa-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/family-safa-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/green-park-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/green-park-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/father-of-groom-turban-in-mumbai/page.tsx
+// Validate ../../../app/groom-feta-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/father-of-groom-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/father-of-groom-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-feta-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-feta-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/festival-safa-in-mumbai/page.tsx
+// Validate ../../../app/groom-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/festival-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/festival-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/feta-in-mumbai/page.tsx
+// Validate ../../../app/groom-pagri-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/feta-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/feta-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-pagri-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-pagri-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/foreigner-turban-experience-in-mumbai/page.tsx
+// Validate ../../../app/groom-safa-bandhej-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/foreigner-turban-experience-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/foreigner-turban-experience-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-safa-bandhej-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-safa-bandhej-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/ghatkopar-safa-service/page.tsx
+// Validate ../../../app/groom-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/ghatkopar-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/ghatkopar-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/golden-safa-in-mumbai/page.tsx
+// Validate ../../../app/groom-sehra-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/golden-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/golden-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-sehra-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-sehra-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/goregaon-safa-service/page.tsx
+// Validate ../../../app/groom-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/goregaon-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/goregaon-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/gota-patti-safa-in-mumbai/page.tsx
+// Validate ../../../app/groom-turban-shop-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/gota-patti-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/gota-patti-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/groom-turban-shop-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/groom-turban-shop-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/green-safa-in-mumbai/page.tsx
+// Validate ../../../app/gujarati-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/green-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/green-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/gujarati-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/gujarati-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/groom-safa-in-mumbai/page.tsx
+// Validate ../../../app/hand-tied-safa-rental-near-me-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/groom-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/groom-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/hand-tied-safa-rental-near-me-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/hand-tied-safa-rental-near-me-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/groom-turban-in-mumbai/page.tsx
+// Validate ../../../app/hand-tied-turban-for-international-wedding-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/groom-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/groom-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/hand-tied-turban-for-international-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/hand-tied-turban-for-international-wedding-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/group-safa-service-in-mumbai/page.tsx
+// Validate ../../../app/hauz-khas-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/group-safa-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/group-safa-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/hauz-khas-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/hauz-khas-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/guest-turban-service-in-mumbai/page.tsx
+// Validate ../../../app/heritage-feta-turban-hire-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/guest-turban-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/guest-turban-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/heritage-feta-turban-hire-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/heritage-feta-turban-hire-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/gujarati-safa-in-mumbai/page.tsx
+// Validate ../../../app/indian-dulha-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/gujarati-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/gujarati-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/indian-dulha-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/indian-dulha-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/haldi-safa-in-mumbai/page.tsx
+// Validate ../../../app/janakpuri-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/haldi-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/haldi-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/janakpuri-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/janakpuri-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/hand-tied-turban-for-international-wedding/page.tsx
+// Validate ../../../app/jodhpuri-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/hand-tied-turban-for-international-wedding">> = Specific
-  const handler = {} as typeof import("../../../app/hand-tied-turban-for-international-wedding/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/holi-turban-in-mumbai/page.tsx
+// Validate ../../../app/jodhpuri-pagri-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/holi-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/holi-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-pagri-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-pagri-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/jodhpuri-matching-safa-in-mumbai/page.tsx
+// Validate ../../../app/jodhpuri-safa-design-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-matching-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/jodhpuri-matching-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-safa-design-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-safa-design-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/jodhpuri-safa-in-mumbai/page.tsx
+// Validate ../../../app/jodhpuri-safa-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/jodhpuri-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-safa-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-safa-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/juhu-safa-service/page.tsx
+// Validate ../../../app/jodhpuri-safa-for-wedding-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/juhu-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/juhu-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-safa-for-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-safa-for-wedding-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/kalyan-dombivli-safa-service/page.tsx
+// Validate ../../../app/jodhpuri-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/kalyan-dombivli-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/kalyan-dombivli-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/jodhpuri-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/jodhpuri-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/kandivali-safa-service/page.tsx
+// Validate ../../../app/kalkaji-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/kandivali-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/kandivali-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/kalkaji-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/kalkaji-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/khar-safa-service/page.tsx
+// Validate ../../../app/karol-bagh-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/khar-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/khar-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/karol-bagh-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/karol-bagh-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/kharghar-safa-service/page.tsx
+// Validate ../../../app/karol-bagh-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/kharghar-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/kharghar-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/karol-bagh-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/karol-bagh-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/kurla-safa-service/page.tsx
+// Validate ../../../app/lajpat-nagar-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/kurla-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/kurla-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/lajpat-nagar-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/lajpat-nagar-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/kurta-matching-safa-in-mumbai/page.tsx
+// Validate ../../../app/lajpat-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/kurta-matching-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/kurta-matching-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/lajpat-nagar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/lajpat-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/ladkewale-safa-in-mumbai/page.tsx
+// Validate ../../../app/luxury-wedding-turban-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/ladkewale-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/ladkewale-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/luxury-wedding-turban-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/luxury-wedding-turban-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/ladkiwale-safa-in-mumbai/page.tsx
+// Validate ../../../app/luxury-wedding-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/ladkiwale-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/ladkiwale-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/luxury-wedding-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/luxury-wedding-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/leheriya-safa-in-mumbai/page.tsx
+// Validate ../../../app/maharaja-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/leheriya-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/leheriya-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/maharaja-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/maharaja-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/luxury-wedding-turban-for-groom/page.tsx
+// Validate ../../../app/malviya-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/luxury-wedding-turban-for-groom">> = Specific
-  const handler = {} as typeof import("../../../app/luxury-wedding-turban-for-groom/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/malviya-nagar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/malviya-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/malad-safa-service/page.tsx
+// Validate ../../../app/marathi-pheta-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/malad-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/malad-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/marathi-pheta-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/marathi-pheta-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/marathi-pheta-in-mumbai/page.tsx
+// Validate ../../../app/marriage-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/marathi-pheta-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/marathi-pheta-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/marriage-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/marriage-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/maroon-safa-in-mumbai/page.tsx
+// Validate ../../../app/marwadi-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/maroon-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/maroon-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/marwadi-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/marwadi-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/marwari-safa-in-mumbai/page.tsx
+// Validate ../../../app/mayur-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/marwari-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/marwari-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/mayur-vihar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/mayur-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/mehendi-safa-in-mumbai/page.tsx
+// Validate ../../../app/mens-wedding-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/mehendi-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/mehendi-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/mens-wedding-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/mens-wedding-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/mehndi-function-safa-in-mumbai/page.tsx
+// Validate ../../../app/model-town-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/mehndi-function-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/mehndi-function-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/model-town-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/model-town-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/modern-safa-in-mumbai/page.tsx
+// Validate ../../../app/nehru-place-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/modern-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/modern-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/nehru-place-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/nehru-place-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/mulund-safa-service/page.tsx
+// Validate ../../../app/pagadi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/mulund-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/mulund-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagadi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagadi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/mumbai-airport-turban-service/page.tsx
+// Validate ../../../app/pagdi-bandhne-wala-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/mumbai-airport-turban-service">> = Specific
-  const handler = {} as typeof import("../../../app/mumbai-airport-turban-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagdi-bandhne-wala-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagdi-bandhne-wala-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/mundan-ceremony-turban-in-mumbai/page.tsx
+// Validate ../../../app/pagdi-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/mundan-ceremony-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/mundan-ceremony-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagdi-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagdi-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/navi-mumbai-safa-service/page.tsx
+// Validate ../../../app/pagdi-for-marriage-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/navi-mumbai-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/navi-mumbai-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagdi-for-marriage-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagdi-for-marriage-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/navratri-turban-in-mumbai/page.tsx
+// Validate ../../../app/pagdi-for-wedding-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/navratri-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/navratri-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagdi-for-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagdi-for-wedding-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/nerul-safa-service/page.tsx
+// Validate ../../../app/pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/nerul-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/nerul-safa-service/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/nri-wedding-safa-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/nri-wedding-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/nri-wedding-safa-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/orange-safa-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/orange-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/orange-safa-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagadi-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagadi-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagadi-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-bandhai-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-bandhai-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-bandhai-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-for-groom-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-for-groom-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-for-groom-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-for-wedding-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-for-wedding-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-for-wedding-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-rental-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-rental-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-rental-in-mumbai/page.js")
-  type __Check = __IsExpected<typeof handler>
-  // @ts-ignore
-  type __Unused = __Check
-}
-
-// Validate ../../../app/pagdi-wala-in-mumbai/page.tsx
-{
-  type __IsExpected<Specific extends AppPageConfig<"/pagdi-wala-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagdi-wala-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
@@ -792,532 +711,676 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
-// Validate ../../../app/paghdi-in-mumbai/page.tsx
+// Validate ../../../app/paghdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/paghdi-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/paghdi-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/paghdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/paghdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/pagri-in-mumbai/page.tsx
+// Validate ../../../app/pagri-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/pagri-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pagri-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pagri-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/pagri-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/panvel-safa-service/page.tsx
+// Validate ../../../app/paschim-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/panvel-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/panvel-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/paschim-vihar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/paschim-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/parel-safa-service/page.tsx
+// Validate ../../../app/pitampura-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/parel-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/parel-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pitampura-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/pitampura-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/peach-safa-in-mumbai/page.tsx
+// Validate ../../../app/pitampura-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/peach-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/peach-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/pitampura-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/pitampura-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/phera-ceremony-turban-in-mumbai/page.tsx
+// Validate ../../../app/preet-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/phera-ceremony-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/phera-ceremony-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/preet-vihar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/preet-vihar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/pheta-tying-in-mumbai/page.tsx
+// Validate ../../../app/premium-pagdi-with-kalgi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/pheta-tying-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pheta-tying-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/premium-pagdi-with-kalgi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/premium-pagdi-with-kalgi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/photo-shoot-safa-in-mumbai/page.tsx
+// Validate ../../../app/premium-wedding-safa-for-international-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/photo-shoot-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/photo-shoot-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/premium-wedding-safa-for-international-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/premium-wedding-safa-for-international-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/pink-safa-in-mumbai/page.tsx
+// Validate ../../../app/preview/[domain]/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/pink-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/pink-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/preview/[domain]">> = Specific
+  const handler = {} as typeof import("../../../app/preview/[domain]/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/powai-safa-service/page.tsx
+// Validate ../../../app/professional-safa-tying-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/powai-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/powai-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/professional-safa-tying-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/professional-safa-tying-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/premium-wedding-safa-for-international-groom/page.tsx
+// Validate ../../../app/punjabi-bagh-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/premium-wedding-safa-for-international-groom">> = Specific
-  const handler = {} as typeof import("../../../app/premium-wedding-safa-for-international-groom/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/punjabi-bagh-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/punjabi-bagh-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/punjabi-safa-in-mumbai/page.tsx
+// Validate ../../../app/punjabi-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/punjabi-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/punjabi-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/punjabi-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/punjabi-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/purple-safa-in-mumbai/page.tsx
+// Validate ../../../app/rajasthani-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/purple-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/purple-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajasthani-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajasthani-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/rajasthani-safa-in-mumbai/page.tsx
+// Validate ../../../app/rajasthani-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/rajasthani-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/rajasthani-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajasthani-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajasthani-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/reception-safa-in-mumbai/page.tsx
+// Validate ../../../app/rajouri-garden-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/reception-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/reception-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajouri-garden-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/rajouri-garden-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/red-safa-in-mumbai/page.tsx
+// Validate ../../../app/rajouri-garden-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/red-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/red-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajouri-garden-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/rajouri-garden-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/royal-groom-turban-for-destination-wedding/page.tsx
+// Validate ../../../app/rajput-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/royal-groom-turban-for-destination-wedding">> = Specific
-  const handler = {} as typeof import("../../../app/royal-groom-turban-for-destination-wedding/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajput-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajput-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/royal-wedding-turban-in-mumbai/page.tsx
+// Validate ../../../app/rajputi-safa-design-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/royal-wedding-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/royal-wedding-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajputi-safa-design-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajputi-safa-design-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-bandhai-in-mumbai/page.tsx
+// Validate ../../../app/rajputi-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-bandhai-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-bandhai-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajputi-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajputi-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-for-groom-in-mumbai/page.tsx
+// Validate ../../../app/rajwadi-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-for-groom-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-for-groom-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajwadi-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajwadi-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-in-mumbai/page.tsx
+// Validate ../../../app/rajwadi-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rajwadi-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/rajwadi-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-on-rent-in-mumbai/page.tsx
+// Validate ../../../app/ready-made-turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-on-rent-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-on-rent-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/ready-made-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/ready-made-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-pagdi-in-mumbai/page.tsx
+// Validate ../../../app/rohini-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-pagdi-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-pagdi-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rohini-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/rohini-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-price-in-mumbai/page.tsx
+// Validate ../../../app/rohini-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-price-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-price-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/rohini-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/rohini-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-shop-in-mumbai/page.tsx
+// Validate ../../../app/royal-groom-turban-for-destination-wedding-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-shop-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-shop-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/royal-groom-turban-for-destination-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/royal-groom-turban-for-destination-wedding-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-shop-near-me-in-mumbai/page.tsx
+// Validate ../../../app/royal-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-shop-near-me-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-shop-near-me-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/royal-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/royal-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-tying-service-in-mumbai/page.tsx
+// Validate ../../../app/royal-wedding-turban-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-tying-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-tying-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/royal-wedding-turban-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/royal-wedding-turban-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/safa-wala-in-mumbai/page.tsx
+// Validate ../../../app/safa-design-for-barati-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/safa-wala-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/safa-wala-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-design-for-barati-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-design-for-barati-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/same-day-safa-service-in-mumbai/page.tsx
+// Validate ../../../app/safa-design-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/same-day-safa-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/same-day-safa-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-design-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-design-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sangeet-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-for-barati-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sangeet-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sangeet-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-for-barati-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-for-barati-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/santacruz-safa-service/page.tsx
+// Validate ../../../app/safa-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/santacruz-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/santacruz-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/satin-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-for-men-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/satin-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/satin-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-for-men-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-for-men-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sehra-in-mumbai/page.tsx
+// Validate ../../../app/safa-garments-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sehra-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sehra-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-garments-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-garments-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sehra-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sehra-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sehra-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sherwani-matching-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-on-rent-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sherwani-matching-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sherwani-matching-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-on-rent-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-on-rent-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sikh-turban-in-mumbai/page.tsx
+// Validate ../../../app/safa-on-rent-near-me-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sikh-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sikh-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-on-rent-near-me-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-on-rent-near-me-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/silk-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/silk-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/silk-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/silver-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-shop-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/silver-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/silver-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-shop-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-shop-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/sindhi-safa-in-mumbai/page.tsx
+// Validate ../../../app/safa-tying-service-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/sindhi-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/sindhi-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safa-tying-service-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/safa-tying-service-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/south-mumbai-safa-service/page.tsx
+// Validate ../../../app/safdarjung-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/south-mumbai-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/south-mumbai-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/safdarjung-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/safdarjung-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/thane-safa-service/page.tsx
+// Validate ../../../app/saket-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/thane-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/thane-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/saket-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/saket-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/tilak-ceremony-safa-in-mumbai/page.tsx
+// Validate ../../../app/saket-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/tilak-ceremony-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/tilak-ceremony-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/saket-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/saket-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/traditional-indian-wedding-turban-for-groom/page.tsx
+// Validate ../../../app/sehra-dulha-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/traditional-indian-wedding-turban-for-groom">> = Specific
-  const handler = {} as typeof import("../../../app/traditional-indian-wedding-turban-for-groom/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/sehra-dulha-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/sehra-dulha-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/traditional-safa-in-mumbai/page.tsx
+// Validate ../../../app/sehra-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/traditional-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/traditional-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/sehra-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/sehra-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/turban-for-groom-in-mumbai/page.tsx
+// Validate ../../../app/sehra-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/turban-for-groom-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/turban-for-groom-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/sehra-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/sehra-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/turban-in-mumbai/page.tsx
+// Validate ../../../app/sehra-rental-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/sehra-rental-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/sehra-rental-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/turban-rental-near-me-in-mumbai/page.tsx
+// Validate ../../../app/sehrabandi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/turban-rental-near-me-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/turban-rental-near-me-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/sehrabandi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/sehrabandi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/turban-tying-service-in-mumbai/page.tsx
+// Validate ../../../app/shahdara-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/turban-tying-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/turban-tying-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/shahdara-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/shahdara-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/uncle-turban-in-mumbai/page.tsx
+// Validate ../../../app/south-delhi-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/uncle-turban-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/uncle-turban-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/south-delhi-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/south-delhi-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/vashi-safa-service/page.tsx
+// Validate ../../../app/south-delhi-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/vashi-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/vashi-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/south-delhi-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/south-delhi-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/velvet-safa-in-mumbai/page.tsx
+// Validate ../../../app/tilak-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/velvet-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/velvet-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/tilak-nagar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/tilak-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/vidai-turban-service-in-mumbai/page.tsx
+// Validate ../../../app/traditional-indian-wedding-turban-for-groom-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/vidai-turban-service-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/vidai-turban-service-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/traditional-indian-wedding-turban-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/traditional-indian-wedding-turban-for-groom-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/vile-parle-safa-service/page.tsx
+// Validate ../../../app/traditional-wedding-safa-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/vile-parle-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/vile-parle-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/traditional-wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/traditional-wedding-safa-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/wedding-pagdi-for-destination-wedding/page.tsx
+// Validate ../../../app/turban-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagdi-for-destination-wedding">> = Specific
-  const handler = {} as typeof import("../../../app/wedding-pagdi-for-destination-wedding/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/wedding-pagdi-in-mumbai/page.tsx
+// Validate ../../../app/uttam-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagdi-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/wedding-pagdi-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/uttam-nagar-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/uttam-nagar-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/wedding-safa-in-mumbai/page.tsx
+// Validate ../../../app/vadodara-groom-pagdi-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/wedding-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/vadodara-groom-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/vadodara-groom-pagdi-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/wedding-safa-tying-in-mumbai/page.tsx
+// Validate ../../../app/vasant-kunj-safa-service/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-tying-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/wedding-safa-tying-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/vasant-kunj-safa-service">> = Specific
+  const handler = {} as typeof import("../../../app/vasant-kunj-safa-service/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/white-safa-in-mumbai/page.tsx
+// Validate ../../../app/vasant-kunj-wedding-turban-safa-feta-pagdi-on-rent/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/white-safa-in-mumbai">> = Specific
-  const handler = {} as typeof import("../../../app/white-safa-in-mumbai/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/vasant-kunj-wedding-turban-safa-feta-pagdi-on-rent">> = Specific
+  const handler = {} as typeof import("../../../app/vasant-kunj-wedding-turban-safa-feta-pagdi-on-rent/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
 }
 
-// Validate ../../../app/worli-safa-service/page.tsx
+// Validate ../../../app/wedding-feta-in-delhi/page.tsx
 {
-  type __IsExpected<Specific extends AppPageConfig<"/worli-safa-service">> = Specific
-  const handler = {} as typeof import("../../../app/worli-safa-service/page.js")
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-feta-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-feta-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-pagdi-for-destination-wedding-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagdi-for-destination-wedding-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-pagdi-for-destination-wedding-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-pagdi-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagdi-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-pagdi-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-pagdi-shop-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagdi-shop-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-pagdi-shop-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-pagri-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-pagri-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-pagri-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-bandhej-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-bandhej-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-bandhej-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-draping-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-draping-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-draping-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-for-barati-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-for-barati-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-for-barati-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-for-groom-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-for-groom-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-for-rent-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-for-rent-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-for-rent-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-safa-on-rent-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-safa-on-rent-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-safa-on-rent-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-turban-draping-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-turban-draping-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-turban-draping-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-turban-for-barati-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-turban-for-barati-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-turban-for-barati-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-turban-for-groom-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-turban-for-groom-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-turban-for-groom-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-turban-for-groom-online-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-turban-for-groom-online-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-turban-for-groom-online-in-delhi/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/wedding-turban-in-delhi/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/wedding-turban-in-delhi">> = Specific
+  const handler = {} as typeof import("../../../app/wedding-turban-in-delhi/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check

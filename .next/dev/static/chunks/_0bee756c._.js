@@ -350,33 +350,33 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$ne
 const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://safawalamumbai.com",
-    name: "Safawala Mumbai - Wedding Turban Service",
-    image: "https://safawalamumbai.com/SAFAWALA%20LOGO.png",
-    description: "Mumbai's most trusted wedding turban specialists with 20+ years of heritage.",
+    "@id": "https://safawaladelhi.com",
+    name: "Safawala Delhi - Wedding Turban Service",
+    image: "https://safawaladelhi.com/SAFAWALA%20LOGO.png",
+    description: "Delhi's most trusted wedding turban specialists with 20+ years of heritage.",
     telephone: "+91-9725295692",
-    email: "info@safawalamumbai.com",
-    url: "https://safawalamumbai.com",
+    email: "info@safawaladelhi.com",
+    url: "https://safawaladelhi.com",
     address: {
         "@type": "PostalAddress",
-        streetAddress: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway",
-        addressLocality: "Mumbai",
-        addressRegion: "Maharashtra",
-        postalCode: "400001",
+        streetAddress: "Shop No. 15, Ground Floor, Chandni Chowk, Near Red Fort",
+        addressLocality: "Delhi",
+        addressRegion: "Delhi",
+        postalCode: "110006",
         addressCountry: "IN"
     },
     geo: {
         "@type": "GeoCoordinates",
-        latitude: "18.9220",
-        longitude: "72.8347"
+        latitude: "28.6562",
+        longitude: "77.2310"
     },
     areaServed: {
         "@type": "City",
-        name: "Mumbai"
+        name: "Delhi"
     },
     sameAs: [
-        "https://www.facebook.com/safawalamumbai/",
-        "https://www.instagram.com/safawalamumbai/",
+        "https://www.facebook.com/safawaladelhi/",
+        "https://www.instagram.com/safawaladelhi/",
         "https://wa.me/919725295692"
     ],
     aggregateRating: {
@@ -401,8 +401,8 @@ function LocalBusinessSchema() {
 _c = LocalBusinessSchema;
 const contactInfo = {
     phone: "+91-9725295692",
-    email: "info@safawalamumbai.com",
-    address: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway, Mumbai, Maharashtra – 400001",
+    email: "info@safawaladelhi.com",
+    address: "Shop No. 15, Ground Floor, Chandni Chowk, Near Red Fort, Delhi – 110006",
     hours: "9 AM - 9 PM (Daily)",
     whatsapp: "https://wa.me/919725295692"
 };
@@ -431,535 +431,455 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$local$2d$busin
 ;
 ;
 ;
-// Mumbai Areas
-const MUMBAI_AREAS = [
+// Delhi Areas
+const DELHI_AREAS = [
     {
-        name: "South Mumbai",
-        slug: "south-mumbai"
+        name: "South Delhi",
+        slug: "south-delhi-safa-service"
     },
     {
-        name: "Colaba",
-        slug: "colaba"
+        name: "Connaught Place",
+        slug: "connaught-place-safa-service"
     },
     {
-        name: "Malabar Hill",
-        slug: "malabar-hill"
+        name: "Greater Kailash",
+        slug: "greater-kailash-safa-service"
     },
     {
-        name: "Bandra West",
-        slug: "bandra-west"
+        name: "Defence Colony",
+        slug: "defence-colony-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Juhu",
-        slug: "juhu"
+        name: "Lajpat Nagar",
+        slug: "lajpat-nagar-safa-service"
     },
     {
-        name: "Andheri West",
-        slug: "andheri-west"
+        name: "Saket",
+        slug: "saket-safa-service"
     },
     {
-        name: "Breach Candy",
-        slug: "breach-candy"
+        name: "Hauz Khas",
+        slug: "hauz-khas-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Cuffe Parade",
-        slug: "cuffe-parade"
+        name: "Green Park",
+        slug: "green-park-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Nariman Point",
-        slug: "nariman-point"
+        name: "Vasant Kunj",
+        slug: "vasant-kunj-safa-service"
     },
     {
-        name: "Churchgate",
-        slug: "churchgate"
+        name: "Malviya Nagar",
+        slug: "malviya-nagar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Parel",
-        slug: "parel"
+        name: "Karol Bagh",
+        slug: "karol-bagh-safa-service"
     },
     {
-        name: "Dadar West",
-        slug: "dadar-west"
+        name: "Chandni Chowk",
+        slug: "chandni-chowk-safa-service"
     },
     {
-        name: "Santacruz West",
-        slug: "santacruz-west"
+        name: "Civil Lines",
+        slug: "civil-lines-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Powai",
-        slug: "powai"
+        name: "Rajouri Garden",
+        slug: "rajouri-garden-safa-service"
     },
     {
-        name: "Vile Parle West",
-        slug: "vile-parle-west"
+        name: "Dwarka",
+        slug: "dwarka-safa-service"
     },
     {
-        name: "Khar West",
-        slug: "khar-west"
+        name: "Janakpuri",
+        slug: "janakpuri-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Bandra East",
-        slug: "bandra-east"
+        name: "Punjabi Bagh",
+        slug: "punjabi-bagh-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Andheri East",
-        slug: "andheri-east"
+        name: "Tilak Nagar",
+        slug: "tilak-nagar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Borivali West",
-        slug: "borivali-west"
+        name: "Uttam Nagar",
+        slug: "uttam-nagar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Goregaon West",
-        slug: "goregaon-west"
+        name: "Paschim Vihar",
+        slug: "paschim-vihar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Thane West",
-        slug: "thane-west"
+        name: "Rohini",
+        slug: "rohini-safa-service"
     },
     {
-        name: "Mulund West",
-        slug: "mulund-west"
+        name: "Pitampura",
+        slug: "pitampura-safa-service"
     },
     {
-        name: "Chembur",
-        slug: "chembur"
+        name: "Model Town",
+        slug: "model-town-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Kurla",
-        slug: "kurla"
+        name: "Preet Vihar",
+        slug: "preet-vihar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Ghatkopar",
-        slug: "ghatkopar"
+        name: "Mayur Vihar",
+        slug: "mayur-vihar-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Malad West",
-        slug: "malad-west"
+        name: "Shahdara",
+        slug: "shahdara-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Kandivali West",
-        slug: "kandivali-west"
+        name: "East of Kailash",
+        slug: "east-of-kailash-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Borivali East",
-        slug: "borivali-east"
+        name: "Nehru Place",
+        slug: "nehru-place-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Goregaon East",
-        slug: "goregaon-east"
+        name: "Kalkaji",
+        slug: "kalkaji-wedding-turban-safa-feta-pagdi-on-rent"
     },
     {
-        name: "Kandivali East",
-        slug: "kandivali-east"
-    },
-    {
-        name: "Malad East",
-        slug: "malad-east"
-    },
-    {
-        name: "Sion",
-        slug: "sion"
-    },
-    {
-        name: "Matunga",
-        slug: "matunga"
-    },
-    {
-        name: "Byculla",
-        slug: "byculla"
-    },
-    {
-        name: "Cumballa Hill",
-        slug: "cumballa-hill"
-    },
-    {
-        name: "Lower Parel",
-        slug: "lower-parel"
-    },
-    {
-        name: "Bhandup",
-        slug: "bhandup"
-    },
-    {
-        name: "Mulund East",
-        slug: "mulund-east"
-    },
-    {
-        name: "Kurla West",
-        slug: "kurla-west"
-    },
-    {
-        name: "Ghatkopar East",
-        slug: "ghatkopar-east"
-    },
-    {
-        name: "Powai Hill",
-        slug: "powai-hill"
-    },
-    {
-        name: "Vashi",
-        slug: "vashi"
-    },
-    {
-        name: "Nerul",
-        slug: "nerul"
-    },
-    {
-        name: "CBD Belapur",
-        slug: "cbd-belapur"
-    },
-    {
-        name: "Kharghar",
-        slug: "kharghar"
-    },
-    {
-        name: "Panvel",
-        slug: "panvel"
-    },
-    {
-        name: "Mumbai Central",
-        slug: "mumbai-central"
-    },
-    {
-        name: "Mumbai West",
-        slug: "mumbai-west"
-    },
-    {
-        name: "Mumbai East",
-        slug: "mumbai-east"
-    },
-    {
-        name: "Mumbai Suburbs",
-        slug: "mumbai-suburbs"
+        name: "Safdarjung",
+        slug: "safdarjung-wedding-turban-safa-feta-pagdi-on-rent"
     }
 ];
 // Service Keywords Links
 const SERVICE_KEYWORDS = [
     // Core Safa / Pagdi / Turban
     {
-        name: "Safa in Mumbai",
-        slug: "safa-in-mumbai"
+        name: "Safa in Delhi",
+        slug: "safa-in-delhi"
     },
     {
-        name: "Pagdi in Mumbai",
-        slug: "pagdi-in-mumbai"
+        name: "Pagdi in Delhi",
+        slug: "pagdi-in-delhi"
     },
     {
-        name: "Pagri in Mumbai",
-        slug: "pagri-in-mumbai"
+        name: "Pagri in Delhi",
+        slug: "pagri-in-delhi"
     },
     {
-        name: "Pagadi in Mumbai",
-        slug: "pagadi-in-mumbai"
+        name: "Pagadi in Delhi",
+        slug: "pagadi-in-delhi"
     },
     {
-        name: "Paghdi in Mumbai",
-        slug: "paghdi-in-mumbai"
+        name: "Paghdi in Delhi",
+        slug: "paghdi-in-delhi"
     },
     {
-        name: "Turban in Mumbai",
-        slug: "turban-in-mumbai"
+        name: "Turban in Delhi",
+        slug: "turban-in-delhi"
     },
     {
-        name: "Feta in Mumbai",
-        slug: "feta-in-mumbai"
+        name: "Feta in Delhi",
+        slug: "feta-in-delhi"
     },
     // Wedding & Groom Focus
     {
-        name: "Wedding Safa in Mumbai",
-        slug: "wedding-safa-in-mumbai"
+        name: "Wedding Safa in Delhi",
+        slug: "wedding-safa-in-delhi"
     },
     {
-        name: "Safa for Groom in Mumbai",
-        slug: "safa-for-groom-in-mumbai"
+        name: "Safa for Groom in Delhi",
+        slug: "safa-for-groom-in-delhi"
     },
     {
-        name: "Groom Safa in Mumbai",
-        slug: "groom-safa-in-mumbai"
+        name: "Groom Safa in Delhi",
+        slug: "groom-safa-in-delhi"
     },
     {
-        name: "Groom Turban in Mumbai",
-        slug: "groom-turban-in-mumbai"
+        name: "Groom Turban in Delhi",
+        slug: "groom-turban-in-delhi"
     },
     {
-        name: "Wedding Turban in Mumbai",
-        slug: "wedding-turban-in-mumbai"
+        name: "Wedding Turban in Delhi",
+        slug: "wedding-turban-in-delhi"
     },
     {
-        name: "Wedding Pagdi in Mumbai",
-        slug: "wedding-pagdi-in-mumbai"
+        name: "Wedding Pagdi in Delhi",
+        slug: "wedding-pagdi-in-delhi"
     },
     {
-        name: "Wedding Pagri in Mumbai",
-        slug: "wedding-pagri-in-mumbai"
+        name: "Wedding Pagri in Delhi",
+        slug: "wedding-pagri-in-delhi"
     },
     {
-        name: "Pagdi for Wedding in Mumbai",
-        slug: "pagdi-for-wedding-in-mumbai"
+        name: "Pagdi for Wedding in Delhi",
+        slug: "pagdi-for-wedding-in-delhi"
     },
     {
-        name: "Pagdi for Marriage in Mumbai",
-        slug: "pagdi-for-marriage-in-mumbai"
+        name: "Pagdi for Marriage in Delhi",
+        slug: "pagdi-for-marriage-in-delhi"
     },
     {
-        name: "Marriage Pagdi in Mumbai",
-        slug: "marriage-pagdi-in-mumbai"
+        name: "Marriage Pagdi in Delhi",
+        slug: "marriage-pagdi-in-delhi"
     },
     {
-        name: "Dulha Safa in Mumbai",
-        slug: "dulha-safa-in-mumbai"
+        name: "Dulha Safa in Delhi",
+        slug: "dulha-safa-in-delhi"
     },
     {
-        name: "Dulha Pagdi in Mumbai",
-        slug: "dulha-pagdi-in-mumbai"
+        name: "Dulha Pagdi in Delhi",
+        slug: "dulha-pagdi-in-delhi"
     },
     {
-        name: "Dulha Pagri in Mumbai",
-        slug: "dulha-pagri-in-mumbai"
+        name: "Dulha Pagri in Delhi",
+        slug: "dulha-pagri-in-delhi"
     },
     {
-        name: "Dulhe Ki Pagdi in Mumbai",
-        slug: "dulhe-ki-pagdi-in-mumbai"
+        name: "Dulhe Ki Pagdi in Delhi",
+        slug: "dulhe-ki-pagdi-in-delhi"
     },
     {
-        name: "Indian Dulha Turban in Mumbai",
-        slug: "indian-dulha-turban-in-mumbai"
+        name: "Indian Dulha Turban in Delhi",
+        slug: "indian-dulha-turban-in-delhi"
     },
     {
-        name: "Royal Wedding Turban for Groom in Mumbai",
-        slug: "royal-wedding-turban-for-groom-in-mumbai"
+        name: "Royal Wedding Turban for Groom in Delhi",
+        slug: "royal-wedding-turban-for-groom-in-delhi"
     },
     {
-        name: "Luxury Wedding Turban in Mumbai",
-        slug: "luxury-wedding-turban-in-mumbai"
+        name: "Luxury Wedding Turban in Delhi",
+        slug: "luxury-wedding-turban-in-delhi"
     },
     {
-        name: "Traditional Wedding Safa in Mumbai",
-        slug: "traditional-wedding-safa-in-mumbai"
+        name: "Traditional Wedding Safa in Delhi",
+        slug: "traditional-wedding-safa-in-delhi"
     },
     {
-        name: "Designer Wedding Safa in Mumbai",
-        slug: "designer-wedding-safa-in-mumbai"
+        name: "Designer Wedding Safa in Delhi",
+        slug: "designer-wedding-safa-in-delhi"
     },
     {
-        name: "Custom Wedding Safa in Mumbai",
-        slug: "custom-wedding-safa-in-mumbai"
+        name: "Custom Wedding Safa in Delhi",
+        slug: "custom-wedding-safa-in-delhi"
     },
     {
-        name: "Premium Pagdi with Kalgi in Mumbai",
-        slug: "premium-pagdi-with-kalgi-in-mumbai"
+        name: "Premium Pagdi with Kalgi in Delhi",
+        slug: "premium-pagdi-with-kalgi-in-delhi"
     },
     // Regional / Style Based
     {
-        name: "Rajasthani Safa in Mumbai",
-        slug: "rajasthani-safa-in-mumbai"
+        name: "Rajasthani Safa in Delhi",
+        slug: "rajasthani-safa-in-delhi"
     },
     {
-        name: "Rajasthani Wedding Safa in Mumbai",
-        slug: "rajasthani-wedding-safa-in-mumbai"
+        name: "Rajasthani Wedding Safa in Delhi",
+        slug: "rajasthani-wedding-safa-in-delhi"
     },
     {
-        name: "Jodhpuri Safa in Mumbai",
-        slug: "jodhpuri-safa-in-mumbai"
+        name: "Jodhpuri Safa in Delhi",
+        slug: "jodhpuri-safa-in-delhi"
     },
     {
-        name: "Jodhpuri Pagdi in Mumbai",
-        slug: "jodhpuri-pagdi-in-mumbai"
+        name: "Jodhpuri Pagdi in Delhi",
+        slug: "jodhpuri-pagdi-in-delhi"
     },
     {
-        name: "Jodhpuri Pagri in Mumbai",
-        slug: "jodhpuri-pagri-in-mumbai"
+        name: "Jodhpuri Pagri in Delhi",
+        slug: "jodhpuri-pagri-in-delhi"
     },
     {
-        name: "Jodhpuri Safa for Groom in Mumbai",
-        slug: "jodhpuri-safa-for-groom-in-mumbai"
+        name: "Jodhpuri Safa for Groom in Delhi",
+        slug: "jodhpuri-safa-for-groom-in-delhi"
     },
     {
-        name: "Jodhpuri Safa for Wedding in Mumbai",
-        slug: "jodhpuri-safa-for-wedding-in-mumbai"
+        name: "Jodhpuri Safa for Wedding in Delhi",
+        slug: "jodhpuri-safa-for-wedding-in-delhi"
     },
     {
-        name: "Jodhpuri Safa Design in Mumbai",
-        slug: "jodhpuri-safa-design-in-mumbai"
+        name: "Jodhpuri Safa Design in Delhi",
+        slug: "jodhpuri-safa-design-in-delhi"
     },
     {
-        name: "Rajputi Safa in Mumbai",
-        slug: "rajputi-safa-in-mumbai"
+        name: "Rajputi Safa in Delhi",
+        slug: "rajputi-safa-in-delhi"
     },
     {
-        name: "Rajputi Safa Design in Mumbai",
-        slug: "rajputi-safa-design-in-mumbai"
+        name: "Rajputi Safa Design in Delhi",
+        slug: "rajputi-safa-design-in-delhi"
     },
     {
-        name: "Rajput Pagdi in Mumbai",
-        slug: "rajput-pagdi-in-mumbai"
+        name: "Rajput Pagdi in Delhi",
+        slug: "rajput-pagdi-in-delhi"
     },
     {
-        name: "Rajwadi Safa in Mumbai",
-        slug: "rajwadi-safa-in-mumbai"
+        name: "Rajwadi Safa in Delhi",
+        slug: "rajwadi-safa-in-delhi"
     },
     {
-        name: "Rajwadi Pagdi in Mumbai",
-        slug: "rajwadi-pagdi-in-mumbai"
+        name: "Rajwadi Pagdi in Delhi",
+        slug: "rajwadi-pagdi-in-delhi"
     },
     {
-        name: "Marwadi Safa in Mumbai",
-        slug: "marwadi-safa-in-mumbai"
+        name: "Marwadi Safa in Delhi",
+        slug: "marwadi-safa-in-delhi"
     },
     {
-        name: "Gujarati Pagdi in Mumbai",
-        slug: "gujarati-pagdi-in-mumbai"
+        name: "Gujarati Pagdi in Delhi",
+        slug: "gujarati-pagdi-in-delhi"
     },
     {
-        name: "Maharaja Safa in Mumbai",
-        slug: "maharaja-safa-in-mumbai"
+        name: "Maharaja Safa in Delhi",
+        slug: "maharaja-safa-in-delhi"
     },
     {
-        name: "Marathi Pheta in Mumbai",
-        slug: "marathi-pheta-in-mumbai"
+        name: "Marathi Pheta in Delhi",
+        slug: "marathi-pheta-in-delhi"
     },
     {
-        name: "Punjabi Turban in Mumbai",
-        slug: "punjabi-turban-in-mumbai"
+        name: "Punjabi Turban in Delhi",
+        slug: "punjabi-turban-in-delhi"
     },
     // Barati / Group Use
     {
-        name: "Safa for Barati in Mumbai",
-        slug: "safa-for-barati-in-mumbai"
+        name: "Safa for Barati in Delhi",
+        slug: "safa-for-barati-in-delhi"
     },
     {
-        name: "Wedding Safa for Barati in Mumbai",
-        slug: "wedding-safa-for-barati-in-mumbai"
+        name: "Wedding Safa for Barati in Delhi",
+        slug: "wedding-safa-for-barati-in-delhi"
     },
     {
-        name: "Safa Design for Barati in Mumbai",
-        slug: "safa-design-for-barati-in-mumbai"
+        name: "Safa Design for Barati in Delhi",
+        slug: "safa-design-for-barati-in-delhi"
     },
     {
-        name: "Wedding Turban for Barati in Mumbai",
-        slug: "wedding-turban-for-barati-in-mumbai"
+        name: "Wedding Turban for Barati in Delhi",
+        slug: "wedding-turban-for-barati-in-delhi"
     },
     {
-        name: "Mens Wedding Turban in Mumbai",
-        slug: "mens-wedding-turban-in-mumbai"
+        name: "Mens Wedding Turban in Delhi",
+        slug: "mens-wedding-turban-in-delhi"
     },
     // Rental / Service Based
     {
-        name: "Safa on Rent in Mumbai",
-        slug: "safa-on-rent-in-mumbai"
+        name: "Safa on Rent in Delhi",
+        slug: "safa-on-rent-in-delhi"
     },
     {
-        name: "Wedding Safa on Rent in Mumbai",
-        slug: "wedding-safa-on-rent-in-mumbai"
+        name: "Wedding Safa on Rent in Delhi",
+        slug: "wedding-safa-on-rent-in-delhi"
     },
     {
-        name: "Barati Safa on Rent in Mumbai",
-        slug: "barati-safa-on-rent-in-mumbai"
+        name: "Barati Safa on Rent in Delhi",
+        slug: "barati-safa-on-rent-in-delhi"
     },
     {
-        name: "Safa on Rent Near Me in Mumbai",
-        slug: "safa-on-rent-near-me-in-mumbai"
+        name: "Safa on Rent Near Me in Delhi",
+        slug: "safa-on-rent-near-me-in-delhi"
     },
     {
-        name: "Barati Safa Online in Mumbai",
-        slug: "barati-safa-online-in-mumbai"
+        name: "Barati Safa Online in Delhi",
+        slug: "barati-safa-online-in-delhi"
     },
     {
-        name: "Hand Tied Safa Rental Near Me in Mumbai",
-        slug: "hand-tied-safa-rental-near-me-in-mumbai"
+        name: "Hand Tied Safa Rental Near Me in Delhi",
+        slug: "hand-tied-safa-rental-near-me-in-delhi"
     },
     {
-        name: "Heritage Feta Turban Hire in Mumbai",
-        slug: "heritage-feta-turban-hire-in-mumbai"
+        name: "Heritage Feta Turban Hire in Delhi",
+        slug: "heritage-feta-turban-hire-in-delhi"
     },
     {
-        name: "Safa Tying Service in Mumbai",
-        slug: "safa-tying-service-in-mumbai"
+        name: "Safa Tying Service in Delhi",
+        slug: "safa-tying-service-in-delhi"
     },
     {
-        name: "Professional Safa Tying in Mumbai",
-        slug: "professional-safa-tying-in-mumbai"
+        name: "Professional Safa Tying in Delhi",
+        slug: "professional-safa-tying-in-delhi"
     },
     {
-        name: "Pagdi Bandhne Wala in Mumbai",
-        slug: "pagdi-bandhne-wala-in-mumbai"
+        name: "Pagdi Bandhne Wala in Delhi",
+        slug: "pagdi-bandhne-wala-in-delhi"
     },
     // Shop / Purchase Intent
     {
-        name: "Buy Wedding Safa in Mumbai",
-        slug: "buy-wedding-safa-in-mumbai"
+        name: "Buy Wedding Safa in Delhi",
+        slug: "buy-wedding-safa-in-delhi"
     },
     {
-        name: "Wedding Safa for Rent in Mumbai",
-        slug: "wedding-safa-for-rent-in-mumbai"
+        name: "Wedding Safa for Rent in Delhi",
+        slug: "wedding-safa-for-rent-in-delhi"
     },
     {
-        name: "Safa Shop in Mumbai",
-        slug: "safa-shop-in-mumbai"
+        name: "Safa Shop in Delhi",
+        slug: "safa-shop-in-delhi"
     },
     {
-        name: "Wedding Pagdi Shop in Mumbai",
-        slug: "wedding-pagdi-shop-in-mumbai"
+        name: "Wedding Pagdi Shop in Delhi",
+        slug: "wedding-pagdi-shop-in-delhi"
     },
     {
-        name: "Groom Turban Shop in Mumbai",
-        slug: "groom-turban-shop-in-mumbai"
+        name: "Groom Turban Shop in Delhi",
+        slug: "groom-turban-shop-in-delhi"
     },
     {
-        name: "Safa Garments in Mumbai",
-        slug: "safa-garments-in-mumbai"
+        name: "Safa Garments in Delhi",
+        slug: "safa-garments-in-delhi"
     },
     // Bandhej / Premium
     {
-        name: "Wedding Safa Bandhej in Mumbai",
-        slug: "wedding-safa-bandhej-in-mumbai"
+        name: "Wedding Safa Bandhej in Delhi",
+        slug: "wedding-safa-bandhej-in-delhi"
     },
     {
-        name: "Groom Safa Bandhej in Mumbai",
-        slug: "groom-safa-bandhej-in-mumbai"
+        name: "Groom Safa Bandhej in Delhi",
+        slug: "groom-safa-bandhej-in-delhi"
     },
     {
-        name: "Royal Wedding Safa in Mumbai",
-        slug: "royal-wedding-safa-in-mumbai"
+        name: "Royal Wedding Safa in Delhi",
+        slug: "royal-wedding-safa-in-delhi"
     },
     // Sehra Related
     {
-        name: "Sehra in Mumbai",
-        slug: "sehra-in-mumbai"
+        name: "Sehra in Delhi",
+        slug: "sehra-in-delhi"
     },
     {
-        name: "Groom Sehra in Mumbai",
-        slug: "groom-sehra-in-mumbai"
+        name: "Groom Sehra in Delhi",
+        slug: "groom-sehra-in-delhi"
     },
     {
-        name: "Dulha Sehra in Mumbai",
-        slug: "dulha-sehra-in-mumbai"
+        name: "Dulha Sehra in Delhi",
+        slug: "dulha-sehra-in-delhi"
     },
     {
-        name: "Dulhe Ka Sehra in Mumbai",
-        slug: "dulhe-ka-sehra-in-mumbai"
+        name: "Dulhe Ka Sehra in Delhi",
+        slug: "dulhe-ka-sehra-in-delhi"
     },
     {
-        name: "Sehra for Groom in Mumbai",
-        slug: "sehra-for-groom-in-mumbai"
+        name: "Sehra for Groom in Delhi",
+        slug: "sehra-for-groom-in-delhi"
     },
     {
-        name: "Customized Sehra for Baraat in Mumbai",
-        slug: "customized-sehra-for-baraat-in-mumbai"
+        name: "Customized Sehra for Baraat in Delhi",
+        slug: "customized-sehra-for-baraat-in-delhi"
     },
     {
-        name: "Sehra Rental in Mumbai",
-        slug: "sehra-rental-in-mumbai"
+        name: "Sehra Rental in Delhi",
+        slug: "sehra-rental-in-delhi"
     },
     // Draping / Service
     {
-        name: "Wedding Turban Draping in Mumbai",
-        slug: "wedding-turban-draping-in-mumbai"
+        name: "Wedding Turban Draping in Delhi",
+        slug: "wedding-turban-draping-in-delhi"
     },
     {
-        name: "Wedding Safa Draping in Mumbai",
-        slug: "wedding-safa-draping-in-mumbai"
+        name: "Wedding Safa Draping in Delhi",
+        slug: "wedding-safa-draping-in-delhi"
     }
 ];
 function Footer({ hideMainNavigation = false }) {
@@ -967,7 +887,7 @@ function Footer({ hideMainNavigation = false }) {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$local$2d$business$2d$schema$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["LocalBusinessSchema"], {}, void 0, false, {
                 fileName: "[project]/components/footer.tsx",
-                lineNumber: 159,
+                lineNumber: 139,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -986,27 +906,27 @@ function Footer({ hideMainNavigation = false }) {
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 className: "text-3xl font-bold mb-4 text-accent",
                                                 itemProp: "name",
-                                                children: "Safawala Mumbai"
+                                                children: "Safawala Delhi"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 165,
+                                                lineNumber: 145,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-primary-foreground/80 font-mono leading-relaxed mb-6",
                                                 itemProp: "description",
-                                                children: "Mumbai's most trusted wedding turban specialists. Bringing royal elegance to your special day since 2004."
+                                                children: "Delhi's most trusted wedding turban specialists. Bringing royal elegance to your special day since 2004."
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 168,
+                                                lineNumber: 148,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                                                 itemProp: "url",
-                                                content: "https://safawalamumbai.com"
+                                                content: "https://safawaladelhi.com"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 173,
+                                                lineNumber: 153,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
@@ -1014,30 +934,30 @@ function Footer({ hideMainNavigation = false }) {
                                                 content: "+91-9725295692"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 174,
+                                                lineNumber: 154,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                                                 itemProp: "email",
-                                                content: "info@safawalamumbai.com"
+                                                content: "info@safawaladelhi.com"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 175,
+                                                lineNumber: 155,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                                                 itemProp: "areaServed",
-                                                content: "Mumbai"
+                                                content: "Delhi"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 176,
+                                                lineNumber: 156,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "flex gap-4",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "https://www.facebook.com/safawalamumbai/",
+                                                        href: "https://www.facebook.com/safawaladelhi/",
                                                         target: "_blank",
                                                         rel: "noopener noreferrer",
                                                         className: "w-10 h-10 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors",
@@ -1047,16 +967,16 @@ function Footer({ hideMainNavigation = false }) {
                                                             "aria-hidden": "true"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/footer.tsx",
-                                                            lineNumber: 185,
+                                                            lineNumber: 165,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 178,
+                                                        lineNumber: 158,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "https://www.instagram.com/safawalamumbai/",
+                                                        href: "https://www.instagram.com/safawaladelhi/",
                                                         target: "_blank",
                                                         rel: "noopener noreferrer",
                                                         className: "w-10 h-10 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors",
@@ -1066,24 +986,24 @@ function Footer({ hideMainNavigation = false }) {
                                                             "aria-hidden": "true"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/footer.tsx",
-                                                            lineNumber: 194,
+                                                            lineNumber: 174,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 187,
+                                                        lineNumber: 167,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 177,
+                                                lineNumber: 157,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 164,
+                                        lineNumber: 144,
                                         columnNumber: 13
                                     }, this),
                                     !hideMainNavigation && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -1093,7 +1013,7 @@ function Footer({ hideMainNavigation = false }) {
                                                 children: "Quick Links"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 202,
+                                                lineNumber: 182,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1112,23 +1032,23 @@ function Footer({ hideMainNavigation = false }) {
                                                             children: link
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/footer.tsx",
-                                                            lineNumber: 206,
+                                                            lineNumber: 186,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, link, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 205,
+                                                        lineNumber: 185,
                                                         columnNumber: 19
                                                     }, this))
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 203,
+                                                lineNumber: 183,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 201,
+                                        lineNumber: 181,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1138,7 +1058,7 @@ function Footer({ hideMainNavigation = false }) {
                                                 children: "Our Services"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 223,
+                                                lineNumber: 203,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1148,61 +1068,61 @@ function Footer({ hideMainNavigation = false }) {
                                                         children: "Wedding Turban Tying Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 225,
+                                                        lineNumber: 205,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Safa & Pagdi Tying"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 226,
+                                                        lineNumber: 206,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Groom Turban & Sehra"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 227,
+                                                        lineNumber: 207,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Feta & Wedding Turban Design"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 228,
+                                                        lineNumber: 208,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Barati Safa Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 229,
+                                                        lineNumber: 209,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Marathi Pheta Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 230,
+                                                        lineNumber: 210,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Destination Wedding Turbans"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 231,
+                                                        lineNumber: 211,
                                                         columnNumber: 15
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 224,
+                                                lineNumber: 204,
                                                 columnNumber: 13
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 222,
+                                        lineNumber: 202,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("address", {
@@ -1213,7 +1133,7 @@ function Footer({ hideMainNavigation = false }) {
                                                 children: "Contact Us"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 237,
+                                                lineNumber: 217,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1227,7 +1147,7 @@ function Footer({ hideMainNavigation = false }) {
                                                                 "aria-hidden": "true"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 240,
+                                                                lineNumber: 220,
                                                                 columnNumber: 17
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1237,31 +1157,31 @@ function Footer({ hideMainNavigation = false }) {
                                                                         "Shop No. 15, Ground Floor,",
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                             fileName: "[project]/components/footer.tsx",
-                                                                            lineNumber: 243,
+                                                                            lineNumber: 223,
                                                                             columnNumber: 47
                                                                         }, this),
-                                                                        "Near Gateway of India, Colaba Causeway,",
+                                                                        "Chandni Chowk, Near Red Fort,",
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                             fileName: "[project]/components/footer.tsx",
-                                                                            lineNumber: 244,
-                                                                            columnNumber: 60
+                                                                            lineNumber: 224,
+                                                                            columnNumber: 50
                                                                         }, this),
-                                                                        "Mumbai, Maharashtra – 400001, India"
+                                                                        "Delhi – 110006, India"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/footer.tsx",
-                                                                    lineNumber: 242,
+                                                                    lineNumber: 222,
                                                                     columnNumber: 19
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 241,
+                                                                lineNumber: 221,
                                                                 columnNumber: 17
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 239,
+                                                        lineNumber: 219,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1272,7 +1192,7 @@ function Footer({ hideMainNavigation = false }) {
                                                                 "aria-hidden": "true"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 251,
+                                                                lineNumber: 231,
                                                                 columnNumber: 17
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1281,13 +1201,13 @@ function Footer({ hideMainNavigation = false }) {
                                                                 children: "+91 97252 95692"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 252,
+                                                                lineNumber: 232,
                                                                 columnNumber: 17
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 250,
+                                                        lineNumber: 230,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1298,22 +1218,22 @@ function Footer({ hideMainNavigation = false }) {
                                                                 "aria-hidden": "true"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 261,
+                                                                lineNumber: 241,
                                                                 columnNumber: 17
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                href: "mailto:info@safawalamumbai.com",
+                                                                href: "mailto:info@safawaladelhi.com",
                                                                 className: "text-primary-foreground/80 hover:text-accent transition-colors font-mono",
-                                                                children: "info@safawalamumbai.com"
+                                                                children: "info@safawaladelhi.com"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 262,
+                                                                lineNumber: 242,
                                                                 columnNumber: 17
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 260,
+                                                        lineNumber: 240,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1324,7 +1244,7 @@ function Footer({ hideMainNavigation = false }) {
                                                                 "aria-hidden": "true"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 271,
+                                                                lineNumber: 251,
                                                                 columnNumber: 17
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1334,44 +1254,44 @@ function Footer({ hideMainNavigation = false }) {
                                                                         children: "Mon - Sat: 9 AM - 9 PM"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/footer.tsx",
-                                                                        lineNumber: 273,
+                                                                        lineNumber: 253,
                                                                         columnNumber: 19
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                         children: "Sunday: 10 AM - 8 PM"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/footer.tsx",
-                                                                        lineNumber: 274,
+                                                                        lineNumber: 254,
                                                                         columnNumber: 19
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/footer.tsx",
-                                                                lineNumber: 272,
+                                                                lineNumber: 252,
                                                                 columnNumber: 17
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/footer.tsx",
-                                                        lineNumber: 270,
+                                                        lineNumber: 250,
                                                         columnNumber: 15
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 238,
+                                                lineNumber: 218,
                                                 columnNumber: 13
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 236,
+                                        lineNumber: 216,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/footer.tsx",
-                                lineNumber: 162,
+                                lineNumber: 142,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1379,40 +1299,40 @@ function Footer({ hideMainNavigation = false }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                         className: "text-xl font-bold mb-4 text-center",
-                                        children: "We Service In - All Areas of Mumbai"
+                                        children: "We Service In - All Areas of Delhi NCR"
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 283,
+                                        lineNumber: 263,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2 text-sm text-center",
-                                        children: MUMBAI_AREAS.map((area)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        children: DELHI_AREAS.map((area)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                 href: `/${area.slug}`,
                                                 className: "text-primary-foreground/80 hover:text-accent transition-colors font-mono py-1",
                                                 children: area.name
                                             }, area.slug, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 286,
+                                                lineNumber: 266,
                                                 columnNumber: 15
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 284,
+                                        lineNumber: 264,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-center text-accent font-mono text-sm mt-4",
-                                        children: "✓ Destination Wedding Turban Service | ✓ On-site Safa & Pagdi Tying | ✓ Groom & Baraati Coverage | ✓ All Mumbai Areas"
+                                        children: "✓ Destination Wedding Turban Service | ✓ On-site Safa & Pagdi Tying | ✓ Groom & Baraati Coverage | ✓ All Delhi NCR Areas"
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 295,
+                                        lineNumber: 275,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/footer.tsx",
-                                lineNumber: 282,
+                                lineNumber: 262,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1420,10 +1340,10 @@ function Footer({ hideMainNavigation = false }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                         className: "text-xl font-bold mb-6 text-center",
-                                        children: "Wedding Turban Services in Mumbai"
+                                        children: "Wedding Turban Services in Delhi"
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 302,
+                                        lineNumber: 282,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1437,18 +1357,18 @@ function Footer({ hideMainNavigation = false }) {
                                                 ]
                                             }, service.slug, true, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 305,
+                                                lineNumber: 285,
                                                 columnNumber: 15
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 303,
+                                        lineNumber: 283,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/footer.tsx",
-                                lineNumber: 301,
+                                lineNumber: 281,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1458,10 +1378,10 @@ function Footer({ hideMainNavigation = false }) {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-primary-foreground/80 font-mono text-sm text-center md:text-left",
-                                            children: "© 2025 Safawala Mumbai. All rights reserved. | Mumbai's Premier Wedding Turban Service"
+                                            children: "© 2025 Safawala Delhi. All rights reserved. | Delhi's Premier Wedding Turban Service"
                                         }, void 0, false, {
                                             fileName: "[project]/components/footer.tsx",
-                                            lineNumber: 319,
+                                            lineNumber: 299,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1473,7 +1393,7 @@ function Footer({ hideMainNavigation = false }) {
                                                     children: "Privacy Policy"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/footer.tsx",
-                                                    lineNumber: 323,
+                                                    lineNumber: 303,
                                                     columnNumber: 15
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1482,24 +1402,24 @@ function Footer({ hideMainNavigation = false }) {
                                                     children: "Terms of Service"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/footer.tsx",
-                                                    lineNumber: 326,
+                                                    lineNumber: 306,
                                                     columnNumber: 15
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/footer.tsx",
-                                            lineNumber: 322,
+                                            lineNumber: 302,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/footer.tsx",
-                                    lineNumber: 318,
+                                    lineNumber: 298,
                                     columnNumber: 11
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/footer.tsx",
-                                lineNumber: 317,
+                                lineNumber: 297,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1507,85 +1427,98 @@ function Footer({ hideMainNavigation = false }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-xl font-bold mb-4 text-center",
-                                        children: "Service Areas - All Neighborhoods of Mumbai"
+                                        children: "Service Areas - All Neighborhoods of Delhi NCR"
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 335,
+                                        lineNumber: 315,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-center text-primary-foreground/80 font-mono text-sm leading-relaxed max-w-4xl mx-auto",
                                         children: [
-                                            "We provide professional turban tying service across all major areas of Mumbai including:",
+                                            "We provide professional turban tying service across all major areas of Delhi NCR including:",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 338,
+                                                lineNumber: 318,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "South Mumbai:"
+                                                children: "South Delhi:"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 339,
+                                                lineNumber: 319,
                                                 columnNumber: 13
                                             }, this),
-                                            " Colaba, Cuffe Parade, Nariman Point, Churchgate, Marine Drive, Malabar Hill, Breach Candy, Cumballa Hill",
+                                            " Greater Kailash, Defence Colony, Lajpat Nagar, Saket, Hauz Khas, Green Park, Vasant Kunj, Malviya Nagar",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 340,
+                                                lineNumber: 320,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Central Mumbai:"
+                                                children: "Central Delhi:"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 341,
+                                                lineNumber: 321,
                                                 columnNumber: 13
                                             }, this),
-                                            " Parel, Dadar, Matunga, Sion, Byculla, Lower Parel, Mumbai Central",
+                                            " Connaught Place, Karol Bagh, Chandni Chowk, Civil Lines, Rajouri Garden",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 342,
+                                                lineNumber: 322,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Western Suburbs:"
+                                                children: "West Delhi:"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 343,
+                                                lineNumber: 323,
                                                 columnNumber: 13
                                             }, this),
-                                            " Bandra, Juhu, Andheri, Santacruz, Vile Parle, Khar, Goregaon, Malad, Kandivali, Borivali",
+                                            " Dwarka, Janakpuri, Punjabi Bagh, Tilak Nagar, Uttam Nagar, Paschim Vihar",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 344,
+                                                lineNumber: 324,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Eastern Suburbs:"
+                                                children: "North Delhi:"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 345,
+                                                lineNumber: 325,
                                                 columnNumber: 13
                                             }, this),
-                                            " Chembur, Kurla, Ghatkopar, Mulund, Bhandup, Powai",
+                                            " Rohini, Pitampura, Model Town, Civil Lines",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 346,
+                                                lineNumber: 326,
                                                 columnNumber: 13
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Navi Mumbai:"
+                                                children: "East Delhi:"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/footer.tsx",
-                                                lineNumber: 347,
+                                                lineNumber: 327,
                                                 columnNumber: 13
                                             }, this),
-                                            " Vashi, Nerul, CBD Belapur, Kharghar, Panvel"
+                                            " Preet Vihar, Mayur Vihar, Shahdara, Laxmi Nagar",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                fileName: "[project]/components/footer.tsx",
+                                                lineNumber: 328,
+                                                columnNumber: 13
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                children: "NCR:"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/footer.tsx",
+                                                lineNumber: 329,
+                                                columnNumber: 13
+                                            }, this),
+                                            " Noida, Gurgaon, Faridabad, Ghaziabad"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 336,
+                                        lineNumber: 316,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1593,33 +1526,33 @@ function Footer({ hideMainNavigation = false }) {
                                         children: "✓ Same-Day Service Available | ✓ Free Consultation | ✓ Destination Weddings | ✓ On-site Styling"
                                     }, void 0, false, {
                                         fileName: "[project]/components/footer.tsx",
-                                        lineNumber: 349,
+                                        lineNumber: 331,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/footer.tsx",
-                                lineNumber: 334,
+                                lineNumber: 314,
                                 columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/footer.tsx",
-                        lineNumber: 161,
+                        lineNumber: 141,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "sr-only",
-                        children: "Wedding turban Mumbai, safa Mumbai, pagdi tying service Mumbai, groom turban Mumbai, wedding safa Mumbai, turban tying Mumbai, best turban service Mumbai, safa tying service Mumbai, pagdi design Mumbai, feta tying Mumbai, sehra Mumbai, barati safa Mumbai, turban rental Mumbai, turban service Mumbai, wedding turban price Mumbai, turban for groom Mumbai, custom wedding turban Mumbai, turban tying near me Mumbai, groom pagdi Mumbai, traditional turban Mumbai, premium safa design Mumbai, wedding turban online Mumbai, turban shop Mumbai, modern pagdi design Mumbai, ethnic turban Mumbai, fabric safa Mumbai, gold embroidered turban Mumbai, bridal groom turban Mumbai, turban booking Mumbai, same day turban service Mumbai, professional turban tying Mumbai, handmade safa Mumbai, silk pagdi Mumbai, embellished turban Mumbai, wedding turban rental Mumbai, groom styling Mumbai, rajasthani safa mumbai, jodhpuri safa mumbai, marathi pheta mumbai, gujarati pagdi mumbai, punjabi turban mumbai, Colaba safa service, Bandra turban tying, Juhu pagdi service, Andheri wedding turban, Powai safa tying, Thane turban service, Vashi safa service, Navi Mumbai turban, South Mumbai pagdi, Western Suburbs safa"
+                        children: "Wedding turban Delhi, safa Delhi, pagdi tying service Delhi, groom turban Delhi, wedding safa Delhi, turban tying Delhi, best turban service Delhi, safa tying service Delhi, pagdi design Delhi, feta tying Delhi, sehra Delhi, barati safa Delhi, turban rental Delhi, turban service Delhi, wedding turban price Delhi, turban for groom Delhi, custom wedding turban Delhi, turban tying near me Delhi, groom pagdi Delhi, traditional turban Delhi, premium safa design Delhi, wedding turban online Delhi, turban shop Delhi, modern pagdi design Delhi, ethnic turban Delhi, fabric safa Delhi, gold embroidered turban Delhi, bridal groom turban Delhi, turban booking Delhi, same day turban service Delhi, professional turban tying Delhi, handmade safa Delhi, silk pagdi Delhi, embellished turban Delhi, wedding turban rental Delhi, groom styling Delhi, rajasthani safa delhi, jodhpuri safa delhi, marathi pheta delhi, gujarati pagdi delhi, punjabi turban delhi, South Delhi safa service, Connaught Place turban tying, Greater Kailash pagdi service, Dwarka wedding turban, Rohini safa tying, Noida turban service, Gurgaon safa service, NCR turban, Delhi NCR pagdi, West Delhi safa"
                     }, void 0, false, {
                         fileName: "[project]/components/footer.tsx",
-                        lineNumber: 356,
+                        lineNumber: 338,
                         columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/footer.tsx",
-                lineNumber: 160,
+                lineNumber: 140,
                 columnNumber: 7
             }, this)
         ]
@@ -2245,7 +2178,7 @@ function WhatsAppFloat() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Input"], {
                                             id: "eventCity",
-                                            placeholder: "e.g., Mumbai, Thane, Navi Mumbai",
+                                            placeholder: "e.g., Delhi, Noida, Gurgaon",
                                             value: formData.eventCity,
                                             onChange: (e)=>setFormData({
                                                     ...formData,

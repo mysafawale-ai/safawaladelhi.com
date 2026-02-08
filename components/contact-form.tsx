@@ -41,7 +41,7 @@ export function ContactForm() {
 ✨ *Design/Colour/Fabric Preference:* ${formData.preference}
 
 ---
-📱 *Sent via Safawala Mumbai Website*
+📱 *Sent via Safawala Delhi Website*
     `.trim()
 
     // Replace with your WhatsApp number (include country code without + sign)
@@ -61,7 +61,7 @@ export function ContactForm() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-12">
             <p className="text-accent font-mono uppercase tracking-wider mb-4">Book Your Safa & Pagdi Service</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Get Premium Wedding Turban Service in Mumbai</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Get Premium Wedding Turban Service in Delhi</h2>
             <p className="text-xl text-primary-foreground/90 font-mono leading-relaxed max-w-2xl mx-auto">
               {"Safawala's best turban tying service - Expert safa, pagdi, sehra & feta design. Fill the form below and we'll connect with you on WhatsApp instantly"}
             </p>
@@ -107,7 +107,7 @@ export function ContactForm() {
                   <Input
                     id="eventCity"
                     type="text"
-                    placeholder="e.g., Mumbai, Thane, Navi Mumbai"
+                    placeholder="e.g., Delhi, Noida, Gurgaon"
                     value={formData.eventCity}
                     onChange={(e) => setFormData({ ...formData, eventCity: e.target.value })}
                     required
@@ -200,7 +200,7 @@ export function ContactForm() {
                     "Instant quotes on WhatsApp",
                     "Same-day response to all queries",
                     "Flexible appointment scheduling",
-                    "On-site service available across Mumbai",
+                    "On-site service available across Delhi NCR",
                   ].map((item, index) => (
                     <li key={index} className="flex items-start gap-3">
                       <div className="w-2 h-2 rounded-full bg-accent mt-2 flex-shrink-0" />

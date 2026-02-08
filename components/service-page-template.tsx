@@ -3,6 +3,7 @@
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import { WhatsAppFloat } from "@/components/whatsapp-float"
+import { SEOBreadcrumb, generateBreadcrumbItems } from "@/components/seo-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { MapPin, Phone, Star, CheckCircle, MessageCircle, Clock } from "lucide-react"
 import Image from "next/image"
@@ -10,6 +11,7 @@ import { useState } from "react"
 
 interface ServicePageProps {
   title: string
+  slug: string
   description: string
   shortDescription: string
   mainImage: string
@@ -24,6 +26,7 @@ interface ServicePageProps {
 
 export function ServicePageTemplate({
   title,
+  slug,
   description,
   shortDescription,
   mainImage,
@@ -57,8 +60,13 @@ export function ServicePageTemplate({
     <main className="min-h-screen">
       <Navigation />
 
+      {/* SEO Breadcrumb with JSON-LD */}
+      <div className="pt-16 sm:pt-20">
+        <SEOBreadcrumb items={generateBreadcrumbItems(slug, title)} />
+      </div>
+
       {/* Hero Section */}
-      <section className="pt-24 sm:pt-28 md:pt-32 pb-10 md:pb-16 bg-gradient-to-br from-primary to-primary/80 text-white">
+      <section className="pt-6 sm:pt-8 md:pt-10 pb-10 md:pb-16 bg-gradient-to-br from-primary to-primary/80 text-white">
         <div className="container mx-auto px-4 sm:px-6">
           <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-center">
             <div>
@@ -294,7 +302,7 @@ export function ServicePageTemplate({
       {/* Service Areas Section */}
       <section className="py-10 md:py-16 bg-white">
         <div className="container mx-auto px-4 sm:px-6">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-8 md:mb-12 text-center text-primary">Service Areas in Mumbai</h2>
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-8 md:mb-12 text-center text-primary">Service Areas in Delhi</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4">
             {areas.map((area, index) => (
               <div key={index} className="flex items-center gap-2 md:gap-3 bg-accent/10 p-3 md:p-4 rounded-lg">
@@ -331,7 +339,7 @@ export function ServicePageTemplate({
         <div className="container mx-auto px-4 sm:px-6 text-center">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 md:mb-6">Ready to Book Your {title}?</h2>
           <p className="text-base sm:text-lg md:text-xl mb-6 md:mb-8 text-white/90 max-w-2xl mx-auto">
-            Contact Safawala Mumbai today for the most professional turban tying service in Mumbai
+            Contact Safawala Delhi today for the most professional turban tying service in Delhi
           </p>
           <div className="flex gap-3 md:gap-4 justify-center flex-wrap">
             <a href="tel:+919725295692">
@@ -387,7 +395,7 @@ export function ServicePageTemplate({
                       name="city"
                       value={formData.city}
                       onChange={handleFormChange}
-                      placeholder="e.g., Mumbai, Thane, Navi Mumbai"
+                      placeholder="e.g., Delhi, Noida, Gurgaon"
                       className="w-full px-3 md:px-4 py-2.5 md:py-3 text-sm md:text-base border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
                     />
                   </div>

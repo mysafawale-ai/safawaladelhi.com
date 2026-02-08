@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function SehraRentalInDelhiPage() {
   const pageData = {
     title: "Well-Maintained Rental Collection Sehra in Delhi",
+    slug: "sehra-rental-in-delhi",
     shortDescription: "Looking for premium sehra in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium sehra service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

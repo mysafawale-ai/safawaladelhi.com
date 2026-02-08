@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function WeddingFetaInDelhiPage() {
   const pageData = {
     title: "Premium Wedding-Grade Feta in Delhi",
+    slug: "wedding-feta-in-delhi",
     shortDescription: "Looking for premium feta in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium feta service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function GroomPagriInDelhiPage() {
   const pageData = {
     title: "Groom Pagri in Delhi",
+    slug: "groom-pagri-in-delhi",
     shortDescription: "Looking for premium pagri in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium pagri service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

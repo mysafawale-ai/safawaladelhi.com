@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function ConnaughtPlaceSafaServicePage() {
   const pageData = {
     title: "Connaught Place Wedding Turban Safa Feta Pagdi Service",
+    slug: "connaught-place-safa-service",
     shortDescription: "Looking for premium wedding turban in Connaught Place, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Connaught Place, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

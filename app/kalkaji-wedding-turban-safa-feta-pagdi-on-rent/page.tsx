@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function KalkajiWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Kalkaji Wedding Turban Safa Feta Pagdi Service",
+    slug: "kalkaji-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Kalkaji, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Kalkaji, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

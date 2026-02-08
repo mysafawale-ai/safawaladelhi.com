@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function KarolBaghSafaServicePage() {
   const pageData = {
     title: "Karol Bagh Wedding Turban Safa Feta Pagdi Service",
+    slug: "karol-bagh-safa-service",
     shortDescription: "Looking for premium wedding turban in Karol Bagh, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Karol Bagh, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

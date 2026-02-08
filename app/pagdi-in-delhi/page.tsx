@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function PagdiInDelhiPage() {
   const pageData = {
     title: "Pagdi in Delhi",
+    slug: "pagdi-in-delhi",
     shortDescription: "Looking for premium pagdi in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium pagdi service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

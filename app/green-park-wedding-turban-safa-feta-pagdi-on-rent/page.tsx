@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function GreenParkWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Green Park Wedding Turban Safa Feta Pagdi Service",
+    slug: "green-park-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Green Park, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Green Park, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function PunjabiTurbanInDelhiPage() {
   const pageData = {
     title: "Punjab Turban in Delhi",
+    slug: "punjabi-turban-in-delhi",
     shortDescription: "Looking for premium turban in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium turban service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

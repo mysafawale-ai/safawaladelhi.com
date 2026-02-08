@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function SafaOnRentInDelhiPage() {
   const pageData = {
     title: "Well-Maintained Rental Collection Safa in Delhi",
+    slug: "safa-on-rent-in-delhi",
     shortDescription: "Looking for premium safa in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium safa service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

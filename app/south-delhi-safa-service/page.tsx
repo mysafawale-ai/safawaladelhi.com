@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function SouthDelhiSafaServicePage() {
   const pageData = {
     title: "South Delhi Wedding Turban Safa Feta Pagdi Service",
+    slug: "south-delhi-safa-service",
     shortDescription: "Looking for premium wedding turban in South Delhi, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in South Delhi, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

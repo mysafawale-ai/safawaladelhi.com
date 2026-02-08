@@ -7,12 +7,12 @@ const features = [
   {
     icon: Crown,
     title: "40+ Years Legacy",
-    description: "Four decades of preserving authentic turban tying traditions with master craftsmanship across Mumbai",
+    description: "Four decades of preserving authentic turban tying traditions with master craftsmanship across Delhi",
   },
   {
     icon: Users,
     title: "750+ Weddings Yearly",
-    description: "Trusted turban service for premium groom styling across Mumbai's most celebrated weddings",
+    description: "Trusted turban service for premium groom styling across Delhi's most celebrated weddings",
   },
   {
     icon: Award,
@@ -35,11 +35,11 @@ export function AboutSection() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <p className="text-accent font-mono uppercase tracking-wider mb-4">About Us</p>
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-            Mumbai's Premier Wedding Turban Specialists
+            Delhi's Premier Wedding Turban Specialists
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed font-mono">
             {
-              "Safawala Mumbai is Mumbai's leading wedding turban specialist, offering premium safa and pagdi services for grooms and baraatis. With 40+ years of expertise, we combine traditional craftsmanship with contemporary designs to create the perfect turban for your special day across all Mumbai areas."
+              "Safawala Delhi is Delhi's leading wedding turban specialist, offering premium safa and pagdi services for grooms and baraatis. With 40+ years of expertise, we combine traditional craftsmanship with contemporary designs to create the perfect turban for your special day across all Delhi areas."
             }
           </p>
         </div>
@@ -67,12 +67,12 @@ export function AboutSection() {
                 <div className="w-full aspect-[9/16] bg-gradient-to-br from-primary/80 to-primary flex flex-col items-center justify-center text-white">
                   <div className="text-center space-y-4 px-6">
                     <img
-                      src="https://safawalamumbai.com/safawalalogo.png"
-                      alt="Safawala Mumbai"
+                      src="https://safawaladelhi.com/safawalalogo.png"
+                      alt="Safawala Delhi"
                       className="h-16 mx-auto opacity-90"
                     />
-                    <p className="text-lg font-bold">Safawala Mumbai</p>
-                    <p className="text-sm opacity-90">Premium Wedding Turban Service Mumbai</p>
+                    <p className="text-lg font-bold">Safawala Delhi</p>
+                    <p className="text-sm opacity-90">Premium Wedding Turban Service Delhi</p>
                   </div>
                 </div>
                 <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
@@ -93,15 +93,15 @@ export function AboutSection() {
             )}
           </div>
           <div className="space-y-6">
-            <h3 className="text-3xl md:text-4xl font-bold text-foreground text-balance">Why Choose Safawala Mumbai?</h3>
+            <h3 className="text-3xl md:text-4xl font-bold text-foreground text-balance">Why Choose Safawala Delhi?</h3>
             <p className="text-muted-foreground font-mono leading-relaxed text-lg">
               {
-                "Safawala Mumbai stands as Mumbai's most trusted turban service, serving 750+ weddings annually with precision and elegance. Our expert team combines traditional turban-tying techniques with personalized styling to ensure every groom looks absolutely regal on their special day across all Mumbai areas."
+                "Safawala Delhi stands as Delhi's most trusted turban service, serving 750+ weddings annually with precision and elegance. Our expert team combines traditional turban-tying techniques with personalized styling to ensure every groom looks absolutely regal on their special day across all Delhi areas."
               }
             </p>
             <p className="text-muted-foreground font-mono leading-relaxed text-lg">
               {
-                "With four decades of heritage, we've perfected the art of creating stunning turbans for weddings, engagements, and special ceremonies. From classic burgundy and gold safas to modern fusion designs, Safawala Mumbai delivers premium quality, perfect fitting, and exceptional service across all of Mumbai including Colaba, Bandra, Juhu, Andheri, Powai, Thane, and Navi Mumbai."
+                "With four decades of heritage, we've perfected the art of creating stunning turbans for weddings, engagements, and special ceremonies. From classic burgundy and gold safas to modern fusion designs, Safawala Delhi delivers premium quality, perfect fitting, and exceptional service across all of Delhi including Chandni Chowk, Connaught Place, Karol Bagh, Dwarka, Rohini, and Greater Kailash."
               }
             </p>
             <ul className="space-y-3">
@@ -113,7 +113,7 @@ export function AboutSection() {
                 "Expert turban consultation with samples",
                 "Traditional & modern wedding turban designs",
                 "Perfect safa styling for any event where turban is needed",
-                "Delivery & setup across Mumbai city",
+                "Delivery & setup across Delhi city",
               ].map((item, index) => (
                 <li key={index} className="flex items-start gap-3">
                   <div className="w-2 h-2 rounded-full bg-accent mt-2 flex-shrink-0" />

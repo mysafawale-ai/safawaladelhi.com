@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function DefenceColonyWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Defence Colony Wedding Turban Safa Feta Pagdi Service",
+    slug: "defence-colony-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Defence Colony, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Defence Colony, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

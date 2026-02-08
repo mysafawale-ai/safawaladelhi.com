@@ -1,16 +1,15 @@
-// Page data configuration for all Mumbai service pages
+// Page data configuration for all Delhi service pages
 // This file contains the data structure for generating service pages
 
-export const MUMBAI_AREAS = [
-  "South Mumbai", "Colaba", "Malabar Hill", "Bandra West", "Juhu", "Andheri West",
-  "Breach Candy", "Cuffe Parade", "Nariman Point", "Churchgate", "Parel", "Dadar West",
-  "Santacruz West", "Powai", "Vile Parle West", "Khar West", "Bandra East", "Andheri East",
-  "Borivali West", "Goregaon West", "Thane West", "Mulund West", "Chembur", "Kurla",
-  "Ghatkopar", "Malad West", "Kandivali West", "Borivali East", "Goregaon East",
-  "Kandivali East", "Malad East", "Sion", "Matunga", "Byculla", "Cumballa Hill",
-  "Lower Parel", "Bhandup", "Mulund East", "Kurla West", "Ghatkopar East", "Powai Hill",
-  "Vashi", "Nerul", "CBD Belapur", "Kharghar", "Panvel", "Mumbai Central", "Mumbai West",
-  "Mumbai East", "Mumbai Suburbs"
+export const DELHI_AREAS = [
+  "Chandni Chowk", "Connaught Place", "Dwarka", "Karol Bagh", "Lajpat Nagar", "Rohini",
+  "South Delhi", "Pitampura", "Janakpuri", "Rajouri Garden", "Saket", "Greater Kailash",
+  "Defence Colony", "Vasant Kunj", "Hauz Khas", "Green Park", "Malviya Nagar", "Nehru Place",
+  "Preet Vihar", "Shahdara", "Uttam Nagar", "Tilak Nagar", "Paschim Vihar", "Punjabi Bagh",
+  "Model Town", "Civil Lines", "Mayur Vihar", "East of Kailash", "Kalkaji", "Safdarjung",
+  "Vasant Vihar", "Chanakyapuri", "Laxmi Nagar", "Vikaspuri", "Naraina", "Patel Nagar",
+  "Kirti Nagar", "Rajendra Place", "Ashok Vihar", "Shalimar Bagh", "GTB Nagar", "Kamla Nagar",
+  "North Delhi", "West Delhi", "East Delhi", "Central Delhi"
 ]
 
 export const GALLERY_IMAGES = [
@@ -61,17 +60,17 @@ export function getMainImage(seed: number): string {
 // Base content generator
 export function generateBaseContent(keyword: string, keywordCapitalized: string): string {
   return `
-<h2>Welcome to Safawala Mumbai - Your Premier ${keywordCapitalized} Destination</h2>
+<h2>Welcome to Safawala Delhi - Your Premier ${keywordCapitalized} Destination</h2>
 
-<p>Are you searching for the perfect <strong>${keyword}</strong> for your wedding or special occasion? Look no further than Safawala Mumbai, the city's most trusted and experienced service provider for <strong>${keyword}</strong>. For over two decades, we have been the preferred choice for grooms, families, and wedding planners seeking authentic and beautifully crafted <strong>${keyword}</strong>. Our expertise combined with contemporary designs has made us Mumbai's leading specialists.</p>
+<p>Are you searching for the perfect <strong>${keyword}</strong> for your wedding or special occasion? Look no further than Safawala Delhi, the city's most trusted and experienced service provider for <strong>${keyword}</strong>. For over two decades, we have been the preferred choice for grooms, families, and wedding planners seeking authentic and beautifully crafted <strong>${keyword}</strong>. Our expertise combined with contemporary designs has made us Delhi's leading specialists.</p>
 
-<p>At Safawala Mumbai, we understand that <strong>${keyword}</strong> is not just about tradition – it's a symbol of honor and celebration. Whether you're a groom looking for the perfect <strong>${keyword}</strong> for your wedding day, or you need services for baraatis and family members, our team of expert specialists is here to serve you with excellence. We provide premium <strong>${keyword}</strong> service across all areas including Colaba, Bandra, Juhu, Andheri, Powai, Thane, and Navi Mumbai.</p>
+<p>At Safawala Delhi, we understand that <strong>${keyword}</strong> is not just about tradition – it's a symbol of honor and celebration. Whether you're a groom looking for the perfect <strong>${keyword}</strong> for your wedding day, or you need services for baraatis and family members, our team of expert specialists is here to serve you with excellence. We provide premium <strong>${keyword}</strong> service across all areas including Chandni Chowk, Connaught Place, Karol Bagh, Dwarka, Rohini, and Greater Kailash.</p>
 
 <h2>The Importance of ${keywordCapitalized}</h2>
 
 <p>The <strong>${keyword}</strong> holds immense cultural and traditional significance in Indian weddings. It represents respect, dignity, and honor. When you choose the right <strong>${keyword}</strong>, you're not just selecting headwear – you're embracing centuries of tradition while making a powerful style statement.</p>
 
-<p>In Mumbai, where weddings are grand celebrations, the <strong>${keyword}</strong> plays a crucial role in completing the groom's royal look. Whether it's a Marwari wedding in South Mumbai, a Gujarati celebration in Borivali, or a destination wedding in Juhu, the perfect <strong>${keyword}</strong> can transform the entire wedding aesthetic. That's why choosing an experienced service provider like Safawala Mumbai is essential.</p>
+<p>In Delhi, where weddings are grand celebrations, the <strong>${keyword}</strong> plays a crucial role in completing the groom's royal look. Whether it's a Marwari wedding in Chandni Chowk, a Punjabi celebration in Rajouri Garden, or a destination wedding at a farmhouse, the perfect <strong>${keyword}</strong> can transform the entire wedding aesthetic. That's why choosing an experienced service provider like Safawala Delhi is essential.</p>
 
 <h2>Our Premium ${keywordCapitalized} Services</h2>
 
@@ -84,10 +83,10 @@ export function generateBaseContent(keyword: string, keywordCapitalized: string)
 <h3>Family Packages</h3>
 <p>Make your family stand out with our special family <strong>${keyword}</strong> packages. We offer coordinated designs for the groom's family, creating a unified and regal appearance.</p>
 
-<h2>Why Choose Safawala Mumbai for ${keywordCapitalized}?</h2>
+<h2>Why Choose Safawala Delhi for ${keywordCapitalized}?</h2>
 
 <h3>20+ Years of Excellence</h3>
-<p>Our journey in providing <strong>${keyword}</strong> began over two decades ago. Since then, we have served thousands of weddings across Mumbai, perfecting our craft and building a reputation for excellence.</p>
+<p>Our journey in providing <strong>${keyword}</strong> began over two decades ago. Since then, we have served thousands of weddings across Delhi, perfecting our craft and building a reputation for excellence.</p>
 
 <h3>Expert Specialists</h3>
 <p>Our team consists of highly trained specialists who have mastered the art. They understand the nuances of different styles and can create the perfect <strong>${keyword}</strong> for any occasion.</p>
@@ -95,20 +94,20 @@ export function generateBaseContent(keyword: string, keywordCapitalized: string)
 <h3>Premium Quality Materials</h3>
 <p>We use only the finest fabrics for our <strong>${keyword}</strong> service. From rich silk to elegant cotton, our materials are sourced from trusted suppliers to ensure superior quality.</p>
 
-<h3>All Mumbai Areas Covered</h3>
-<p>We provide <strong>${keyword}</strong> service across the entire city. Whether you're in South Mumbai, Western Suburbs, Eastern Suburbs, or Navi Mumbai, our team reaches you with professional service.</p>
+<h3>All Delhi Areas Covered</h3>
+<p>We provide <strong>${keyword}</strong> service across the entire city. Whether you're in North Delhi, South Delhi, East Delhi, West Delhi, or NCR, our team reaches you with professional service.</p>
 
 <h2>Service Areas for ${keywordCapitalized}</h2>
 
-<p><strong>South Mumbai:</strong> Colaba, Cuffe Parade, Nariman Point, Churchgate, Marine Drive, Malabar Hill, Breach Candy</p>
+<p><strong>Central Delhi:</strong> Chandni Chowk, Connaught Place, Karol Bagh, Rajendra Place, Patel Nagar</p>
 
-<p><strong>Central Mumbai:</strong> Parel, Dadar, Matunga, Sion, Byculla, Lower Parel, Worli, Mumbai Central</p>
+<p><strong>South Delhi:</strong> Greater Kailash, Defence Colony, Hauz Khas, Saket, Vasant Kunj, Green Park, Malviya Nagar</p>
 
-<p><strong>Western Suburbs:</strong> Bandra, Khar, Santacruz, Juhu, Andheri, Vile Parle, Goregaon, Malad, Kandivali, Borivali</p>
+<p><strong>West Delhi:</strong> Dwarka, Janakpuri, Rajouri Garden, Punjabi Bagh, Paschim Vihar, Vikaspuri, Uttam Nagar</p>
 
-<p><strong>Eastern Suburbs:</strong> Chembur, Kurla, Ghatkopar, Mulund, Bhandup, Powai</p>
+<p><strong>North Delhi:</strong> Rohini, Pitampura, Model Town, Civil Lines, Ashok Vihar, Shalimar Bagh</p>
 
-<p><strong>Navi Mumbai:</strong> Vashi, Nerul, CBD Belapur, Kharghar, Panvel</p>
+<p><strong>East Delhi:</strong> Preet Vihar, Mayur Vihar, Laxmi Nagar, Shahdara, Kalkaji</p>
 
 <h2>How to Book ${keywordCapitalized}</h2>
 
@@ -128,14 +127,14 @@ export function generateBaseContent(keyword: string, keywordCapitalized: string)
 <li>Bulk Bookings: Special discounts available</li>
 </ul>
 
-<h2>Contact Safawala Mumbai for ${keywordCapitalized}</h2>
+<h2>Contact Safawala Delhi for ${keywordCapitalized}</h2>
 
 <p><strong>Phone:</strong> +91-9725295692<br/>
 <strong>WhatsApp:</strong> +91-9725295692<br/>
-<strong>Email:</strong> info@safawalamumbai.com<br/>
-<strong>Address:</strong> Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway, Mumbai - 400001</p>
+<strong>Email:</strong> info@safawaladelhi.com<br/>
+<strong>Address:</strong> Shop No. 15, Ground Floor, Near Red Fort, Chandni Chowk, Delhi - 110006</p>
 
-<p>Experience the finest <strong>${keyword}</strong> with Safawala Mumbai. Book today!</p>
+<p>Experience the finest <strong>${keyword}</strong> with Safawala Delhi. Book today!</p>
   `
 }
 
@@ -148,15 +147,15 @@ export function generateFAQs(keyword: string) {
     },
     {
       question: `Do you provide on-site service for ${keyword}?`,
-      answer: `Yes, we provide on-site ${keyword} service at your venue across all Mumbai areas.`,
+      answer: `Yes, we provide on-site ${keyword} service at your venue across all Delhi areas.`,
     },
     {
       question: `How early should I book ${keyword}?`,
       answer: `We recommend booking your ${keyword} at least 2-3 weeks in advance. Peak season requires earlier booking.`,
     },
     {
-      question: `What areas in Mumbai do you serve for ${keyword}?`,
-      answer: `We provide ${keyword} service across all Mumbai including South Mumbai, Bandra, Juhu, Andheri, Powai, Thane, and Navi Mumbai.`,
+      question: `What areas in Delhi do you serve for ${keyword}?`,
+      answer: `We provide ${keyword} service across all Delhi including Chandni Chowk, Connaught Place, Karol Bagh, Dwarka, Rohini, Greater Kailash, and NCR.`,
     },
     {
       question: `Can you customize designs for ${keyword}?`,
@@ -173,12 +172,12 @@ export function generateFAQs(keyword: string) {
 export function generateKeyFeatures(keyword: string): string[] {
   return [
     `Expert ${keyword} specialists with 20+ years of experience`,
-    `Authentic traditional techniques for Mumbai weddings`,
+    `Authentic traditional techniques for Delhi weddings`,
     `Customized ${keyword} designs for your wedding theme`,
-    `Quick and professional service on wedding day across Mumbai`,
+    `Quick and professional service on wedding day across Delhi`,
     `Perfect fit with maximum comfort guaranteed`,
     `Affordable ${keyword} pricing for individual or group bookings`,
-    `On-call service available across all Mumbai areas`,
+    `On-call service available across all Delhi areas`,
     `100% satisfaction guaranteed with quality materials`,
   ]
 }

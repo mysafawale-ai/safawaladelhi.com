@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function EastOfKailashWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "East Of Kailash Wedding Turban Safa Feta Pagdi Service",
+    slug: "east-of-kailash-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in East Of Kailash, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in East Of Kailash, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

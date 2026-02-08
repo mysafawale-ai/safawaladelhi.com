@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function RajwadiSafaInDelhiPage() {
   const pageData = {
     title: "Royal courts Safa in Delhi",
+    slug: "rajwadi-safa-in-delhi",
     shortDescription: "Looking for premium safa in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium safa service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

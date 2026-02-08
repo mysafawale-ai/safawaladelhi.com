@@ -119,7 +119,7 @@ export function HeroSlider() {
                   <div className="mb-3 pb-3 border-b border-border">
                     <p className="text-xs text-accent font-mono uppercase tracking-wider mb-1">Quick Response</p>
                     <h3 className="text-xs sm:text-sm md:text-base font-bold text-card-foreground">
-                      Professional Safa Tying Service in Mumbai
+                      Professional Safa Tying Service in Delhi
                       <br />
                       <em className="text-xs not-italic">— 1 Hour Response Time</em>
                     </h3>
@@ -161,7 +161,7 @@ export function HeroSlider() {
                       <Input
                         id="eventCity"
                         type="text"
-                        placeholder="Mumbai, Thane..."
+                        placeholder="Delhi, Noida..."
                         value={formData.eventCity}
                         onChange={(e) => setFormData({ ...formData, eventCity: e.target.value })}
                         required

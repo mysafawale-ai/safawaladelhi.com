@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function HauzKhasWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Hauz Khas Wedding Turban Safa Feta Pagdi Service",
+    slug: "hauz-khas-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Hauz Khas, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Hauz Khas, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

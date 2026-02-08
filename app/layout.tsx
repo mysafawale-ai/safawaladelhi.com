@@ -19,14 +19,14 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Premium Wedding Turbans in Mumbai | Safawala Mumbai Safa & Pagdi Services | Expert Service",
+  title: "Premium Wedding Turbans in Delhi | Safawala Delhi Safa & Pagdi Services | Expert Service",
   description:
-    "Safawala Mumbai - Mumbai's most trusted wedding turban specialists since 2004. Expert safa, pagdi, feta & sehra tying. Master specialists, same-day service, all Mumbai areas. Free consultation. Book now: +91-9725295692",
+    "Safawala Delhi - Delhi's most trusted wedding turban specialists since 2004. Expert safa, pagdi, feta & sehra tying. Master specialists, same-day service, all Delhi areas. Free consultation. Book now: +91-9725295692",
   keywords:
-    "wedding turban Mumbai, safa Mumbai, pagdi tying service Mumbai, groom turban Mumbai, wedding safa Mumbai, turban tying Mumbai, best turban service Mumbai, safa tying service Mumbai, pagdi design Mumbai, feta tying Mumbai, sehra Mumbai, barati safa Mumbai, groom styling Mumbai, turban specialist Mumbai, traditional turban Mumbai, custom wedding turban Mumbai, turban tying near me Mumbai, wedding turban price Mumbai, turban on rent Mumbai, destination wedding turban Mumbai, turban booking Mumbai, same day turban service Mumbai",
-  authors: [{ name: "Safawala Mumbai Wedding Turbans" }],
-  creator: "Safawala Mumbai Wedding Turbans",
-  publisher: "Safawala Mumbai Wedding Turbans",
+    "wedding turban Delhi, safa Delhi, pagdi tying service Delhi, groom turban Delhi, wedding safa Delhi, turban tying Delhi, best turban service Delhi, safa tying service Delhi, pagdi design Delhi, feta tying Delhi, sehra Delhi, barati safa Delhi, groom styling Delhi, turban specialist Delhi, traditional turban Delhi, custom wedding turban Delhi, turban tying near me Delhi, wedding turban price Delhi, turban on rent Delhi, destination wedding turban Delhi, turban booking Delhi, same day turban service Delhi",
+  authors: [{ name: "Safawala Delhi Wedding Turbans" }],
+  creator: "Safawala Delhi Wedding Turbans",
+  publisher: "Safawala Delhi Wedding Turbans",
   icons: {
     icon: "/image.png",
     shortcut: "/image.png",
@@ -37,39 +37,39 @@ export const metadata: Metadata = {
     address: true,
     telephone: true,
   },
-  metadataBase: new URL("https://safawalamumbai.com"),
+  metadataBase: new URL("https://safawaladelhi.com"),
   alternates: {
-    canonical: "https://safawalamumbai.com",
+    canonical: "https://safawaladelhi.com",
     languages: {
-      "hi-IN": "https://safawalamumbai.com/hi",
-      "en-IN": "https://safawalamumbai.com/en",
-      "mr-IN": "https://safawalamumbai.com/mr",
+      "hi-IN": "https://safawaladelhi.com/hi",
+      "en-IN": "https://safawaladelhi.com/en",
+      "pa-IN": "https://safawaladelhi.com/pa",
     },
   },
   openGraph: {
-    title: "Premium Wedding Turbans in Mumbai | Safawala Mumbai Professional Service",
+    title: "Premium Wedding Turbans in Delhi | Safawala Delhi Professional Service",
     description:
-      "Expert safa, pagdi, feta & sehra tying for grooms, baraatis & destination weddings. Master specialists, same-day service, all Mumbai areas covered.",
-    url: "https://safawalamumbai.com",
-    siteName: "Safawala Mumbai Wedding Turbans",
+      "Expert safa, pagdi, feta & sehra tying for grooms, baraatis & destination weddings. Master specialists, same-day service, all Delhi areas covered.",
+    url: "https://safawaladelhi.com",
+    siteName: "Safawala Delhi Wedding Turbans",
     locale: "en_IN",
     type: "website",
     images: [
       {
-        url: "https://safawalamumbai.com/SAFAWALA%20LOGO.png",
+        url: "https://safawaladelhi.com/SAFAWALA%20LOGO.png",
         width: 1200,
         height: 630,
-        alt: "Safawala Mumbai - Premium Wedding Turbans & Safa Service in Mumbai",
+        alt: "Safawala Delhi - Premium Wedding Turbans & Safa Service in Delhi",
         type: "image/png",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Safawala Mumbai - Wedding Turbans Mumbai | Expert Safa & Pagdi Service",
-    description: "20+ years of heritage. Master specialists, same-day service, premium quality, all Mumbai areas.",
-    images: ["https://safawalamumbai.com/SAFAWALA%20LOGO.png"],
-    creator: "@safawalamumbai",
+    title: "Safawala Delhi - Wedding Turbans Delhi | Expert Safa & Pagdi Service",
+    description: "20+ years of heritage. Master specialists, same-day service, premium quality, all Delhi areas.",
+    images: ["https://safawaladelhi.com/SAFAWALA%20LOGO.png"],
+    creator: "@safawaladelhi",
   },
   robots: {
     index: true,
@@ -88,12 +88,12 @@ export const metadata: Metadata = {
     yandex: "your-yandex-verification-code",
   },
   category: "Wedding Services",
-  classification: "Wedding Turban & Safa Service Mumbai",
-  applicationName: "Safawala Mumbai Wedding Turbans",
+  classification: "Wedding Turban & Safa Service Delhi",
+  applicationName: "Safawala Delhi Wedding Turbans",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "Safawala Mumbai Wedding Turbans",
+    title: "Safawala Delhi Wedding Turbans",
   },
   generator: "Next.js",
 }

@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function PitampuraSafaServicePage() {
   const pageData = {
     title: "Pitampura Wedding Turban Safa Feta Pagdi Service",
+    slug: "pitampura-safa-service",
     shortDescription: "Looking for premium wedding turban in Pitampura, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Pitampura, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

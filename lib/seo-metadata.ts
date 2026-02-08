@@ -1,56 +1,55 @@
 /**
- * SEO Metadata and Structured Data for Safawala Mumbai
- * Local SEO optimization for Mumbai wedding turban services
+ * SEO Metadata and Structured Data for Safawala Delhi
+ * Local SEO optimization for Delhi wedding turban services
  */
 
-export const MUMBAI_AREAS = [
-  "South Mumbai", "Colaba", "Malabar Hill", "Bandra West", "Juhu", "Andheri West",
-  "Breach Candy", "Cuffe Parade", "Nariman Point", "Churchgate", "Parel", "Dadar West",
-  "Santacruz West", "Powai", "Vile Parle West", "Khar West", "Bandra East", "Andheri East",
-  "Borivali West", "Goregaon West", "Thane West", "Mulund West", "Chembur", "Kurla",
-  "Ghatkopar", "Malad West", "Kandivali West", "Borivali East", "Goregaon East",
-  "Kandivali East", "Malad East", "Sion", "Matunga", "Byculla", "Cumballa Hill",
-  "Lower Parel", "Bhandup", "Mulund East", "Kurla West", "Ghatkopar East", "Powai Hill",
-  "Vashi", "Nerul", "CBD Belapur", "Kharghar", "Panvel", "Mumbai Central", "Mumbai West",
-  "Mumbai East", "Mumbai Suburbs"
+export const DELHI_AREAS = [
+  "Chandni Chowk", "Connaught Place", "Dwarka", "Karol Bagh", "Lajpat Nagar", "Rohini",
+  "South Delhi", "Pitampura", "Janakpuri", "Rajouri Garden", "Saket", "Greater Kailash",
+  "Defence Colony", "Vasant Kunj", "Hauz Khas", "Green Park", "Malviya Nagar", "Nehru Place",
+  "Preet Vihar", "Shahdara", "Uttam Nagar", "Tilak Nagar", "Paschim Vihar", "Punjabi Bagh",
+  "Model Town", "Civil Lines", "Mayur Vihar", "East of Kailash", "Kalkaji", "Safdarjung",
+  "Vasant Vihar", "Chanakyapuri", "Laxmi Nagar", "Vikaspuri", "Naraina", "Patel Nagar",
+  "Kirti Nagar", "Rajendra Place", "Ashok Vihar", "Shalimar Bagh", "GTB Nagar", "Kamla Nagar",
+  "North Delhi", "West Delhi", "East Delhi", "Central Delhi"
 ]
 
 export const LOCAL_BUSINESS_SCHEMA = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://safawalamumbai.com",
-  name: "Safawala Mumbai - Premium Wedding Turban Service Mumbai",
-  image: "https://safawalamumbai.com/SAFAWALA LOGO.png",
-  description: "Mumbai's most trusted wedding turban specialists with 20+ years of heritage. Expert safa, pagdi, feta & sehra tying for grooms and baraatis across all Mumbai areas.",
-  url: "https://safawalamumbai.com",
+  "@id": "https://safawaladelhi.com",
+  name: "Safawala Delhi - Premium Wedding Turban Service Delhi",
+  image: "https://safawaladelhi.com/SAFAWALA LOGO.png",
+  description: "Delhi's most trusted wedding turban specialists with 20+ years of heritage. Expert safa, pagdi, feta & sehra tying for grooms and baraatis across all Delhi areas.",
+  url: "https://safawaladelhi.com",
   telephone: "+91-9725295692",
-  email: "info@safawalamumbai.com",
-  alternateName: ["Safawala Mumbai", "Safawala Wedding Turbans Mumbai", "Pagdi Tying Mumbai", "Safa Service Mumbai", "Turban Service Mumbai"],
+  email: "info@safawaladelhi.com",
+  alternateName: ["Safawala Delhi", "Safawala Wedding Turbans Delhi", "Pagdi Tying Delhi", "Safa Service Delhi", "Turban Service Delhi"],
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway",
-    addressLocality: "Mumbai",
-    addressRegion: "Maharashtra",
-    postalCode: "400001",
+    streetAddress: "Shop No. 15, Ground Floor, Near Red Fort, Chandni Chowk",
+    addressLocality: "Delhi",
+    addressRegion: "Delhi",
+    postalCode: "110006",
     addressCountry: "IN",
   },
   geo: {
     "@type": "GeoCoordinates",
-    latitude: "18.9220",
-    longitude: "72.8347",
+    latitude: "28.6562",
+    longitude: "77.2310",
   },
   priceRange: "₹500-₹5000",
   areaServed: [
     {
       "@type": "City",
-      name: "Mumbai",
-      areaServed: MUMBAI_AREAS
+      name: "Delhi",
+      areaServed: DELHI_AREAS
     }
   ],
   serviceArea: {
     "@type": "City",
-    name: "Mumbai",
-    areaServed: MUMBAI_AREAS
+    name: "Delhi",
+    areaServed: DELHI_AREAS
   },
   aggregateRating: {
     "@type": "AggregateRating",
@@ -59,10 +58,10 @@ export const LOCAL_BUSINESS_SCHEMA = {
     bestRating: "5",
     worstRating: "1",
   },
-  hasMap: "https://maps.google.com/?q=Safawala+Mumbai+Colaba",
+  hasMap: "https://maps.google.com/?q=Safawala+Delhi+Chandni+Chowk",
   sameAs: [
-    "https://www.facebook.com/safawalamumbai/",
-    "https://www.instagram.com/safawalamumbai/",
+    "https://www.facebook.com/safawaladelhi/",
+    "https://www.instagram.com/safawaladelhi/",
     "https://wa.me/919725295692",
   ],
   foundingDate: "2004",
@@ -101,21 +100,21 @@ export const LOCAL_BUSINESS_SCHEMA = {
 export const ORGANIZATION_SCHEMA = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Safawala Mumbai",
-  url: "https://safawalamumbai.com",
-  logo: "https://safawalamumbai.com/SAFAWALA LOGO.png",
-  description: "Premium wedding turban service in Mumbai with 20+ years of heritage serving all areas of Mumbai",
+  name: "Safawala Delhi",
+  url: "https://safawaladelhi.com",
+  logo: "https://safawaladelhi.com/SAFAWALA LOGO.png",
+  description: "Premium wedding turban service in Delhi with 20+ years of heritage serving all areas of Delhi",
   sameAs: [
-    "https://www.facebook.com/safawalamumbai/",
-    "https://www.instagram.com/safawalamumbai/",
+    "https://www.facebook.com/safawaladelhi/",
+    "https://www.instagram.com/safawaladelhi/",
   ],
   contactPoint: {
     "@type": "ContactPoint",
     contactType: "customer service",
     telephone: "+91-9725295692",
-    email: "info@safawalamumbai.com",
+    email: "info@safawaladelhi.com",
     areaServed: "IN",
-    availableLanguage: ["hi", "en", "mr"],
+    availableLanguage: ["hi", "en", "pa"],
   },
 }
 
@@ -125,42 +124,42 @@ export const FAQ_SCHEMA = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the best turban service in Mumbai?",
+      name: "What is the best turban service in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Safawala Mumbai is Mumbai's most trusted turban service with 20+ years of heritage. We offer expert safa, pagdi, feta & sehra tying with master specialists across all Mumbai areas including Colaba, Bandra, Juhu, Andheri, and more.",
+        text: "Safawala Delhi is Delhi's most trusted turban service with 20+ years of heritage. We offer expert safa, pagdi, feta & sehra tying with master specialists across all Delhi areas including Chandni Chowk, Connaught Place, Karol Bagh, Dwarka, and more.",
       },
     },
     {
       "@type": "Question",
-      name: "How much does turban tying service cost in Mumbai?",
+      name: "How much does turban tying service cost in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Our turban tying service in Mumbai ranges from ₹500-₹5000 depending on the type of turban, fabric, and complexity. We offer competitive pricing with premium quality for all Mumbai locations.",
+        text: "Our turban tying service in Delhi ranges from ₹500-₹5000 depending on the type of turban, fabric, and complexity. We offer competitive pricing with premium quality for all Delhi locations.",
       },
     },
     {
       "@type": "Question",
-      name: "Do you provide same-day turban service in Mumbai?",
+      name: "Do you provide same-day turban service in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, we provide same-day turban tying service across Mumbai including South Mumbai, Western Suburbs, Eastern Suburbs, and Navi Mumbai. Contact us at +91-9725295692 or WhatsApp for instant booking.",
+        text: "Yes, we provide same-day turban tying service across Delhi including North Delhi, South Delhi, East Delhi, West Delhi, and NCR regions. Contact us at +91-9725295692 or WhatsApp for instant booking.",
       },
     },
     {
       "@type": "Question",
-      name: "What areas of Mumbai do you serve?",
+      name: "What areas of Delhi do you serve?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "We serve all major areas of Mumbai including Colaba, Bandra, Juhu, Andheri, Powai, Thane, Vashi, Navi Mumbai, Borivali, Goregaon, Malad, Kandivali, and all other areas.",
+        text: "We serve all major areas of Delhi including Chandni Chowk, Connaught Place, Karol Bagh, Dwarka, Rohini, Pitampura, Greater Kailash, Defence Colony, Vasant Kunj, and all other areas.",
       },
     },
     {
       "@type": "Question",
-      name: "Can you customize turban designs in Mumbai?",
+      name: "Can you customize turban designs in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, we offer fully customized turban designs in Mumbai. Our specialists will work with you to create the perfect design matching your preferences and wedding theme.",
+        text: "Yes, we offer fully customized turban designs in Delhi. Our specialists will work with you to create the perfect design matching your preferences and wedding theme.",
       },
     },
   ],
@@ -185,13 +184,13 @@ export const PRODUCT_SCHEMA = (serviceName: string, serviceUrl: string, descript
   description: description,
   provider: {
     "@type": "LocalBusiness",
-    name: "Safawala Mumbai",
-    url: "https://safawalamumbai.com",
+    name: "Safawala Delhi",
+    url: "https://safawaladelhi.com",
     telephone: "+91-9725295692",
   },
   areaServed: {
     "@type": "City",
-    name: "Mumbai",
+    name: "Delhi",
   },
   priceRange: price,
   aggregateRating: {
@@ -201,17 +200,17 @@ export const PRODUCT_SCHEMA = (serviceName: string, serviceUrl: string, descript
   },
 })
 
-export const MumbaiLocalizations = {
-  mumbai: {
-    name: "Mumbai",
-    region: "Maharashtra",
+export const DelhiLocalizations = {
+  delhi: {
+    name: "Delhi",
+    region: "Delhi",
     country: "India",
-    neighborhoods: MUMBAI_AREAS,
-    landmarks: ["Gateway of India", "Marine Drive", "Bandra Worli Sea Link", "Taj Mahal Palace", "Siddhivinayak Temple"],
+    neighborhoods: DELHI_AREAS,
+    landmarks: ["Red Fort", "India Gate", "Qutub Minar", "Lotus Temple", "Akshardham Temple"],
   }
 }
 
-// Dynamic SEO metadata generator for Mumbai
+// Dynamic SEO metadata generator for Delhi
 export function generateServiceMetadata(
   serviceName: string,
   serviceDescription: string,
@@ -219,21 +218,21 @@ export function generateServiceMetadata(
   slug: string
 ) {
   return {
-    title: `${serviceName} in Mumbai | Expert Service | Safawala Mumbai`,
-    description: `${serviceDescription} Get professional ${serviceName.toLowerCase()} service in Mumbai by Safawala Mumbai. Experienced specialists, premium quality, same-day service available across all Mumbai areas.`,
+    title: `${serviceName} in Delhi | Expert Service | Safawala Delhi`,
+    description: `${serviceDescription} Get professional ${serviceName.toLowerCase()} service in Delhi by Safawala Delhi. Experienced specialists, premium quality, same-day service available across all Delhi areas.`,
     keywords: [
       ...keywords,
-      `${serviceName.toLowerCase()} mumbai`,
-      "wedding turban service mumbai",
-      "safa tying mumbai",
-      "pagdi service mumbai",
-      "groom styling mumbai",
-      "turban specialist mumbai",
+      `${serviceName.toLowerCase()} delhi`,
+      "wedding turban service delhi",
+      "safa tying delhi",
+      "pagdi service delhi",
+      "groom styling delhi",
+      "turban specialist delhi",
     ].join(", "),
     openGraph: {
-      title: `${serviceName} in Mumbai - Safawala Mumbai Professional Service`,
-      description: `Expert ${serviceName.toLowerCase()} with master specialists. Same-day service, premium quality, all Mumbai areas.`,
-      url: `https://safawalamumbai.com/${slug}`,
+      title: `${serviceName} in Delhi - Safawala Delhi Professional Service`,
+      description: `Expert ${serviceName.toLowerCase()} with master specialists. Same-day service, premium quality, all Delhi areas.`,
+      url: `https://safawaladelhi.com/${slug}`,
       type: "website",
     },
   }

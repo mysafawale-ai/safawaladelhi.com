@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function CivilLinesWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Civil Lines Wedding Turban Safa Feta Pagdi Service",
+    slug: "civil-lines-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Civil Lines, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Civil Lines, Delhi by Safawala Delhi.",
     mainImage: "/1.png",

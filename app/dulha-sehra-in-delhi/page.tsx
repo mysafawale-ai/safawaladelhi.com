@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function DulhaSehraInDelhiPage() {
   const pageData = {
     title: "Dulha (Groom) Sehra in Delhi",
+    slug: "dulha-sehra-in-delhi",
     shortDescription: "Looking for premium sehra in Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium sehra service in Delhi by Safawala Delhi.",
     mainImage: "/1.png",

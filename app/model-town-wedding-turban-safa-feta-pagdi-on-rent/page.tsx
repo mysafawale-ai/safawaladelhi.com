@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function ModelTownWeddingTurbanSafaFetaPagdiOnRentPage() {
   const pageData = {
     title: "Model Town Wedding Turban Safa Feta Pagdi Service",
+    slug: "model-town-wedding-turban-safa-feta-pagdi-on-rent",
     shortDescription: "Looking for premium wedding turban in Model Town, Delhi? Safawala Delhi is your trusted partner for authentic turban service. Our expert specialists bring 40+ years of heritage to make your special day truly memorable.",
     description: "Premium wedding turban service in Model Town, Delhi by Safawala Delhi.",
     mainImage: "/1.png",
